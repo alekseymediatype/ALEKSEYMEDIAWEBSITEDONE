@@ -2027,7 +2027,8 @@ function initLoaderShaderBackground() {
   }
 
   canvas.style.backgroundColor = '#120f0c';
-  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, 2));
+  const isMobile = window.innerWidth < 981;
+  renderer.setPixelRatio(Math.min(window.devicePixelRatio || 1, isMobile ? 1 : 2));
   renderer.setClearColor(new THREE.Color(0x120f0c), 1);
 
   const scene = new THREE.Scene();
@@ -2424,6 +2425,7 @@ function initWorkGallery() {
   const startPreviewRotation = () => {
     stopPreviewRotation();
     if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+    if (window.innerWidth < 981) return;
 
     const rotationToken = previewRotationToken;
     const hasRotatingCards = cards.some((card) => {
@@ -5596,6 +5598,7 @@ setupLanguageFadeTargets();
 /* Ethereal shadow background */
 (function initShaderBackground(){
   if (document.getElementById('ethereal-bg')) return;
+  if (window.innerWidth < 981) return;
 
   document.body.insertAdjacentHTML('afterbegin', `
     <div id="ethereal-bg" aria-hidden="true">
@@ -5653,11 +5656,14 @@ setupLanguageFadeTargets();
     if (hueRotateEl) {
       hueRotateEl.setAttribute('values', String(rotation));
     }
+    if (window.innerWidth < 981) return;
     frameId = window.requestAnimationFrame(animate);
   };
 
-  document.body.classList.add('shader-bg-ready');
-  frameId = window.requestAnimationFrame(animate);
+  if (window.innerWidth >= 981) {
+    document.body.classList.add('shader-bg-ready');
+    frameId = window.requestAnimationFrame(animate);
+  }
 
   window.addEventListener('beforeunload', () => {
     if (frameId) window.cancelAnimationFrame(frameId);

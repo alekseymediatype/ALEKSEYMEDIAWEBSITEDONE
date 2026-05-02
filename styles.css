@@ -8584,6 +8584,103 @@ body.merch-page-view::before{
   transform: translateY(-100%);
 }
 
+/* ============================================================
+   MOBILE PERFORMANCE — disable heavy GPU effects
+   ============================================================ */
+@media (max-width: 980px) {
+  .topbar { backdrop-filter: none !important; -webkit-backdrop-filter: none !important; }
+  .pill, .lang-btn, .btn, .submit, .lang-switch,
+  .hero-card, .stat, .service, .merch-card, .cap-card,
+  .works-detail-panel, .gallery-desktop-info,
+  .order-step-chip, .works-mobile-toggle, .delivery-option,
+  .gallery-project-info-toggle, .payment-method-card,
+  .order-form-wrap, .order-step-card, .gallery-backdrop,
+  .product-modal-backdrop {
+    backdrop-filter: none !important;
+    -webkit-backdrop-filter: none !important;
+  }
+
+  .work {
+    transform-style: flat !important;
+    animation: none !important;
+    transform: none !important;
+    will-change: auto !important;
+  }
+
+  .work-gallery-cover,
+  .work-gallery-cover-next {
+    animation: none !important;
+    transform: scale(1.03) translate3d(0, 0, 0) !important;
+    will-change: auto !important;
+  }
+
+  .work-gallery-card {
+    box-shadow: 0 8px 24px rgba(0,0,0,.24) !important;
+  }
+
+  .pill, .lang-btn, .btn, .submit {
+    box-shadow: 0 6px 18px rgba(0,0,0,.18) !important;
+  }
+
+  .hero-card {
+    box-shadow: 0 10px 28px rgba(0,0,0,.22) !important;
+  }
+
+  .ethereal-bg-layer {
+    animation: none !important;
+  }
+
+  .ethereal-bg-noise {
+    animation: none !important;
+  }
+
+  .ticker-track {
+    animation-duration: 80s !important;
+  }
+
+  .merch-card {
+    transform-style: flat !important;
+    animation: none !important;
+    transform: none !important;
+  }
+
+  .merch-card::before,
+  .gallery-desktop-instagram::before {
+    animation: none !important;
+    display: none !important;
+  }
+
+  body::after { display: none !important; }
+
+  #ethereal-bg { display: none !important; }
+
+  .scroll-letter-char {
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+    animation: none !important;
+    will-change: auto !important;
+  }
+
+  .brand-letter {
+    opacity: 1 !important;
+    transform: none !important;
+    filter: none !important;
+    animation: none !important;
+    will-change: auto !important;
+  }
+
+  .service {
+    will-change: auto !important;
+    transform: none !important;
+  }
+
+  .service:hover {
+    --service-hover-y: 0 !important;
+    --service-hover-rotate: 0 !important;
+  }
+}
+
 body.anchor-scrolling .topbar{
   transform:none !important;
 }
