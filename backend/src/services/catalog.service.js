@@ -82,6 +82,22 @@ function getVariantImages(variantId, allImages) {
   return uniqueImages(specific.length ? specific : allImages);
 }
 
+const priceOverrides = {
+  'cap-1': 3599,
+};
+
+function applyPriceOverrides(product) {
+  const override = priceOverrides[product.id];
+  if (!override) return product;
+
+  product.variants.forEach((variant) => {
+    variant.price = override;
+  });
+  product.priceRange.min = override;
+  product.priceRange.max = override;
+  return product;
+}
+
 function normalizeProduct(product) {
   const options = Array.isArray(product.options) ? product.options.map(normalizeOption) : [];
   const images = uniqueImages(Array.isArray(product.images) ? product.images.map(normalizeImage) : []);
@@ -104,7 +120,7 @@ function normalizeProduct(product) {
 
   const prices = variants.map((variant) => variant.price).filter((value) => Number.isFinite(value));
 
-  return {
+  const normalized = {
     id: String(product.id),
     title: product.title,
     description: stripHtml(product.description || ''),
@@ -125,6 +141,8 @@ function normalizeProduct(product) {
     },
     updatedAt: product.updated_at,
   };
+
+  return applyPriceOverrides(normalized);
 }
 
 export async function listCatalogProducts({ page = 1, limit = 24 } = {}) {

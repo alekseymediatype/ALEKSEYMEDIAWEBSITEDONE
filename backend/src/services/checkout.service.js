@@ -54,7 +54,17 @@ async function resolvePromoDiscount(subtotalAmount, promoCode) {
   };
 }
 
+function getSizeExtra(product, variant) {
+  if (product.id === 'cap-3') {
+    const size = getVariantOption(variant, 'size')?.value || '';
+    if (size === '2XL') return 261;
+  }
+  return 0;
+}
+
 function buildProductSnapshot(product, variant, quantity) {
+  const sizeExtra = getSizeExtra(product, variant);
+  const unitAmount = variant.price + sizeExtra;
   return {
     productId: product.id,
     variantId: variant.id,
@@ -65,8 +75,8 @@ function buildProductSnapshot(product, variant, quantity) {
     optionSize: getVariantOption(variant, 'size')?.value || '',
     imageUrl: variant.images[0]?.src || product.thumbnail,
     quantity,
-    unitAmount: variant.price,
-    totalAmount: variant.price * quantity,
+    unitAmount,
+    totalAmount: unitAmount * quantity,
   };
 }
 
@@ -74,6 +84,7 @@ export async function buildCheckoutQuote(input) {
   const product = await getCatalogProduct(input.productId);
   const variant = requireAvailableVariant(product, input.variantId);
   const quantity = Number(input.quantity || 1);
+  const sizeExtra = getSizeExtra(product, variant);
 
   const shipping = await getShippingQuote({
     product,
@@ -82,7 +93,7 @@ export async function buildCheckoutQuote(input) {
     country: input.country,
   });
 
-  const subtotalAmount = variant.price * quantity;
+  const subtotalAmount = variant.price * quantity + sizeExtra * quantity;
   const promo = await resolvePromoDiscount(subtotalAmount, input.promoCode);
   const totalAmount = subtotalAmount - promo.discountAmount + shipping.amount;
 

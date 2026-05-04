@@ -1,14 +1,26 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="lv">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AlekseyMedia | Merch</title>
   <style>
-    html, body { background: #120f0c; color: #f4eadb; }
+    html, body { color: #f4eadb; }
     body { margin: 0; }
   </style>
   <script>
+    (function(){
+      let lang = 'lv';
+      try {
+        var nav = performance.getEntriesByType && performance.getEntriesByType('navigation')[0];
+        if (nav && nav.type === 'reload') {
+          localStorage.removeItem('alekseymedia_lang');
+        } else {
+          lang = localStorage.getItem('alekseymedia_lang') || 'lv';
+        }
+      } catch(e) {}
+      document.documentElement.lang = lang;
+    })();
     if ('scrollRestoration' in history) {
       history.scrollRestoration = 'manual';
     }
@@ -17,7 +29,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="icon" type="image/png" href="IMAGES/Favicon/favicon-edited-blue-rounded.png" />
   <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;700;800&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260425-02" />
+  <link rel="stylesheet" href="styles.css?v=20260504-163819" />
 </head>
 <body class="merch-page-view">
   <canvas id="merch-shader-bg" aria-hidden="true"></canvas>
@@ -93,12 +105,12 @@
               <div class="cap-copy">
                 <div class="cap-item-type" data-i18n="merch_item_type">Кепка</div>
                 <h2 data-i18n="cap_1_title">Life is a moment. Don't miss it.</h2>
-                <p class="cap-price cap-price-sale"><span class="cap-price-old">35,79 EUR</span><span class="cap-price-current">29,99 EUR</span></p>
+                <p class="cap-price cap-price-sale"><span class="cap-price-old">40,99 EUR</span><span class="cap-price-current">35,99 EUR</span></p>
                 <p class="cap-detail-copy" hidden data-i18n="cap_1_detail">Жизнь быстрая — не упусти момент. Лимитированная кепка из merch drop с чистым силуэтом и выразительным характером. Она собирает образ и становится главным акцентом. Не откладывай — время не ждет.</p>
               </div>
             </article>
 
-            <article class="cap-card cap-card-dark reveal reveal-up" data-product-card tabindex="0" role="button" data-product-title="Life is a moment. Don't miss it." data-product-image="IMAGES/KOFTABLACK/Front, Black.jpg" data-product-buy="order.html?product=cap-3" data-product-sizes="S|M|L|XL|2XL">
+            <article class="cap-card cap-card-dark reveal reveal-up" data-product-card tabindex="0" role="button" data-product-title="Life is a moment. Don't miss it." data-product-image="IMAGES/KOFTABLACK/Front, Black.jpg" data-product-buy="order.html?product=cap-3" data-product-sizes="S|M|L|XL|2XL" data-size-extra='{"2XL":2.61}'>
               <div class="cap-card-meta">
                 <div class="section-kicker white" data-i18n="item_3_kicker">ПРОДУКТ 2</div>
                 <div class="availability-badge" data-i18n="merch_available">В наличии</div>
@@ -192,7 +204,7 @@
           </div>
 
           <div class="merch-page-actions">
-            <a class="pill" href="index.html#merch" data-i18n="merch_page_back" data-skip-loader="true">← Назад</a>
+            <a class="pill" href="index.html#merch" data-i18n="merch_page_back" data-skip-loader="true" data-animate-pulse>← Назад</a>
           </div>
         </div>
       </div>
@@ -210,6 +222,6 @@
   </main>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-  <script src="script.js?v=20260425-03"></script>
+  <script src="script.js?v=20260504-163819"></script>
 </body>
 </html>

@@ -471,6 +471,11 @@ async function initProductPage() {
       }
     };
 
+    const getSizeExtra = (sizeValue) => {
+      if (product.id === 'cap-3' && sizeValue === '2XL') return 261;
+      return 0;
+    };
+
     const render = () => {
       if (!selectedVariant) {
         setStatus(status, st('checkout_invalid_variant', 'The selected variant is no longer available.'), 'error');
@@ -481,11 +486,12 @@ async function initProductPage() {
       const size = getOption(selectedVariant, 'size');
       const images = selectedVariant.images?.length ? selectedVariant.images : product.images;
       const buyLink = document.getElementById('storeCheckoutLink');
+      const sizeExtra = getSizeExtra(size?.value);
 
       document.getElementById('storeProductBadge').textContent = selectedVariant.available ? st('available', 'Available') : st('unavailable', 'Unavailable');
       document.getElementById('storeProductBadge').className = `availability-badge${selectedVariant.available ? '' : ' is-unavailable'}`;
       document.getElementById('storeProductTitle').textContent = product.title;
-      document.getElementById('storeProductPrice').textContent = formatMoney(selectedVariant.price, product.priceRange.currency);
+      document.getElementById('storeProductPrice').textContent = formatMoney(selectedVariant.price + sizeExtra, product.priceRange.currency);
       document.getElementById('storeProductDescription').textContent = product.description || '';
       document.getElementById('storeProductVariantMeta').textContent = [color?.value, size?.value].filter(Boolean).join(' • ');
       document.getElementById('storeProductMainImage').src = activeImage;
@@ -630,7 +636,9 @@ async function initCheckoutPage() {
 
     const quantity = Number(refs.qty.value || 1);
     const variantMeta = [getOption(selectedVariant, 'color')?.value, getOption(selectedVariant, 'size')?.value].filter(Boolean).join(' • ');
-    const quantityMeta = `${quantity} x ${formatMoney(selectedVariant.price, product.priceRange.currency)}`;
+    const sizeExtra = (product.id === 'cap-3' && getOption(selectedVariant, 'size')?.value === '2XL') ? 261 : 0;
+    const unitPrice = selectedVariant.price + sizeExtra;
+    const quantityMeta = `${quantity} x ${formatMoney(unitPrice, product.priceRange.currency)}`;
 
     if (typeof setMerchImageWithLoading === 'function') {
       setMerchImageWithLoading(refs.image, selectedVariant.images?.[0]?.src || product.thumbnail, product.title);
@@ -647,8 +655,8 @@ async function initCheckoutPage() {
     refs.summaryDeliveryMethod.textContent = 'Standard';
 
     if (!currentQuote) {
-      const fallbackSubtotal = formatMoney(selectedVariant.price * quantity, product.priceRange.currency);
-      refs.summaryPriceTop.textContent = formatMoney(selectedVariant.price, product.priceRange.currency);
+      const fallbackSubtotal = formatMoney(unitPrice * quantity, product.priceRange.currency);
+      refs.summaryPriceTop.textContent = formatMoney(unitPrice, product.priceRange.currency);
       refs.subtotal.textContent = fallbackSubtotal;
       refs.breakdownProductAmount.textContent = fallbackSubtotal;
       refs.shipping.textContent = '—';
@@ -660,7 +668,7 @@ async function initCheckoutPage() {
       return;
     }
 
-    refs.summaryPriceTop.textContent = formatMoney(currentQuote.totalAmount, currentQuote.currency);
+    refs.summaryPriceTop.textContent = formatMoney(currentQuote.subtotalAmount, currentQuote.currency);
     refs.subtotal.textContent = formatMoney(currentQuote.subtotalAmount, currentQuote.currency);
     refs.breakdownProductAmount.textContent = formatMoney(currentQuote.subtotalAmount, currentQuote.currency);
     refs.shipping.textContent = formatMoney(currentQuote.shippingAmount, currentQuote.currency);

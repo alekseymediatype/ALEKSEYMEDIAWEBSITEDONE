@@ -1,14 +1,26 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="lv">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AlekseyMedia</title>
   <style>
-    html, body { background: #120f0c; color: #f4eadb; }
+    html, body { color: #f4eadb; }
     body { margin: 0; }
   </style>
   <script>
+    (function(){
+      let lang = 'lv';
+      try {
+        var nav = performance.getEntriesByType && performance.getEntriesByType('navigation')[0];
+        if (nav && nav.type === 'reload') {
+          localStorage.removeItem('alekseymedia_lang');
+        } else {
+          lang = localStorage.getItem('alekseymedia_lang') || 'lv';
+        }
+      } catch(e) {}
+      document.documentElement.lang = lang;
+    })();
     if ('scrollRestoration' in history) {
       history.scrollRestoration = 'manual';
     }
@@ -25,7 +37,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="icon" type="image/png" href="IMAGES/Favicon/favicon-edited-blue-rounded.png" />
   <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;700;800&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260429-05" />
+  <link rel="stylesheet" href="styles.css?v=20260504-163819" />
 </head>
 <body class="preloading home-page-view">
   <div class="page-loader" id="pageLoader" aria-hidden="true">
@@ -56,9 +68,9 @@
 
       <div class="nav-right">
         <div class="lang-switch" aria-label="Language switcher">
-          <button class="lang-btn" data-lang="ru">RU</button>
-          <button class="lang-btn active" data-lang="lv">LV</button>
-          <button class="lang-btn" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="ru"><img src="IMAGES/flag/Russia.jpg" class="lang-btn-flag-img"> RU</button>
+          <button class="lang-btn active" data-lang="lv"><img src="IMAGES/flag/Latvia.jpg" class="lang-btn-flag-img"> LV</button>
+          <button class="lang-btn" data-lang="en"><img src="IMAGES/flag/usa.jpg" class="lang-btn-flag-img"> EN</button>
         </div>
       </div>
 
@@ -76,9 +88,9 @@
 
       <div class="mobile-menu-langs" id="homeMobileLangs" data-mobile-lang-panel>
         <div class="lang-switch" aria-label="Language switcher">
-          <button class="lang-btn" data-lang="ru">RU</button>
-          <button class="lang-btn active" data-lang="lv">LV</button>
-          <button class="lang-btn" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="ru"><img src="IMAGES/flag/Russia.jpg" class="lang-btn-flag-img"> RU</button>
+          <button class="lang-btn active" data-lang="lv"><img src="IMAGES/flag/Latvia.jpg" class="lang-btn-flag-img"> LV</button>
+          <button class="lang-btn" data-lang="en"><img src="IMAGES/flag/usa.jpg" class="lang-btn-flag-img"> EN</button>
         </div>
       </div>
       <nav class="mobile-menu-links" aria-label="Mobile navigation">
@@ -494,6 +506,6 @@
   </main>
 
   <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-  <script src="script.js?v=20260429-06"></script>
+  <script src="script.js?v=20260504-163819"></script>
 </body>
 </html>

@@ -1,16 +1,28 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="lv">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AlekseyMedia | Payment</title>
   <style>
-    html, body { background: #120f0c; color: #f4eadb; }
-    body { margin: 0; padding-top: 80px; }
+    html, body { color: #f4eadb; }
+    body { margin: 0; }
     .topbar { position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; }
     .nav { min-height: 88px; }
   </style>
   <script>
+    (function(){
+      let lang = 'lv';
+      try {
+        var nav = performance.getEntriesByType && performance.getEntriesByType('navigation')[0];
+        if (nav && nav.type === 'reload') {
+          localStorage.removeItem('alekseymedia_lang');
+        } else {
+          lang = localStorage.getItem('alekseymedia_lang') || 'lv';
+        }
+      } catch(e) {}
+      document.documentElement.lang = lang;
+    })();
     if ('scrollRestoration' in history) {
       history.scrollRestoration = 'manual';
     }
@@ -19,7 +31,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="icon" type="image/png" href="IMAGES/Favicon/favicon-edited-blue-rounded.png" />
   <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;700;800&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260425-02" />
+  <link rel="stylesheet" href="styles.css?v=20260504-163819" />
 </head>
 <body class="preloading order-page-view order-payment-view">
   <header class="topbar">
@@ -277,8 +289,8 @@
     <div class="gallery-modal payment-note-modal" id="paymentNoteModal" hidden aria-hidden="true">
       <div class="gallery-backdrop" data-payment-note-close></div>
       <div class="gallery-dialog payment-note-dialog" role="dialog" aria-modal="true" aria-labelledby="paymentNoteModalTitle">
-        <button class="gallery-close" type="button" data-payment-note-close aria-label="Close info">×</button>
         <section class="payment-note-sheet" id="paymentNoteModalCard">
+          <button class="gallery-close" type="button" data-payment-note-close aria-label="Close info">×</button>
           <div class="payment-order-note-title" id="paymentNoteModalTitle">Informācija</div>
           <div class="payment-order-note-copy" id="paymentNoteModalCopy"></div>
         </section>
@@ -324,6 +336,6 @@
     </div>
   </main>
 
-  <script src="script.js?v=20260425-03"></script>
+  <script src="script.js?v=20260504-163819"></script>
 </body>
 </html>

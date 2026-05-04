@@ -1,14 +1,26 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="lv">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AlekseyMedia | Contact</title>
   <style>
-    html, body { background: #120f0c; color: #f4eadb; }
+    html, body { color: #f4eadb; }
     body { margin: 0; }
   </style>
   <script>
+    (function(){
+      let lang = 'lv';
+      try {
+        var nav = performance.getEntriesByType && performance.getEntriesByType('navigation')[0];
+        if (nav && nav.type === 'reload') {
+          localStorage.removeItem('alekseymedia_lang');
+        } else {
+          lang = localStorage.getItem('alekseymedia_lang') || 'lv';
+        }
+      } catch(e) {}
+      document.documentElement.lang = lang;
+    })();
     if ('scrollRestoration' in history) {
       history.scrollRestoration = 'manual';
     }
@@ -17,7 +29,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="icon" type="image/png" href="IMAGES/Favicon/favicon-edited-blue-rounded.png" />
   <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;700;800&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260425-02" />
+  <link rel="stylesheet" href="styles.css?v=20260504-163819" />
 </head>
 <body class="preloading contact-page-view">
 
@@ -153,6 +165,6 @@
     </div>
   </main>
 
-  <script src="script.js?v=20260425-03"></script>
+  <script src="script.js?v=20260504-163819"></script>
 </body>
 </html>

@@ -1,14 +1,26 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="lv">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AlekseyMedia | Checkout</title>
   <style>
-    html, body { background: #120f0c; color: #f4eadb; }
+    html, body { color: #f4eadb; }
     body { margin: 0; }
   </style>
   <script>
+    (function(){
+      let lang = 'lv';
+      try {
+        var nav = performance.getEntriesByType && performance.getEntriesByType('navigation')[0];
+        if (nav && nav.type === 'reload') {
+          localStorage.removeItem('alekseymedia_lang');
+        } else {
+          lang = localStorage.getItem('alekseymedia_lang') || 'lv';
+        }
+      } catch(e) {}
+      document.documentElement.lang = lang;
+    })();
     if ('scrollRestoration' in history) {
       history.scrollRestoration = 'manual';
     }
@@ -18,7 +30,7 @@
   <link rel="icon" type="image/png" href="IMAGES/Favicon/favicon-edited-blue-rounded.png" />
   <meta name="store-api-base" content="/api" />
   <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;700;800&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260425-02" />
+  <link rel="stylesheet" href="styles.css?v=20260504-163819" />
 </head>
 <body class="preloading order-page-view store-checkout-page-view">
   <header class="topbar">
@@ -293,7 +305,7 @@
     </section>
   </main>
 
-  <script src="script.js?v=20260425-03"></script>
+  <script src="script.js?v=20260504-163819"></script>
   <script src="storefront.js?v=20260416-8"></script>
 </body>
 </html>

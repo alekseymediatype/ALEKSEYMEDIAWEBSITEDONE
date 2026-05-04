@@ -1195,6 +1195,8 @@ document.querySelectorAll('.lang-btn').forEach(btn => {
 });
 
 function initPageAnimations() {
+  document.body.classList.remove('brand-navigating');
+
   const loader = document.getElementById('pageLoader');
   const loaderLine = loader ? loader.querySelector('.loader-line') : null;
   const loaderPercent = loader ? loader.querySelector('.loader-percent') : null;
@@ -2263,11 +2265,11 @@ function initWorkGallery() {
 
   const previewStartIndices = {
     'edijs-naumanis': 5,
-    'first-september': 5,
+    'first-september': 6,
     'gilera-runner': 5,
     'peugeot-speedfight-3': 2,
     'gym-workout': 9,
-    hockey: 1,
+    hockey: 6,
     basketball: 3,
     dance: 2,
   };
@@ -2678,17 +2680,16 @@ function initWorkGallery() {
   };
 
   const scrollProjectInfoIntoView = () => {
-    if (!dialogEl || !projectInfoEl || !projectInfoContentEl) return;
+    if (!dialogEl || !projectInfoEl) return;
 
-    window.requestAnimationFrame(() => {
-      window.requestAnimationFrame(() => {
-        const dialogRect = dialogEl.getBoundingClientRect();
-        const contentRect = projectInfoContentEl.getBoundingClientRect();
-        const targetTop = dialogEl.scrollTop + contentRect.top - dialogRect.top - 12;
+    const targetTop = Math.max(0, projectInfoEl.offsetTop + projectInfoEl.offsetHeight - dialogEl.clientHeight + 20);
 
-        animateGalleryDialogScroll(targetTop);
-      });
-    });
+    if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      dialogEl.scrollTop = targetTop;
+      return;
+    }
+
+    dialogEl.scrollTo({ top: targetTop, behavior: 'smooth' });
   };
 
   const scrollProjectInfoToggleIntoView = () => {
@@ -2716,11 +2717,19 @@ function initWorkGallery() {
       projectInfoContentEl.hidden = false;
       void projectInfoContentEl.offsetHeight;
       projectInfoEl.classList.add('is-open');
-      window.setTimeout(() => {
+
+      const onTransitionEnd = (e) => {
+        if (e.propertyName !== 'max-height') return;
+        projectInfoContentEl.removeEventListener('transitionend', onTransitionEnd);
         if (projectInfoEl.classList.contains('is-open')) {
-          dialogEl.scrollTo({ top: dialogEl.scrollHeight, behavior: 'smooth' });
+          scrollProjectInfoIntoView();
         }
-      }, 580);
+      };
+      projectInfoContentEl.addEventListener('transitionend', onTransitionEnd);
+
+      window.setTimeout(() => {
+        projectInfoContentEl.removeEventListener('transitionend', onTransitionEnd);
+      }, 700);
       return;
     }
 
@@ -2909,6 +2918,8 @@ function initWorkGallery() {
       });
     }
   });
+
+  startPreviewRotation();
 }
 
 function initWorksArchiveToggle() {
@@ -3132,6 +3143,27 @@ function initServicesScrollPin() {
     });
   };
 
+  // Mobile scroll observer
+  if (isMobileServicesView()) {
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach((entry) => {
+        if (entry.isIntersecting) {
+          cards.forEach((card) => {
+            if (card === entry.target) {
+              card.classList.add('is-service-active');
+              card.classList.remove('is-service-dimmed');
+            } else {
+              card.classList.remove('is-service-active');
+              card.classList.add('is-service-dimmed');
+            }
+          });
+        }
+      });
+    }, { threshold: 0.4 });
+
+    cards.forEach((card) => observer.observe(card));
+  }
+
   cards.forEach((card) => {
     card.addEventListener('click', () => {
       if (!isMobileServicesView()) return;
@@ -3264,6 +3296,8 @@ function initMerchProductModal() {
   let activeImages = [];
   let activeImageIndex = 0;
   let modalHistoryOpen = false;
+  let activeBasePrice = 0;
+  let activeSizeExtras = {};
   const previewImageCache = new Map();
   const cardPreviewStates = new Map();
   const prefersReducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -3539,8 +3573,20 @@ function initMerchProductModal() {
         activeSize = button.getAttribute('data-modal-size') || '';
         renderSizeOptions(sizes);
         syncBuyLink();
+        updatePriceForSize();
       });
     });
+  };
+
+  const updatePriceForSize = () => {
+    if (!priceEl || !activeBasePrice) return;
+    const extra = activeSizeExtras[activeSize] || 0;
+    const newPrice = activeBasePrice + extra;
+    const formattedPrice = newPrice.toFixed(2).replace('.', ',');
+    const currentPriceEl = priceEl.querySelector('.cap-price-current');
+    if (currentPriceEl) {
+      currentPriceEl.textContent = `${formattedPrice} EUR`;
+    }
   };
 
   cards.forEach((card) => {
@@ -3651,6 +3697,11 @@ function initMerchProductModal() {
     const cardState = cardPreviewStates.get(card);
     const activeVariant = variants[cardState?.activeIndex ?? 0] || variants[0] || null;
 
+    const sizeExtraAttr = card.getAttribute('data-size-extra');
+    activeSizeExtras = sizeExtraAttr ? JSON.parse(sizeExtraAttr) : {};
+    const currentPriceEl = card.querySelector('.cap-price-current');
+    activeBasePrice = currentPriceEl ? parseFloat(currentPriceEl.textContent.replace(/[^0-9.,]/g, '').replace(',', '.')) : 0;
+
     activeBuyLink = buyLink;
     activeProductId = getCardProductId(card);
     activeProductType = type;
@@ -3757,8 +3808,8 @@ function getMerchProductMap() {
     'cap-1': {
       image: 'https://raw.githubusercontent.com/alekseymediatype/AlekseyMedia/main/IMAGES/CAP/LIAM%20Black.jpg',
       title: 'Life is a moment. Don\'t miss it.',
-      price: '29,99 EUR',
-      amount: 29.99,
+      price: '35,99 EUR',
+      amount: 35.99,
       type: getTranslation(getCurrentLanguage(), 'merch_item_type', 'Cap'),
       defaultColor: 'Black',
       defaultSize: 'ONE SIZE',
@@ -3803,16 +3854,39 @@ function getSelectedMerchProduct() {
     size: String(params.get('size') || baseProduct.defaultSize || '').trim(),
   };
 
+  const product = {
+    id: selectedId,
+    ...baseProduct,
+    image: String(params.get('image') || '').trim() || baseProduct.image,
+    type: String(params.get('type') || '').trim() || baseProduct.type,
+  };
+
+  if (selectedId === 'cap-3' && selection.size === '2XL') {
+    const extra = 2.61;
+    const newAmount = roundOrderAmount(baseProduct.amount + extra);
+    product.amount = newAmount;
+    product.price = `${String(newAmount.toFixed(2)).replace('.', ',')} EUR`;
+  }
+
   return {
     selectedId,
     selection,
-    product: {
-      id: selectedId,
-      ...baseProduct,
-      image: String(params.get('image') || '').trim() || baseProduct.image,
-      type: String(params.get('type') || '').trim() || baseProduct.type,
-    },
+    product,
   };
+}
+
+function applyAnorakSizeExtra(product, size) {
+  if (!product || !size) return product;
+  if (product.id === 'cap-3' && size === '2XL') {
+    const extra = 2.61;
+    const newAmount = roundOrderAmount(55.99 + extra);
+    return {
+      ...product,
+      amount: newAmount,
+      price: `${String(newAmount.toFixed(2)).replace('.', ',')} EUR`,
+    };
+  }
+  return product;
 }
 
 function normalizeMerchColorKey(color) {
@@ -4480,7 +4554,9 @@ function initMerchOrderContactForm() {
     };
 
     sessionStorage.setItem(orderContactStorageKey, JSON.stringify(payload));
-    window.location.href = `order-delivery.html?product=${selectedId}`;
+    const sizeParam = selection.size ? `&size=${encodeURIComponent(selection.size)}` : '';
+    const colorParam = selection.color ? `&color=${encodeURIComponent(selection.color)}` : '';
+    window.location.href = `order-delivery.html?product=${selectedId}${sizeParam}${colorParam}`;
   });
 }
 
@@ -4488,7 +4564,8 @@ function initMerchOrderWizardForm() {
   const form = document.querySelector('[data-order-wizard-form]');
   if (!form) return;
 
-  const { selectedId, product, selection } = getSelectedMerchProduct();
+  const { selectedId, product: rawProduct, selection } = getSelectedMerchProduct();
+  const product = applyAnorakSizeExtra(rawProduct, selection.size);
   const savedCheckout = loadOrderCheckout();
 
   fillOrderSummary(product, selection);
@@ -4672,9 +4749,14 @@ function initMerchOrderWizardForm() {
     if (!valid) return;
 
     setDeliveryEnabled(true);
+
+    if (deliveryPanel) {
+      deliveryPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
     const firstDeliveryField = deliveryPanel.querySelector('input:not([disabled]), select:not([disabled])');
     if (firstDeliveryField) {
-      window.setTimeout(() => firstDeliveryField.focus(), 220);
+      window.setTimeout(() => firstDeliveryField.focus(), 420);
     }
   });
 
@@ -4700,7 +4782,9 @@ function initMerchOrderWizardForm() {
     });
 
     saveOrderCheckout(checkoutData);
-    window.location.href = `order-payment.html?product=${selectedId}`;
+    const sizeParam = selection.size ? `&size=${encodeURIComponent(selection.size)}` : '';
+    const colorParam = selection.color ? `&color=${encodeURIComponent(selection.color)}` : '';
+    window.location.href = `order-payment.html?product=${selectedId}${sizeParam}${colorParam}`;
   };
 
     continueBtn?.addEventListener('order-slide-complete', goToPayment);
@@ -4713,7 +4797,8 @@ function initMerchOrderDeliveryForm() {
   const form = document.querySelector('[data-order-delivery-form]');
   if (!form) return;
 
-  const { selectedId, product, selection } = getSelectedMerchProduct();
+  const { selectedId, product: rawProduct, selection } = getSelectedMerchProduct();
+  const product = applyAnorakSizeExtra(rawProduct, selection.size);
   const savedCheckout = loadOrderCheckout();
   const saved = sessionStorage.getItem(orderContactStorageKey);
 
@@ -4827,7 +4912,9 @@ function initMerchOrderDeliveryForm() {
     });
 
     saveOrderCheckout(checkoutData);
-    window.location.href = `order-payment.html?product=${selectedId}`;
+    const sizeParam = selection.size ? `&size=${encodeURIComponent(selection.size)}` : '';
+    const colorParam = selection.color ? `&color=${encodeURIComponent(selection.color)}` : '';
+    window.location.href = `order-payment.html?product=${selectedId}${sizeParam}${colorParam}`;
   };
 
   continueBtn?.addEventListener('order-slide-complete', goToPayment);
@@ -4840,7 +4927,7 @@ function initMerchOrderPaymentPage() {
   const page = document.querySelector('[data-order-payment-page]');
   if (!page) return;
 
-  const { selectedId, product, selection } = getSelectedMerchProduct();
+  const { selectedId, product: rawProduct, selection } = getSelectedMerchProduct();
   const checkoutData = loadOrderCheckout();
 
   if (!checkoutData || checkoutData.productId !== selectedId) {
@@ -4848,14 +4935,24 @@ function initMerchOrderPaymentPage() {
     return;
   }
 
+  const actualSize = checkoutData.product_size || selection.size;
+  const product = applyAnorakSizeExtra(rawProduct, actualSize);
+
+  if (product.amount !== rawProduct.amount) {
+    checkoutData.product_unit_amount = product.amount;
+    checkoutData.product_amount = product.amount;
+    checkoutData.product_subtotal_amount = product.amount;
+  }
+
   normalizeOrderCheckout(checkoutData);
+  saveOrderCheckout(checkoutData);
 
   fillOrderSummary({
     ...product,
     image: checkoutData.product_image || product.image,
   }, {
     color: checkoutData.product_color || selection.color,
-    size: checkoutData.product_size || selection.size,
+    size: actualSize,
   });
 
   const backLink = document.getElementById('orderPaymentBack');
@@ -5255,6 +5352,7 @@ function initMerchOrderPaymentPage() {
       paymentConfirmModal.hidden = true;
       paymentConfirmModal.setAttribute('aria-hidden', 'true');
     }
+    unlockPageScroll();
 
     setButtonsDisabled(true);
     setStatus('order_sending');
@@ -5397,7 +5495,7 @@ function initMerchOrderPaymentPage() {
   });
 }
 
-const savedLang = 'lv';
+const savedLang = document.documentElement.lang || 'lv';
 initInitialScrollPosition();
 initLanguageFlags();
 initLoaderBrandAnimation();
@@ -5422,6 +5520,24 @@ initMerchOrderWizardForm();
 initMerchOrderDeliveryForm();
 initMerchOrderPaymentPage();
 
+function initButtonPulseAnimation() {
+  document.querySelectorAll('[data-animate-pulse], .brand').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      if (e.button !== 0 || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+      e.preventDefault();
+      btn.classList.add('is-green-pulse');
+      setTimeout(() => {
+        btn.classList.remove('is-green-pulse');
+        const href = btn.getAttribute('href');
+        if (href) {
+          sessionStorage.setItem('alekseymedia_skip_loader', '1');
+          window.location.href = href;
+        }
+      }, 600);
+    });
+  });
+}
+initButtonPulseAnimation();
 
 function setupLanguageFadeTargets() {
   const targets = document.querySelectorAll('[data-i18n], [data-i18n-placeholder]');

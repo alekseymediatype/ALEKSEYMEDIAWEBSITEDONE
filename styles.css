@@ -20,14 +20,26 @@
     0 0 16px rgba(255,255,255,.04);
 }
 *{box-sizing:border-box}
-html{scroll-behavior:auto; scrollbar-gutter:stable}
-html,body{background-color:#120f0c}
+html{scroll-behavior:auto; scrollbar-gutter:stable; background:#0a0810;}
 body{
   margin:0;
-  background:#050505;
+  min-height:100vh;
+  min-height:100svh;
+  background: linear-gradient(180deg, #120f0c 0%, #17120f 100%);
   color:var(--paper);
   font-family:"Manrope", system-ui, sans-serif;
   overflow-x:hidden;
+}
+@media (max-width: 980px) {
+  body {
+    background:
+      radial-gradient(ellipse 100% 60% at 50% 0%, rgba(30, 100, 255, 0.35), transparent 55%),
+      radial-gradient(ellipse 120% 100% at 0% 50%, rgba(20, 80, 220, 0.25), transparent 50%),
+      radial-gradient(ellipse 100% 80% at 100% 20%, rgba(255, 60, 60, 0.20), transparent 45%),
+      radial-gradient(ellipse 80% 60% at 70% 70%, rgba(180, 40, 120, 0.12), transparent 50%),
+      radial-gradient(ellipse 60% 100% at 20% 100%, rgba(255, 100, 30, 0.10), transparent 40%),
+      linear-gradient(180deg, #03040a 0%, #080a14 40%, #050612 70%, #020208 100%) !important;
+  }
 }
 #ethereal-bg{
   position:fixed;
@@ -36,7 +48,7 @@ body{
   pointer-events:none;
   z-index:0;
   opacity:1;
-  background:#050505;
+  background:transparent;
 }
 .ethereal-bg-layer,
 .ethereal-bg-noise{
@@ -106,9 +118,13 @@ body.brand-navigating main,
 body.brand-navigating .topbar{
   opacity:0;
   visibility:hidden;
-  transform:translateY(-12px) scale(.98);
-  filter:blur(4px);
-  transition:opacity .26s ease, visibility .26s ease, transform .3s cubic-bezier(.22,1,.36,1), filter .3s ease;
+  transition:opacity .2s ease, visibility .2s ease;
+}
+body.brand-navigating .mobile-menu-panel,
+body.brand-navigating .mobile-menu-toggle{
+  opacity:0 !important;
+  visibility:hidden !important;
+  transition:none !important;
 }
 body.preloading main,
 body.preloading .topbar{
@@ -507,7 +523,15 @@ body.mobile-menu-open .mobile-menu-toggle{
     inset 0 -1px 0 rgba(255,255,255,.06),
     0 0 14px var(--liquid-glow);
 }
-.pill:hover{transform:translateY(-2px) scale(1.02)}
+.pill:hover{transform:none}
+.pill:active{transform:none}
+@keyframes pillGreenPulse{
+  0%,100%{box-shadow:0 8px 20px rgba(0,0,0,.14), inset 0 1px 0 rgba(255,255,255,.16), inset 0 -1px 0 rgba(255,255,255,.06), 0 0 14px var(--liquid-glow)}
+  50%{box-shadow:0 8px 24px rgba(0,0,0,.18), inset 0 1px 0 rgba(70,210,111,.35), inset 0 -1px 0 rgba(70,210,111,.12), 0 0 28px rgba(70,210,111,.28)}
+}
+.pill.is-green-pulse{
+  animation:pillGreenPulse .6s ease-in-out;
+}
 .pill.ghost{
   --liquid-stroke:rgba(255,255,255,.26);
   --liquid-text:#fff;
@@ -542,6 +566,8 @@ body.mobile-menu-open .mobile-menu-toggle{
     linear-gradient(180deg, rgba(255,255,255,.08), rgba(255,255,255,.02));
   appearance:none;
   display:inline-flex;
+  align-items:center;
+  gap:6px;
   position:relative;
   align-items:center;
   justify-content:center;
@@ -637,7 +663,6 @@ h1{
   color:transparent;
   display:block;
   transform:translateX(9%);
-  text-shadow:0 0 18px rgba(255,90,82,.08);
 }
 .hero-copy{
   margin-top:26px;
@@ -792,7 +817,6 @@ h1{
   -webkit-background-clip:text;
   background-clip:text;
   color:transparent;
-  text-shadow:0 0 18px rgba(78,103,146,.08);
 }
 .stats{
   display:grid;
@@ -1214,11 +1238,11 @@ section{padding:52px 0}
 }
 .work-gallery-cover{
   opacity:1;
-  transition:none;
+  transition:opacity 1080ms ease;
 }
 .work-gallery-cover-next{
   opacity:0;
-  transition:none;
+  transition:opacity 1080ms ease;
 }
 .work-gallery-card:nth-child(2) .work-gallery-cover,
 .work-gallery-card:nth-child(2) .work-gallery-cover-next{
@@ -1255,6 +1279,35 @@ section{padding:52px 0}
   --tilt-lift:-8px;
   --tilt-scale:1.01;
   box-shadow:0 24px 54px rgba(0,0,0,.28);
+}
+.work-gallery-card.is-dive-open,
+.cap-card.is-dive-open{
+  transform:scale(0.94) translateY(12px);
+  opacity:0.55;
+  filter:blur(1.5px);
+  transition:transform .55s cubic-bezier(.22,1,.36,1), opacity .5s ease, filter .5s ease;
+  pointer-events:none;
+}
+@keyframes diveRipple{
+  0%{transform:translate(-50%,-50%) scale(0); opacity:.5}
+  60%{opacity:.15}
+  100%{transform:translate(-50%,-50%) scale(3); opacity:0}
+}
+.dive-ripple{
+  position:absolute;
+  top:50%;
+  left:50%;
+  width:120px;
+  height:120px;
+  border-radius:50%;
+  background:radial-gradient(circle, rgba(255,255,255,.2), transparent 65%);
+  transform:translate(-50%,-50%) scale(0);
+  pointer-events:none;
+  z-index:10;
+}
+.work-gallery-card.is-dive-open .dive-ripple,
+.cap-card.is-dive-open .dive-ripple{
+  animation:diveRipple .7s ease-out forwards;
 }
 @keyframes workPreviewDrift{
   from{transform:scale(1.06) translate3d(-1.2%, -0.8%, 0)}
@@ -2164,7 +2217,19 @@ body.gallery-open .topbar{
   .gallery-nav[data-gallery-prev]{order:2; justify-self:start}
   .gallery-nav[data-gallery-next]{order:3; justify-self:end; margin-top:-60px}
   .gallery-caption-top{flex-direction:column; align-items:flex-start}
-  .gallery-image{min-height:280px; height:min(56vh, 520px)}
+  .gallery-image{min-height:220px; height:min(48vh, 420px)}
+  .gallery-project-info{display:block; margin-top:10px}
+  .gallery-project-info-toggle{padding:15px 16px 14px; border-radius:20px}
+  .gallery-project-info-toggle-title{font-size:clamp(16px, 4.5vw, 20px)}
+  .gallery-project-info-toggle-icon{width:34px; height:34px; font-size:16px}
+  .gallery-project-info.is-open .gallery-project-info-content{max-height:420px; padding:16px 16px 14px; margin-top:8px; overflow:visible}
+  .gallery-project-info-title{font-size:clamp(22px, 6vw, 28px)}
+  .gallery-project-info-copy{font-size:14px; line-height:1.6}
+  .gallery-project-info-actions{padding-top:12px}
+  .gallery-project-info-kicker{font-size:10px}
+  .gallery-caption-top{gap:10px}
+  .gallery-title{font-size:clamp(20px, 5vw, 26px)}
+  .gallery-subtitle{font-size:13px}
 }
 .merch{
   display:grid;
@@ -2258,6 +2323,10 @@ body.gallery-open .topbar{
     radial-gradient(circle at 30% 30%, rgba(255,255,255,.18), transparent 28%),
     radial-gradient(circle at 70% 55%, rgba(255,172,120,.16), transparent 34%);
   filter:blur(22px);
+  opacity:0;
+  transition:opacity .4s ease;
+}
+.merch-card:hover::after{
   opacity:.72;
   animation:merchCardGlow 7s ease-in-out infinite alternate;
 }
@@ -2312,18 +2381,28 @@ body.gallery-open .topbar{
   min-height:auto;
   padding:24px 0 16px;
 }
-body.merch-page-view{
-  background:
-    radial-gradient(circle at 16% 10%, rgba(255,106,43,.16), transparent 24%),
-    radial-gradient(circle at 82% 12%, rgba(226,195,138,.1), transparent 20%),
-    linear-gradient(180deg, #120f0c 0%, #17120f 100%);
+
+body.home-page-view::before{
+  opacity:.04;
+  background-image:
+    linear-gradient(rgba(255,255,255,.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.05) 1px, transparent 1px);
 }
+
 body.merch-page-view::before{
   opacity:.04;
   background-image:
     linear-gradient(rgba(255,255,255,.05) 1px, transparent 1px),
     linear-gradient(90deg, rgba(255,255,255,.05) 1px, transparent 1px);
 }
+
+body.order-page-view::before{
+  opacity:.04;
+  background-image:
+    linear-gradient(rgba(255,255,255,.05) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,.05) 1px, transparent 1px);
+}
+
 .merch-page-view main.wrap{
   min-height:calc(100svh - 80px);
   display:flex;
@@ -4570,6 +4649,7 @@ body.product-open{overflow:hidden}
   padding:18px 14px 14px;
 }
 .payment-note-sheet{
+  position:relative;
   display:grid;
   gap:10px;
   padding:16px 14px;
@@ -4595,6 +4675,13 @@ body.product-open{overflow:hidden}
     radial-gradient(circle at 14% 16%, rgba(255,186,92,.08), transparent 28%),
     linear-gradient(180deg, rgba(120,82,16,.14), rgba(255,255,255,.02));
 }
+.payment-note-sheet .gallery-close{
+  top:10px;
+  right:10px;
+  background:rgba(120,16,16,.82);
+  border-color:rgba(219,72,72,.4);
+  color:#ffd9d9;
+}
 .payment-note-sheet .payment-order-note-title{font-size:10px; letter-spacing:.1em; color:#69ea8d}
 .payment-note-sheet .payment-order-note-title::before{background:#3fd86f; box-shadow:0 0 0 6px rgba(63,216,111,.1); animation:availabilityPulse 2s ease-in-out infinite}
 .payment-note-sheet.is-secondary .payment-order-note-title{color:#ff8f8f}
@@ -4602,10 +4689,16 @@ body.product-open{overflow:hidden}
 .payment-note-sheet.is-promo .payment-order-note-title{color:#ffc879}
 .payment-note-sheet.is-promo .payment-order-note-title::before{background:#ffba5c; box-shadow:0 0 0 6px rgba(255,186,92,.1); animation:availabilityPulse 2s ease-in-out infinite}
 .payment-note-sheet .payment-order-note-copy{font-size:14px; line-height:1.65; color:rgba(244,234,219,.84)}
+.payment-confirm-modal .gallery-backdrop{
+  background:rgba(4,3,2,.96);
+  backdrop-filter:blur(18px) saturate(80%);
+  -webkit-backdrop-filter:blur(18px) saturate(80%);
+}
 .payment-confirm-dialog{
   width:min(440px, calc(100vw - 32px));
   overflow:auto;
   padding:0;
+  background:linear-gradient(180deg, rgba(28,23,18,.98), rgba(18,15,12,.99));
 }
 .payment-confirm-sheet{
   padding:44px 36px 36px;
@@ -4614,6 +4707,7 @@ body.product-open{overflow:hidden}
   align-items:center;
   text-align:center;
   gap:22px;
+  background:linear-gradient(180deg, rgba(28,23,18,.98), rgba(18,15,12,.99));
 }
 .payment-confirm-icon{
   width:60px;
@@ -4746,9 +4840,9 @@ body.product-open{overflow:hidden}
     -webkit-overflow-scrolling:touch;
   }
 
-  .payment-note-dialog .gallery-close{
-    top:6px;
-    right:4px;
+  .payment-note-sheet .gallery-close{
+    top:12px;
+    right:12px;
     background:rgba(120,16,16,.9);
     border-color:rgba(219,72,72,.48);
     color:#ffd9d9;
@@ -4756,6 +4850,7 @@ body.product-open{overflow:hidden}
   }
 
   .payment-note-sheet{
+    position:relative;
     justify-items:center;
     width:100%;
     min-height:auto;
@@ -5683,6 +5778,7 @@ body.product-open{overflow:hidden}
   .frame{inset:12px; padding:16px}
   .stats{grid-template-columns:1fr 1fr; gap:10px}
   .work{min-height:300px}
+  .work-gallery-card{background:linear-gradient(155deg, rgba(80,60,140,.28), rgba(18,15,12,.1)), linear-gradient(180deg, #1a1428, #0f0c18) !important;}
   .works-showcase{gap:18px}
   .works-detail-panel{display:none}
   .shop-word{font-size:clamp(48px, 16vw, 82px)}
@@ -7469,13 +7565,9 @@ main,
 
 .topbar .nav-center .pill:hover,
 .topbar .nav-center .pill:focus-visible{
-  transform:translateY(-1px) scale(1.01);
-  border:1px solid rgba(219,72,72,.28);
-  box-shadow:
-    0 12px 24px rgba(0,0,0,.12),
-    inset 0 1px 0 rgba(255,255,255,.08),
-    inset 0 -1px 0 rgba(255,255,255,.02),
-    0 0 12px rgba(219,72,72,.08);
+  transform:none;
+  border:1px solid rgba(244,234,219,.14);
+  box-shadow:0 8px 20px rgba(0,0,0,.05), inset 0 1px 0 rgba(255,255,255,.04), inset 0 -1px 0 rgba(255,255,255,.015), 0 0 0 rgba(0,0,0,0);
 }
 
 .topbar .nav-center .pill.is-active,
@@ -7488,12 +7580,9 @@ main,
     0 0 10px rgba(219,72,72,.12);
 }
 .topbar .nav-center .pill:active{
-  transform:translateY(0) scale(.992);
-  border-color:rgba(219,72,72,.24);
-  box-shadow:
-    0 6px 14px rgba(0,0,0,.14),
-    inset 0 1px 0 rgba(255,255,255,.08),
-    inset 0 -1px 0 rgba(255,255,255,.02);
+  transform:none;
+  border-color:rgba(244,234,219,.14);
+  box-shadow:0 8px 20px rgba(0,0,0,.05), inset 0 1px 0 rgba(255,255,255,.04), inset 0 -1px 0 rgba(255,255,255,.015), 0 0 0 rgba(0,0,0,0);
 }
 .topbar .nav-center .pill.is-active::before,
 .topbar .nav-center .pill[aria-current="page"]::before{
@@ -7550,13 +7639,6 @@ main,
   pointer-events:none;
   opacity:.72;
   filter:blur(10px) saturate(120%);
-}
-
-body.merch-page-view{
-  background:
-    radial-gradient(circle at 16% 10%, rgba(255,90,82,.24), transparent 28%),
-    radial-gradient(circle at 82% 12%, rgba(255,140,132,.12), transparent 24%),
-    linear-gradient(180deg, #140b0b 0%, #1d0d0d 100%);
 }
 
 body.merch-page-view::before{
@@ -7674,61 +7756,55 @@ body.merch-page-view::before{
   box-shadow:0 24px 60px rgba(15,31,58,.28);
 }
 
-.merch-page-view{
-  background:
-    radial-gradient(circle at 16% 10%, rgba(255,90,82,.18), transparent 24%),
-    radial-gradient(circle at 82% 12%, rgba(255,140,132,.08), transparent 20%),
-    linear-gradient(180deg, #120f0c 0%, #17120f 100%);
-}
-
 .merch-page-view .topbar{
-  background:linear-gradient(90deg, rgba(58,15,18,.92), rgba(107,22,25,.78));
+  background:
+    linear-gradient(90deg, rgba(25,18,14,.9), rgba(60,31,18,.78));
 }
 
 .merch-page-view .page-indicator-line{
-  background:linear-gradient(90deg, transparent, rgba(255,90,82,.42), transparent);
+  background:linear-gradient(90deg, transparent, rgba(255,158,95,.28), transparent);
 }
 
 .merch-page-view .merch-page-shell::after{
   background:
-    radial-gradient(circle at 22% 45%, rgba(255,90,82,.12), transparent 26%),
-    radial-gradient(circle at 78% 38%, rgba(255,140,132,.08), transparent 28%);
+    radial-gradient(circle at 22% 45%, rgba(255,106,43,.1), transparent 26%),
+    radial-gradient(circle at 78% 38%, rgba(226,195,138,.06), transparent 28%);
 }
 
 .merch-page-view .caps-grid::before{
   background:
-    radial-gradient(circle at 24% 44%, rgba(78,103,146,.14), transparent 24%),
-    radial-gradient(circle at 76% 38%, rgba(142,166,207,.1), transparent 26%);
+    radial-gradient(circle at 24% 44%, rgba(255,106,43,.14), transparent 24%),
+    radial-gradient(circle at 76% 38%, rgba(226,195,138,.1), transparent 26%);
 }
 
 .merch-page-view .caps-grid::after{
   background:
-    radial-gradient(circle at 18% 46%, rgba(78,103,146,.1), transparent 24%),
-    radial-gradient(circle at 82% 42%, rgba(142,166,207,.08), transparent 28%);
+    radial-gradient(circle at 18% 46%, rgba(226,195,138,.1), transparent 24%),
+    radial-gradient(circle at 82% 42%, rgba(255,106,43,.08), transparent 28%);
 }
 
 .merch-page-view .cap-card{
   box-shadow:
     0 22px 54px rgba(0,0,0,.24),
-    0 0 24px rgba(78,103,146,.08);
+    0 0 24px rgba(255,106,43,.08);
 }
 
 .merch-page-view .cap-card-dark{
   background:
-    radial-gradient(circle at 20% 14%, rgba(78,103,146,.12), transparent 24%),
+    radial-gradient(circle at 20% 14%, rgba(255,106,43,.1), transparent 24%),
     linear-gradient(180deg, rgba(255,255,255,.04), rgba(255,255,255,.015)),
-    linear-gradient(160deg, #20293a, #141924 70%);
+    linear-gradient(160deg, #2d2119, #18120e 70%);
 }
 
 .merch-page-view .cap-card-cream{
   background:
     radial-gradient(circle at 18% 12%, rgba(255,255,255,.24), transparent 24%),
     linear-gradient(180deg, rgba(255,255,255,.26), rgba(255,255,255,.08)),
-    linear-gradient(160deg, #edf1f7, #d6ddea 70%);
+    linear-gradient(160deg, #f5ebdd, #dfcdb7 70%);
 }
 
 .merch-page-view .cap-card-cream .cap-price{
-  color:#36537f;
+  color:#b45b1f;
 }
 
 .contact-page-shell .submit,
@@ -7934,23 +8010,17 @@ body.merch-page-view::before{
 .merch-page-view .cap-card-dark{
   background:
     linear-gradient(180deg, rgba(255,255,255,.045), rgba(255,255,255,.015)),
-    rgba(18,24,35,.16);
+    rgba(29,22,16,.16);
   border-color:rgba(244,234,219,.08);
   box-shadow:
     0 22px 54px rgba(0,0,0,.22),
-    0 0 18px rgba(78,103,146,.04);
+    0 0 18px rgba(255,106,43,.04);
 }
 
 .merch-page-view .cap-photo-link{
   background:rgba(255,255,255,.02);
 }
 
-.merch-page-view{
-  background:
-    radial-gradient(circle at 16% 10%, rgba(78,103,146,.24), transparent 26%),
-    radial-gradient(circle at 82% 12%, rgba(142,166,207,.12), transparent 22%),
-    linear-gradient(180deg, #10151f 0%, #141926 100%);
-}
 
 /* === Final blue + merch modal overrides === */
 @keyframes servicesCtaGradientDrift{
@@ -8588,7 +8658,7 @@ body.merch-page-view::before{
    MOBILE PERFORMANCE — disable heavy GPU effects
    ============================================================ */
 @media (max-width: 980px) {
-  .topbar { backdrop-filter: none !important; -webkit-backdrop-filter: none !important; }
+  .topbar { backdrop-filter: none !important; -webkit-backdrop-filter: none !important; background:#120f0c !important; }
   .pill, .lang-btn, .btn, .submit, .lang-switch,
   .hero-card, .stat, .service, .merch-card, .cap-card,
   .works-detail-panel, .gallery-desktop-info,
@@ -8652,8 +8722,6 @@ body.merch-page-view::before{
 
   body::after { display: none !important; }
 
-  #ethereal-bg { display: none !important; }
-
   .scroll-letter-char {
     opacity: 1 !important;
     transform: none !important;
@@ -8668,11 +8736,6 @@ body.merch-page-view::before{
     filter: none !important;
     animation: none !important;
     will-change: auto !important;
-  }
-
-  .service {
-    will-change: auto !important;
-    transform: none !important;
   }
 
   .service:hover {
