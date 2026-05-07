@@ -1,4 +1,4 @@
-const storeTranslations = {
+﻿const storeTranslations = {
   lv: {
     catalog_kicker: 'Printify katalogs',
     catalog_title: 'Izvēlies preci un pārej uz apmaksu.',

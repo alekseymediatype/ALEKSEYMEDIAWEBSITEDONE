@@ -1,4 +1,4 @@
-const translations = {
+﻿const translations = {
   ru: {
     nav_services: "Что я делаю?",
     nav_works: "Работы",
