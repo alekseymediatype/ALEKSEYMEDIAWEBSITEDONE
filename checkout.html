@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="lv">
 <head>
   <meta charset="UTF-8" />
@@ -30,7 +30,7 @@
   <link rel="icon" type="image/png" href="IMAGES/Favicon/favicon-edited-blue-rounded.png" />
   <meta name="store-api-base" content="/api" />
   <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;700;800&family=Manrope:wght@400;500;700;800&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css?v=20260504-163819" />
+  <link rel="stylesheet" href="styles.css?v=20260506-03" />
 </head>
 <body class="preloading order-page-view store-checkout-page-view">
   <header class="topbar">
@@ -42,7 +42,7 @@
       <div class="nav-center">
         <div class="page-indicator">
           <span class="page-indicator-line"></span>
-          <span data-i18n="order_nav_label">Pasūtījums</span>
+          <span data-i18n="order_nav_label">Pasutijums</span>
           <span class="page-indicator-line"></span>
         </div>
       </div>
@@ -76,7 +76,7 @@
       <nav class="mobile-menu-links" aria-label="Mobile navigation">
         <a class="pill" href="index.html#services" data-i18n="nav_services" data-skip-loader="true">Ko es daru?</a>
         <a class="pill" href="index.html#works" data-i18n="nav_works" data-skip-loader="true">Darbi</a>
-        <a class="pill" href="merch.html" data-i18n="nav_merch" data-skip-loader="true">Merčs</a>
+        <a class="pill" href="merch.html" data-i18n="nav_merch" data-skip-loader="true">Mercs</a>
         <a class="pill" href="index.html#contact" data-i18n="nav_contact" data-skip-loader="true">Kontakti</a>
       </nav>
     </div>
@@ -87,19 +87,19 @@
       <div class="store-checkout-layout">
         <section class="order-payment-card form-card store-checkout-form-panel">
           <div class="section-kicker orange" data-store-i18n="checkout_kicker">Stripe checkout</div>
-          <h1 class="contact-title order-form-title" data-store-i18n="checkout_title">Aizpildi datus un apmaksā caur Stripe.</h1>
-          <p class="contact-sub order-form-sub" data-store-i18n="checkout_copy">Pēc veiksmīgas apmaksas pasūtījums automātiski tiks nosūtīts uz Printify.</p>
+          <h1 class="contact-title order-form-title" data-store-i18n="checkout_title">Aizpildi datus un apmaksa caur Stripe.</h1>
+          <p class="contact-sub order-form-sub" data-store-i18n="checkout_copy">Pec veiksmigas apmaksas pasutijums automatiski tiks nosutits uz Printify.</p>
 
           <form id="storeCheckoutForm">
             <div class="store-checkout-section-title" data-store-i18n="checkout_customer">Kontakti</div>
             <div class="row">
               <div class="field">
-                <label data-store-i18n="checkout_first_name">Vārds</label>
+                <label data-store-i18n="checkout_first_name">Vards</label>
                 <input type="text" name="first_name" placeholder="Aleksejs" required />
               </div>
               <div class="field">
-                <label data-store-i18n="checkout_last_name">Uzvārds</label>
-                <input type="text" name="last_name" placeholder="Iļņickis" required />
+                <label data-store-i18n="checkout_last_name">Uzvards</label>
+                <input type="text" name="last_name" placeholder="Ilnickis" required />
               </div>
             </div>
 
@@ -109,26 +109,26 @@
                 <input type="email" name="email" placeholder="your@email.com" required />
               </div>
               <div class="field">
-                <label data-store-i18n="checkout_phone">Tālrunis</label>
+                <label data-store-i18n="checkout_phone">Talrunis</label>
                 <input type="tel" name="phone" placeholder="28807591" required />
               </div>
             </div>
 
-            <div class="store-checkout-section-title" data-store-i18n="checkout_shipping">Piegādes adrese</div>
+            <div class="store-checkout-section-title" data-store-i18n="checkout_shipping">Piegades adrese</div>
             <div class="row">
               <div class="field">
                 <label data-store-i18n="checkout_country">Valsts kods</label>
                 <input id="checkoutCountry" type="text" name="country" maxlength="2" placeholder="LV" required />
               </div>
               <div class="field">
-                <label data-store-i18n="checkout_region">Reģions</label>
+                <label data-store-i18n="checkout_region">Regions</label>
                 <input type="text" name="region" placeholder="Kurzeme" />
               </div>
             </div>
 
             <div class="row">
               <div class="field">
-                <label data-store-i18n="checkout_city">Pilsēta</label>
+                <label data-store-i18n="checkout_city">Pilseta</label>
                 <input type="text" name="city" placeholder="Saldus" required />
               </div>
               <div class="field">
@@ -139,11 +139,11 @@
 
             <div class="field">
               <label data-store-i18n="checkout_address1">Adrese</label>
-              <input type="text" name="address1" placeholder="Rīgas iela 12" required />
+              <input type="text" name="address1" placeholder="Rigas iela 12" required />
             </div>
 
             <div class="field">
-              <label data-store-i18n="checkout_address2">Dzīvoklis / papildus adrese</label>
+              <label data-store-i18n="checkout_address2">Dzivoklis / papildus adrese</label>
               <input type="text" name="address2" placeholder="8" />
             </div>
 
@@ -158,32 +158,32 @@
               </div>
             </div>
 
-            <p class="store-checkout-hint" data-store-i18n="checkout_promo_hint">Ja tev ir promokods, ievadi to un saņem atlaidi!</p>
+            <p class="store-checkout-hint" data-store-i18n="checkout_promo_hint">Ja tev ir promokods, ievadi to un sanem atlaidi!</p>
 
             <section class="payment-breakdown store-checkout-breakdown">
               <div class="payment-breakdown-head">
-                <strong data-i18n="order_payment_breakdown_title">Kas ir iekļauts summā</strong>
-                <div class="availability-badge payment-warning-badge" data-i18n="order_delivery_warning">Piegāde aizņem vismaz 3 nedēļas, bet var būt ātrāk</div>
+                <strong data-i18n="order_payment_breakdown_title">Kas ir ieklauts summa</strong>
+                <div class="availability-badge payment-warning-badge" data-i18n="order_delivery_warning">Piegade aiznem vismaz 3 nedelas, bet var but atrak</div>
               </div>
 
               <div class="payment-breakdown-row">
                 <span id="checkoutBreakdownProductName">Product</span>
-                <strong id="checkoutBreakdownProductAmount">—</strong>
+                <strong id="checkoutBreakdownProductAmount">�</strong>
               </div>
 
               <div class="payment-breakdown-row">
-                <span><span data-i18n="order_payment_delivery">Piegāde</span> • <span id="checkoutBreakdownDeliveryMethod">Standard</span></span>
-                <strong id="checkoutBreakdownShippingAmount">—</strong>
+                <span><span data-i18n="order_payment_delivery">Piegade</span> � <span id="checkoutBreakdownDeliveryMethod">Standard</span></span>
+                <strong id="checkoutBreakdownShippingAmount">�</strong>
               </div>
 
               <div class="payment-breakdown-row payment-breakdown-row-discount" id="checkoutBreakdownDiscountRow" hidden>
-                <span><span data-i18n="order_discount_label">Atlaide</span> • <span id="checkoutBreakdownDiscountCode"></span></span>
-                <strong id="checkoutBreakdownDiscountAmount">—</strong>
+                <span><span data-i18n="order_discount_label">Atlaide</span> � <span id="checkoutBreakdownDiscountCode"></span></span>
+                <strong id="checkoutBreakdownDiscountAmount">�</strong>
               </div>
 
               <div class="payment-breakdown-row is-total">
-                <span data-i18n="order_payment_total">Kopā</span>
-                <strong id="checkoutBreakdownTotalAmount">—</strong>
+                <span data-i18n="order_payment_total">Kopa</span>
+                <strong id="checkoutBreakdownTotalAmount">�</strong>
               </div>
             </section>
 
@@ -196,7 +196,7 @@
                   </span>
                 </span>
                 <span class="availability-badge is-unavailable payment-method-status" data-i18n="order_payment_unavailable">Nav pieejams</span>
-                <span class="payment-method-copy" data-i18n="order_payment_swedbank_disabled_copy">Šī apmaksas metode šobrīd nestrādā. Izvēlies citu apmaksas veidu zemāk.</span>
+                <span class="payment-method-copy" data-i18n="order_payment_swedbank_disabled_copy">�i apmaksas metode �obrid nestrada. Izvelies citu apmaksas veidu zemak.</span>
                 <span class="payment-method-cta" data-i18n="order_payment_unavailable">Nav pieejams</span>
               </button>
 
@@ -205,8 +205,8 @@
                   <span class="payment-brand-pill">PayPal</span>
                   <span class="payment-brand-logo payment-brand-logo-paypal" aria-hidden="true">P</span>
                 </span>
-                <span class="payment-method-copy" data-i18n="order_payment_paypal_copy">Pēc pasūtījuma apstiprināšanas uzreiz atvērsies PayPal lapa ar pilno summu.</span>
-                <span class="payment-method-cta" data-i18n="order_paypal">Apmaksāt ar PayPal ↗</span>
+                <span class="payment-method-copy" data-i18n="order_payment_paypal_copy">Pec pasutijuma apstiprina�anas uzreiz atversies PayPal lapa ar pilno summu.</span>
+                <span class="payment-method-cta" data-i18n="order_paypal">Apmaksat ar PayPal ?</span>
               </button>
 
               <button class="payment-method-card payment-method-card-revolut" type="button" data-store-visual-payment="revolut">
@@ -216,40 +216,40 @@
                     <img class="payment-brand-logo-img" src="https://raw.githubusercontent.com/alekseymediatype/AlekseyMedia/main/IMAGES/PAYMENTS/revolut.png" alt="" />
                   </span>
                 </span>
-                <span class="payment-method-copy" data-i18n="order_payment_revolut_copy">Izvēlies Revolut, un es uzreiz sazināšos ar tevi par apmaksu uz karti vai caur Revolut saiti.</span>
-                <span class="payment-method-cta" data-i18n="order_payment_revolut_btn">Izvēlēties Revolut</span>
+                <span class="payment-method-copy" data-i18n="order_payment_revolut_copy">Izvelies Revolut, un es uzreiz sazina�os ar tevi par apmaksu uz karti vai caur Revolut saiti.</span>
+                <span class="payment-method-cta" data-i18n="order_payment_revolut_btn">Izveleties Revolut</span>
               </button>
 
               <button class="payment-method-card payment-method-card-bank" type="button" data-store-visual-payment="bank">
                 <span class="payment-method-top">
-                  <span class="payment-brand-pill" data-i18n="order_payment_bank_name">Bankas pārskaitījums</span>
-                  <span class="payment-brand-logo payment-brand-logo-bank" aria-hidden="true">€</span>
+                  <span class="payment-brand-pill" data-i18n="order_payment_bank_name">Bankas parskaitijums</span>
+                  <span class="payment-brand-logo payment-brand-logo-bank" aria-hidden="true">�</span>
                 </span>
-                <span class="payment-method-copy" data-i18n-html="order_payment_bank_copy">Izvēlies pārskaitījumu, un pēc pasūtījuma noformēšanas zemāk parādīsies rekvizīti apmaksai. Strādā visas ES bankas, piemēram, <span class="bank-brand bank-brand-swedbank">Swedbank</span>, <span class="bank-brand bank-brand-seb">SEB</span>, <span class="bank-brand bank-brand-citadele">Citadele</span> un citas.</span>
-                <span class="payment-method-cta" data-i18n="order_payment_bank_btn">Izvēlēties pārskaitījumu</span>
+                <span class="payment-method-copy" data-i18n-html="order_payment_bank_copy">Izvelies parskaitijumu, un pec pasutijuma noforme�anas zemak paradisies rekviziti apmaksai. Strada visas ES bankas, piemeram, <span class="bank-brand bank-brand-swedbank">Swedbank</span>, <span class="bank-brand bank-brand-seb">SEB</span>, <span class="bank-brand bank-brand-citadele">Citadele</span> un citas.</span>
+                <span class="payment-method-cta" data-i18n="order_payment_bank_btn">Izveleties parskaitijumu</span>
               </button>
             </div>
 
             <section class="payment-bank-details is-hidden" id="storeVisualBankDetails" aria-live="polite">
-              <strong class="payment-bank-details-title" data-i18n="order_bank_details_title">Pārskaitījuma rekvizīti</strong>
+              <strong class="payment-bank-details-title" data-i18n="order_bank_details_title">Parskaitijuma rekviziti</strong>
               <div class="payment-bank-details-row">
                 <div class="payment-bank-details-copy">
                   <span data-i18n="order_bank_details_iban">Konts</span>
                   <strong>LV08HABA0551049036283</strong>
                 </div>
-                <button class="pill payment-copy-btn" type="button" data-copy-text="LV08HABA0551049036283">Kopēt</button>
+                <button class="pill payment-copy-btn" type="button" data-copy-text="LV08HABA0551049036283">Kopet</button>
               </div>
               <div class="payment-bank-details-row">
                 <div class="payment-bank-details-copy">
-                  <span data-i18n="order_bank_details_name">Vārds un uzvārds</span>
+                  <span data-i18n="order_bank_details_name">Vards un uzvards</span>
                   <strong>ALEKSEJS ILNICKIS</strong>
                 </div>
-                <button class="pill payment-copy-btn" type="button" data-copy-text="ALEKSEJS ILNICKIS">Kopēt</button>
+                <button class="pill payment-copy-btn" type="button" data-copy-text="ALEKSEJS ILNICKIS">Kopet</button>
               </div>
             </section>
 
             <div class="contact-form-actions">
-              <button class="submit" id="storeCheckoutSubmit" type="submit" data-store-i18n="checkout_submit">Apmaksāt ar Stripe ↗</button>
+              <button class="submit" id="storeCheckoutSubmit" type="submit" data-store-i18n="checkout_submit">Apmaksat ar Stripe ?</button>
             </div>
 
             <p class="form-status" id="storeCheckoutStatus" aria-live="polite"></p>
@@ -265,7 +265,7 @@
           <div class="store-checkout-summary-copy order-summary-copy">
             <div class="cap-item-type" data-i18n="merch_item_type">Produkts</div>
             <strong class="order-title" id="checkoutItemName">Item</strong>
-            <div class="order-price" id="checkoutSummaryPriceTop">—</div>
+            <div class="order-price" id="checkoutSummaryPriceTop">�</div>
             <span class="order-summary-meta" id="checkoutItemMeta"></span>
           </div>
 
@@ -277,27 +277,27 @@
                   <strong id="checkoutSummaryItemName">Item</strong>
                   <small id="checkoutSummaryItemMeta"></small>
                 </div>
-                <strong class="payment-cart-row-price" id="checkoutSubtotalAmount">—</strong>
+                <strong class="payment-cart-row-price" id="checkoutSubtotalAmount">�</strong>
               </div>
               <div class="payment-cart-row">
                 <div class="payment-cart-copy">
-                  <span class="payment-cart-row-title" data-i18n="order_payment_delivery">Piegāde</span>
+                  <span class="payment-cart-row-title" data-i18n="order_payment_delivery">Piegade</span>
                   <small id="checkoutSummaryDeliveryMethod">Standard</small>
                 </div>
-                <strong class="payment-cart-row-price" id="checkoutShippingAmount">—</strong>
+                <strong class="payment-cart-row-price" id="checkoutShippingAmount">�</strong>
               </div>
               <div class="payment-cart-row" id="checkoutDiscountRow" hidden>
                 <div class="payment-cart-copy">
                   <span class="payment-cart-row-title" data-i18n="order_discount_label">Atlaide</span>
                   <small id="checkoutDiscountCode"></small>
                 </div>
-                <strong class="payment-cart-row-price" id="checkoutDiscountAmount">—</strong>
+                <strong class="payment-cart-row-price" id="checkoutDiscountAmount">�</strong>
               </div>
             </div>
 
             <div class="payment-summary-total">
-              <span data-i18n="order_payment_total">Kopā</span>
-              <strong id="checkoutTotalAmount">—</strong>
+              <span data-i18n="order_payment_total">Kopa</span>
+              <strong id="checkoutTotalAmount">�</strong>
             </div>
           </div>
         </aside>
@@ -305,7 +305,7 @@
     </section>
   </main>
 
-  <script src="script.js?v=20260504-163819"></script>
+  <script src="script.js?v=20260506-03"></script>
   <script src="storefront.js?v=20260416-8"></script>
 </body>
 </html>

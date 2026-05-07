@@ -10,7 +10,7 @@ const translations = {
     hero_line2: "чтобы тебя",
     hero_line3: "заметили.",
     hero_copy: "Я — Алексей Ильницкий. Мне 16 лет, и я создаю контент, который выглядит смело, двигается быстро и чувствуется как бренд, а не просто ещё одно видео в ленте.",
-    hero_btn_1: "Смотреть Instagram ↗",
+    hero_btn_1: "Смотреть Instagram",
     hero_btn_2: "Посмотреть работы",
     frame_top_left: "creative cuts / reels / campaign visuals",
     stat_1: "видео для брендов и личного бренда",
@@ -34,32 +34,32 @@ const translations = {
     work_1_title: "Edijs Gabriels Naumanis",
      work_1_copy: "5000 подписчиков",
     work_1_detail: "Edijs Gabriels Naumanis — фитнес-тренер из Салдус, Латвия. Он активно занимается спортом и помогает людям улучшать форму и здоровье. У него есть собственный тренажёрный зал, где он проводит персональные тренировки и мотивирует клиентов достигать результата.",
-    work_gallery_hint: "Открыть галерею ↗",
+    work_gallery_hint: "Открыть галерею",
     work_2_label: "Работа 2",
     work_2_title: "1 SEPTEMBER",
     work_2_copy: "Фотосет 1 сентября",
     work_2_detail: "Съёмка первого сентября с живой атмосферой дня: портреты, детали, уличные кадры и естественные эмоции без постановочного ощущения.",
-    work_2_place_link: "Место, где снималось: Brocēni Secondary School ↗",
+    work_2_place_link: "Место, где снималось: Brocēni Secondary School",
     work_3_label: "Работа 3",
     work_3_title: "Gilera Runner",
     work_3_copy: "Street detail set",
     work_3_detail: "Street detail set вокруг Gilera Runner: металл, текстуры, свет и близкие ракурсы, чтобы техника выглядела агрессивно и кинематографично.",
-    work_3_place_link: "Место, где снималось: Brocēni ↗",
+    work_3_place_link: "Место, где снималось: Brocēni",
     work_4_label: "Работа 4",
     work_4_title: "BASKETBALL",
     work_4_copy: "Баскетбольный фотосет",
     work_4_detail: "Динамичный баскетбольный сет с акцентом на движение, форму и напряжение игры. Серия собрана для спортивного визуала и контента в соцсетях.",
-    work_4_place_link: "Место, где снималось: Saldus Action Sports Games ↗",
+    work_4_place_link: "Место, где снималось: Saldus Action Sports Games",
     work_5_label: "Работа 5",
     work_5_title: "GYM WORKOUT",
     work_5_copy: "Тренировочный фотосет",
     work_5_detail: "Тренировочный фотосет с фокусом на силу, форму и ритм движения. Кадры передают энергию зала, а не просто отдельные позы.",
-    work_5_place_link: "Место, где снималось: Skrundas iela 9, Saldus ↗",
+    work_5_place_link: "Место, где снималось: Skrundas iela 9, Saldus",
     work_6_label: "Работа 6",
     work_6_title: "HOCKEY",
     work_6_copy: "Игровой фотосет",
     work_6_detail: "Игровой хоккейный фотосет с быстрыми моментами, холодным светом и акцентом на скорость, контакт и атмосферу матча.",
-    work_6_place_link: "Место, где снималось: Brocēni Sports Center ↗",
+    work_6_place_link: "Место, где снималось: Brocēni Sports Center",
     archive_work_1_label: "Работа 7",
     archive_work_1_title: "PEUGEOT SPEEDFIGHT 3",
     archive_work_1_copy: "Ночной фотосет",
@@ -73,17 +73,17 @@ const translations = {
     works_archive_copy: "Тут больше работ. Больше можно узнать в Instagram: alekseymedia.lv.",
     works_archive_instagram_kicker: "Instagram",
     works_archive_instagram_copy: "Там больше работ, backstage и свежие съёмки.",
-    works_archive_instagram_btn: "Открыть ↗",
+    works_archive_instagram_btn: "Открыть",
     gallery_desktop_insta_kicker: "Instagram",
     gallery_desktop_insta_copy: "Здесь можно посмотреть больше работ, backstage и свежие съёмки.",
-    gallery_desktop_insta_btn: "Открыть Instagram ↗",
+    gallery_desktop_insta_btn: "Открыть Instagram",
     merch_kicker: "Merch",
     merch_title: "Мерч как отдельный акцентный блок.",
     merch_copy: "Смени свой стиль и закажи уже сейчас!",
     merch_card_kicker: "Нажми, чтобы открыть мерч",
     merch_card_copy: "Нажимаешь — и сразу переходишь на мерч.",
-    merch_card_btn: "Открыть ↗",
-    merch_page_back: "← Назад",
+    merch_card_btn: "Открыть",
+    merch_page_back: "Назад",
     merch_page_label: "Caps drop",
     merch_page_title: "ALEKSEY STYLE",
     merch_page_sub: "Отдельная страница с твоими кепками. Здесь собран дроп в чистом витринном виде, чтобы человек сразу видел весь merch.",
@@ -92,7 +92,7 @@ const translations = {
     merch_item_type: "Кепка",
     merch_item_anorak: "Анорак",
     merch_item_beanie: "Шапка",
-    merch_buy: "Купить ↗",
+    merch_buy: "Купить",
     merch_close: "Закрыть",
     merch_photo_note: "(Все фотографии защищены авторским правом)",
     merch_color: "Цвет",
@@ -107,9 +107,9 @@ const translations = {
     order_country_code: "Код страны",
     order_phone: "Номер телефона",
     order_phone_placeholder: "28807591",
-    order_next: "Далее →",
-    order_to_payment: "Перейти к оплате →",
-    order_prev: "← Назад",
+    order_next: "Далее",
+    order_to_payment: "Перейти к оплате",
+    order_prev: "Назад",
     order_delivery_label: "Delivery",
     order_delivery_title: "Доставка и адрес",
     order_delivery_note: "Доставка может занять от 3 недель, иногда быстрее. После отправки заказа я свяжусь с тобой по подтверждению и оплате.",
@@ -128,8 +128,8 @@ const translations = {
     order_apartment_placeholder: "8",
     order_postal_code: "Индекс",
     order_postal_placeholder: "LV-3801",
-    order_paypal: "Оплатить PayPal ↗",
-    order_submit: "Оформить и оплатить →",
+    order_paypal: "Оплатить PayPal",
+    order_submit: "Оформить и оплатить",
     order_sending: "Отправляю заказ...",
     order_success: "Заказ отправлен. Я свяжусь с тобой по email или телефону.",
     order_success_payment: "Заказ отправлен. Сейчас откроется PayPal для оплаты.",
@@ -214,15 +214,15 @@ const translations = {
     ph_last_name: "Iļņickis",
     ph_email: "your@email.com",
     ph_message: "Привет, хочу обсудить съёмку или монтаж...",
-    form_submit: "Отправить сообщение →",
-    contact_back: "← Назад",
+    form_submit: "Отправить сообщение",
+    contact_back: "Назад",
     contact_title: "Напиши мне",
     contact_sub: "Если хочешь обсудить съёмку, монтаж, контент или сотрудничество, отправь сообщение. Оно сразу придёт мне на email.",
     contact_phone_label: "Телефон",
     contact_instagram_label: "Instagram",
     contact_location_label: "Локация",
-    contact_map_link: "Открыть карту ↗",
-    contact_submit: "Отправить сообщение →",
+    contact_map_link: "Открыть карту",
+    contact_submit: "Отправить сообщение",
     contact_sending: "Отправляю...",
     contact_success: "Сообщение отправлено. Я скоро отвечу.",
     contact_error: "Не удалось отправить сообщение. Попробуй ещё раз."
@@ -236,9 +236,9 @@ const translations = {
     hero_eyebrow: "PHOTOGRAPHER / VIDEOGRAPHER / CONTENTMAKER",
     hero_line1: "Filmēju tā,",
     hero_line2: "lai tevi",
-    hero_line3: "pamānītu.",
+    hero_line3: "pamanītu.",
     hero_copy: "Es esmu Aleksejs Iļņickis. Man ir 16 gadi, un es veidoju saturu, kas izskatās drosmīgi, kustas ātri un jūtas kā zīmols, nevis kārtējais video lentē.",
-    hero_btn_1: "Skatīt Instagram ↗",
+    hero_btn_1: "Skatīt Instagram",
     hero_btn_2: "Skatīt darbus",
     frame_top_left: "creative cuts / reels / campaign visuals",
     stat_1: "video zīmoliem un personīgajam zīmolam",
@@ -262,32 +262,32 @@ const translations = {
     work_1_title: "Edijs Gabriels Naumanis",
     work_1_copy: "5000 sekotāji",
     work_1_detail: "Edijs Gabriels Naumanis ir fitnesa treneris no Saldus, Latvijā. Viņš aktīvi nodarbojas ar sportu un palīdz cilvēkiem uzlabot fizisko formu un veselību. Viņam ir savs sporta zāles klubs, kur viņš vada individuālos treniņus un motivē klientus sasniegt rezultātu.",
-    work_gallery_hint: "Atvērt galeriju ↗",
+    work_gallery_hint: "Atvērt galeriju",
     work_2_label: "Darbs 2",
     work_2_title: "1 SEPTEMBER",
     work_2_copy: "1. septembra fotosets",
     work_2_detail: "1. septembra fotosesija ar dzīvu dienas atmosfēru: portreti, detaļas, ielas kadri un dabiskas emocijas bez iestudētas sajūtas.",
-    work_2_place_link: "Vieta, kur fotografēts: Brocēnu vidusskola ↗",
+    work_2_place_link: "Vieta, kur fotografēts: Brocēnu vidusskola",
     work_3_label: "Darbs 3",
     work_3_title: "Gilera Runner",
     work_3_copy: "Street detail set",
     work_3_detail: "Street detail set ap Gilera Runner: metāls, faktūras, gaisma un tuvi rakursi, lai tehnika izskatītos agresīvi un kinematogrāfiski.",
-    work_3_place_link: "Vieta, kur fotografēts: Brocēni ↗",
+    work_3_place_link: "Vieta, kur fotografēts: Brocēni",
     work_4_label: "Darbs 4",
     work_4_title: "BASKETBALL",
     work_4_copy: "Basketbola fotosets",
     work_4_detail: "Dinamisks basketbola fotosets ar akcentu uz kustību, formu un spēles spriedzi. Sērija veidota sporta vizuālam un sociālo tīklu saturam.",
-    work_4_place_link: "Vieta, kur fotografēts: Saldus Action Sports Games ↗",
+    work_4_place_link: "Vieta, kur fotografēts: Saldus Action Sports Games",
     work_5_label: "Darbs 5",
     work_5_title: "GYM WORKOUT",
     work_5_copy: "Treniņa fotosets",
     work_5_detail: "Treniņa fotosets ar fokusu uz spēku, formu un kustības ritmu. Kadri nodod zāles enerģiju, nevis tikai atsevišķas pozas.",
-    work_5_place_link: "Vieta, kur fotografēts: Skrundas iela 9, Saldus ↗",
+    work_5_place_link: "Vieta, kur fotografēts: Skrundas iela 9, Saldus",
     work_6_label: "Darbs 6",
     work_6_title: "HOCKEY",
     work_6_copy: "Spēles fotosets",
     work_6_detail: "Hokeja spēles fotosets ar ātriem mirkļiem, aukstu gaismu un uzsvaru uz ātrumu, kontaktu un mača atmosfēru.",
-    work_6_place_link: "Vieta, kur fotografēts: Brocēnu sporta centrs ↗",
+    work_6_place_link: "Vieta, kur fotografēts: Brocēnu sporta centrs",
     archive_work_1_label: "Darbs 7",
     archive_work_1_title: "PEUGEOT SPEEDFIGHT 3",
     archive_work_1_copy: "Nakts fotosets",
@@ -301,17 +301,17 @@ const translations = {
     works_archive_copy: "Šeit ir vairāk darbu. Vairāk var uzzināt Instagram: alekseymedia.lv.",
     works_archive_instagram_kicker: "Instagram",
     works_archive_instagram_copy: "Tur ir vairāk darbu, backstage un jaunākās fotosesijas.",
-    works_archive_instagram_btn: "Atvērt ↗",
+    works_archive_instagram_btn: "Atvērt",
     gallery_desktop_insta_kicker: "Instagram",
     gallery_desktop_insta_copy: "Šeit var apskatīt vairāk darbu, backstage un jaunākās fotosesijas.",
-    gallery_desktop_insta_btn: "Atvērt Instagram ↗",
+    gallery_desktop_insta_btn: "Atvērt Instagram",
     merch_kicker: "Merčs",
     merch_title: "Merčs kā atsevišķs akcents.",
     merch_copy: "Nomainu savu stilu un pasūt jau tagad!",
     merch_card_kicker: "Spied, lai atvērtu merču",
     merch_card_copy: "Nospied — un uzreiz atveras merčs.",
-    merch_card_btn: "Atvērt ↗",
-    merch_page_back: "← Atpakaļ",
+    merch_card_btn: "Atvērt",
+    merch_page_back: "Atpakaļ",
     merch_page_label: "Cepuru drops",
     merch_page_title: "ALEKSEY STYLE",
     merch_page_sub: "Atsevišķa lapa tavām cepurēm. Šeit drops ir salikts tīrā vitrīnas veidā, lai cilvēks uzreiz redz visu merch.",
@@ -320,7 +320,7 @@ const translations = {
     merch_item_type: "Kepons",
     merch_item_anorak: "Anoraks",
     merch_item_beanie: "Cepure",
-    merch_buy: "Pirkt ↗",
+    merch_buy: "Pirkt",
     merch_article_label: "Artikuls",
     merch_close: "Aizvērt",
     merch_photo_note: "(Visas fotogrāfijas ir aizsargātas ar autortiesībām)",
@@ -335,9 +335,9 @@ const translations = {
     order_country_code: "Valsts kods",
     order_phone: "Tālruņa numurs",
     order_phone_placeholder: "28807591",
-    order_next: "Turpināt →",
-    order_to_payment: "Pāriet pie apmaksas →",
-    order_prev: "← Atpakaļ",
+    order_next: "Turpināt",
+    order_to_payment: "Pāriet pie apmaksas",
+    order_prev: "Atpakaļ",
     order_delivery_label: "Delivery",
     order_delivery_title: "Piegāde un adrese",
     order_delivery_note: "Piegāde var aizņemt no 3 nedēļām, dažreiz ātrāk. Pēc pasūtījuma nosūtīšanas es ar tevi sazināšos par apstiprinājumu un apmaksu.",
@@ -356,8 +356,8 @@ const translations = {
     order_apartment_placeholder: "8",
     order_postal_code: "Pasta indekss",
     order_postal_placeholder: "LV-3801",
-    order_paypal: "Apmaksāt ar PayPal ↗",
-    order_submit: "Noformēt un apmaksāt →",
+    order_paypal: "Apmaksāt ar PayPal",
+    order_submit: "Noformēt un apmaksāt",
     order_sending: "Sūtu pasūtījumu...",
     order_success: "Pasūtījums nosūtīts. Es ar tevi sazināšos pa e-pastu vai telefonu.",
     order_success_payment: "Pasūtījums nosūtīts. Tagad atvērsies PayPal apmaksai.",
@@ -442,15 +442,15 @@ const translations = {
     ph_last_name: "Iļņickis",
     ph_email: "your@email.com",
     ph_message: "Sveiks, gribu apspriest filmēšanu vai montāžu...",
-    form_submit: "Nosūtīt ziņu →",
-    contact_back: "← Atpakaļ",
+    form_submit: "Nosūtīt ziņu",
+    contact_back: "Atpakaļ",
     contact_title: "Uzraksti man",
     contact_sub: "Ja vēlies apspriest filmēšanu, montāžu, saturu vai sadarbību, nosūti ziņu. Tā uzreiz nonāks manā e-pastā.",
     contact_phone_label: "Tālrunis",
     contact_instagram_label: "Instagram",
     contact_location_label: "Atrašanās vieta",
-    contact_map_link: "Atvērt karti ↗",
-    contact_submit: "Nosūtīt ziņu →",
+    contact_map_link: "Atvērt karti",
+    contact_submit: "Nosūtīt ziņu",
     contact_sending: "Sūtu...",
     contact_success: "Ziņa nosūtīta. Drīz atbildēšu.",
     contact_error: "Ziņu neizdevās nosūtīt. Mēģini vēlreiz."
@@ -466,7 +466,7 @@ const translations = {
     hero_line2: "that makes people",
     hero_line3: "notice you.",
     hero_copy: "I’m Aleksejs Iļņickis. I'm 16 years old and I create content that feels bold, moves fast, and looks like a brand instead of just another video in the feed.",
-    hero_btn_1: "View Instagram ↗",
+    hero_btn_1: "View Instagram",
     hero_btn_2: "View works",
     frame_top_left: "creative cuts / reels / campaign visuals",
     stat_1: "video for brands and personal brands",
@@ -490,32 +490,32 @@ const translations = {
     work_1_title: "Edijs Gabriels Naumanis",
      work_1_copy: "5000 followers",
     work_1_detail: "Edijs Gabriels Naumanis is a fitness trainer from Saldus, Latvia. He is actively involved in sports and helps people improve their shape and health. He has his own gym where he leads personal training sessions and motivates clients to achieve results.",
-    work_gallery_hint: "Open gallery ↗",
+    work_gallery_hint: "Open gallery",
     work_2_label: "Work 2",
     work_2_title: "1 SEPTEMBER",
     work_2_copy: "1 September photo set",
     work_2_detail: "A 1 September shoot with the real atmosphere of the day: portraits, details, street frames and natural emotion without a staged feeling.",
-    work_2_place_link: "Shot at: Brocēni Secondary School ↗",
+    work_2_place_link: "Shot at: Brocēni Secondary School",
     work_3_label: "Work 3",
     work_3_title: "Gilera Runner",
     work_3_copy: "Street detail set",
     work_3_detail: "A street detail set around Gilera Runner: metal, textures, light and close angles that make the bike feel aggressive and cinematic.",
-    work_3_place_link: "Shot at: Brocēni ↗",
+    work_3_place_link: "Shot at: Brocēni",
     work_4_label: "Work 4",
     work_4_title: "BASKETBALL",
     work_4_copy: "Basketball photo set",
     work_4_detail: "A dynamic basketball shoot focused on movement, shape and game tension. The series is built for sports visuals and social content.",
-    work_4_place_link: "Shot at: Saldus Action Sports Games ↗",
+    work_4_place_link: "Shot at: Saldus Action Sports Games",
     work_5_label: "Work 5",
     work_5_title: "GYM WORKOUT",
     work_5_copy: "Workout photo set",
     work_5_detail: "A workout shoot focused on strength, body form and movement rhythm. The frames are built to carry the energy of training, not just isolated poses.",
-    work_5_place_link: "Shot at: Skrundas iela 9, Saldus ↗",
+    work_5_place_link: "Shot at: Skrundas iela 9, Saldus",
     work_6_label: "Work 6",
     work_6_title: "HOCKEY",
     work_6_copy: "Game photo set",
     work_6_detail: "A hockey game shoot with fast moments, cold light and a focus on speed, contact and the atmosphere of the match.",
-    work_6_place_link: "Shot at: Brocēni Sports Center ↗",
+    work_6_place_link: "Shot at: Brocēni Sports Center",
     archive_work_1_label: "Work 7",
     archive_work_1_title: "PEUGEOT SPEEDFIGHT 3",
     archive_work_1_copy: "Night photo set",
@@ -529,17 +529,17 @@ const translations = {
     works_archive_copy: "More work is here. You can find more on Instagram: alekseymedia.lv.",
     works_archive_instagram_kicker: "Instagram",
     works_archive_instagram_copy: "More work, backstage and fresh shoots are on Instagram.",
-    works_archive_instagram_btn: "Open ↗",
+    works_archive_instagram_btn: "Open",
     gallery_desktop_insta_kicker: "Instagram",
     gallery_desktop_insta_copy: "More work, backstage and fresh shoots can be found here.",
-    gallery_desktop_insta_btn: "Open Instagram ↗",
+    gallery_desktop_insta_btn: "Open Instagram",
     merch_kicker: "Merch",
     merch_title: "Merch as a standalone highlight block.",
     merch_copy: "Change your style and order now!",
     merch_card_kicker: "Click to open merch",
     merch_card_copy: "One click and people go straight to your merch.",
-    merch_card_btn: "Open ↗",
-    merch_page_back: "← Back",
+    merch_card_btn: "Open",
+    merch_page_back: "Back",
     merch_page_label: "Caps drop",
     merch_page_title: "ALEKSEY STYLE",
     merch_page_sub: "A dedicated page for your caps. The drop is shown here like a clean product showcase so people immediately see the merch.",
@@ -548,7 +548,7 @@ const translations = {
     merch_item_type: "Cap",
     merch_item_anorak: "Anorak",
     merch_item_beanie: "Beanie",
-    merch_buy: "Buy ↗",
+    merch_buy: "Buy",
     merch_article_label: "Article",
     merch_close: "Close",
     merch_photo_note: "(All photographs are protected by copyright)",
@@ -563,9 +563,9 @@ const translations = {
     order_country_code: "Country code",
     order_phone: "Phone number",
     order_phone_placeholder: "28807591",
-    order_next: "Next →",
-    order_to_payment: "Continue to payment →",
-    order_prev: "← Back",
+    order_next: "Next",
+    order_to_payment: "Continue to payment",
+    order_prev: "Back",
     order_delivery_label: "Delivery",
     order_delivery_title: "Delivery and address",
     order_delivery_note: "Delivery may take from 3 weeks, sometimes faster. After you send the order, I will contact you about confirmation and payment.",
@@ -584,8 +584,8 @@ const translations = {
     order_apartment_placeholder: "8",
     order_postal_code: "Postal code",
     order_postal_placeholder: "LV-3801",
-    order_paypal: "Pay with PayPal ↗",
-    order_submit: "Place and pay →",
+    order_paypal: "Pay with PayPal",
+    order_submit: "Place and pay",
     order_sending: "Sending order...",
     order_success: "Order sent. I will contact you by email or phone.",
     order_success_payment: "Order sent. PayPal will open now for payment.",
@@ -670,15 +670,15 @@ const translations = {
     ph_last_name: "Iļņickis",
     ph_email: "your@email.com",
     ph_message: "Hi, I want to discuss a shoot or editing...",
-    form_submit: "Send message →",
-    contact_back: "← Back",
+    form_submit: "Send message",
+    contact_back: "Back",
     contact_title: "Write to me",
     contact_sub: "If you want to discuss shooting, editing, content, or collaboration, send a message. It will go straight to my email.",
     contact_phone_label: "Phone",
     contact_instagram_label: "Instagram",
     contact_location_label: "Location",
-    contact_map_link: "Open map ↗",
-    contact_submit: "Send message →",
+    contact_map_link: "Open map",
+    contact_submit: "Send message",
     contact_sending: "Sending...",
     contact_success: "Message sent. I will reply soon.",
     contact_error: "Message could not be sent. Please try again."
@@ -917,7 +917,7 @@ function initContactForm() {
     } finally {
       if (submitButton) {
         submitButton.disabled = false;
-        submitButton.textContent = getTranslation(getCurrentLanguage(), 'contact_submit', 'Send message →');
+        submitButton.textContent = getTranslation(getCurrentLanguage(), 'contact_submit', 'Send message');
       }
     }
   });
@@ -1496,16 +1496,16 @@ function getWorkProjectActions() {
     work_1: {
       instagram: {
         href: 'https://www.instagram.com/ednauman/',
-        label: 'Instagram @ednauman ↗',
+        label: 'Instagram @ednauman',
       },
     },
     work_2: {
       location: {
         href: 'https://www.google.com/maps/place/Broc%C4%93ni+Secondary+School/@56.6823943,22.5597706,599m/data=!3m2!1e3!4b1!4m6!3m5!1s0x46efa27976ce0e87:0x339173e78c3e3bd!8m2!3d56.6823943!4d22.5623455!16s%2Fg%2F11yf064_0?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Brocēni Secondary School ↗',
-          lv: 'Vieta, kur fotografēts: Brocēnu vidusskola ↗',
-          en: 'Shot at: Brocēni Secondary School ↗',
+          ru: 'Место, где снималось: Brocēni Secondary School',
+          lv: 'Vieta, kur fotografēts: Brocēnu vidusskola',
+          en: 'Shot at: Brocēni Secondary School',
         },
       },
     },
@@ -1513,9 +1513,9 @@ function getWorkProjectActions() {
       location: {
         href: 'https://www.google.com/maps/place/%D0%91%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%8B,+Broc%C4%93ni+pils%C4%93ta,+%D0%A1%D0%B0%D0%BB%D0%B4%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D1%80%D0%B0%D0%B9,+LV-3851/@56.6776452,22.5323111,9584m/data=!3m2!1e3!4b1!4m6!3m5!1s0x46efa26b1ea5d143:0x3de09c0f910a297f!8m2!3d56.6800292!4d22.5684193!16zL20vMGMzeTZn?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Brocēni ↗',
-          lv: 'Vieta, kur fotografēts: Brocēni ↗',
-          en: 'Shot at: Brocēni ↗',
+          ru: 'Место, где снималось: Brocēni',
+          lv: 'Vieta, kur fotografēts: Brocēni',
+          en: 'Shot at: Brocēni',
         },
       },
     },
@@ -1523,9 +1523,9 @@ function getWorkProjectActions() {
       location: {
         href: 'https://www.google.com/maps/place/SALDUS+ACTION+SPORTS+GAMES/@56.6680624,22.4961391,562m/data=!3m1!1e3!4m14!1m7!3m6!1s0x46ef986a5f0192c3:0x8c3198021d90ffb3!2sSaldus+Sports+School+Stadium!8m2!3d56.6680595!4d22.498714!16s%2Fg%2F1pztyx9vj!3m5!1s0x46ef99c16c78a7fb:0x998bf1a3d440da1a!8m2!3d56.6674785!4d22.4986641!16s%2Fg%2F11rzp0nrgy?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Saldus Action Sports Games ↗',
-          lv: 'Vieta, kur fotografēts: Saldus Action Sports Games ↗',
-          en: 'Shot at: Saldus Action Sports Games ↗',
+          ru: 'Место, где снималось: Saldus Action Sports Games',
+          lv: 'Vieta, kur fotografēts: Saldus Action Sports Games',
+          en: 'Shot at: Saldus Action Sports Games',
         },
       },
     },
@@ -1533,9 +1533,9 @@ function getWorkProjectActions() {
       location: {
         href: 'https://www.google.com/maps/place/Skrundas+iela+9,+Saldus,+Saldus+pils%C4%93ta,+Saldus+novads,+LV-3801/@56.6618123,22.4807745,562m/data=!3m2!1e3!4b1!4m6!3m5!1s0x46ef9838dfa7ad49:0xc40bd843aefb0471!8m2!3d56.6618094!4d22.4833494!16s%2Fg%2F11mtmlbgg9?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Skrundas iela 9, Saldus ↗',
-          lv: 'Vieta, kur fotografēts: Skrundas iela 9, Saldus ↗',
-          en: 'Shot at: Skrundas iela 9, Saldus ↗',
+          ru: 'Место, где снималось: Skrundas iela 9, Saldus',
+          lv: 'Vieta, kur fotografēts: Skrundas iela 9, Saldus',
+          en: 'Shot at: Skrundas iela 9, Saldus',
         },
       },
     },
@@ -1543,9 +1543,9 @@ function getWorkProjectActions() {
       location: {
         href: 'https://www.google.com/maps/place/Broc%C4%93ni+Sports+Center/@56.6837366,22.5629471,599m/data=!3m1!1e3!4m14!1m7!3m6!1s0x46efa27bc3773323:0x2be1636755eabc2c!2sBroc%C4%93ni+Sports+Center!8m2!3d56.6844511!4d22.5626083!16s%2Fg%2F11c52k0fk3!3m5!1s0x46efa27bc3773323:0x2be1636755eabc2c!8m2!3d56.6844511!4d22.5626083!16s%2Fg%2F11c52k0fk3?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Brocēni Sports Center ↗',
-          lv: 'Vieta, kur fotografēts: Brocēnu sporta centrs ↗',
-          en: 'Shot at: Brocēni Sports Center ↗',
+          ru: 'Место, где снималось: Brocēni Sports Center',
+          lv: 'Vieta, kur fotografēts: Brocēnu sporta centrs',
+          en: 'Shot at: Brocēni Sports Center',
         },
       },
     },
@@ -1575,16 +1575,16 @@ function initWorksDetailPanel() {
     work_1: {
       instagram: {
         href: 'https://www.instagram.com/ednauman/',
-        label: 'Instagram @ednauman ↗',
+        label: 'Instagram @ednauman',
       },
     },
     work_2: {
       location: {
         href: 'https://www.google.com/maps/place/Broc%C4%93ni+Secondary+School/@56.6823943,22.5597706,599m/data=!3m2!1e3!4b1!4m6!3m5!1s0x46efa27976ce0e87:0x339173e78c3e3bd!8m2!3d56.6823943!4d22.5623455!16s%2Fg%2F11yf064_0?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Brocēni Secondary School ↗',
-          lv: 'Vieta, kur fotografēts: Brocēnu vidusskola ↗',
-          en: 'Shot at: Brocēni Secondary School ↗',
+          ru: 'Место, где снималось: Brocēni Secondary School',
+          lv: 'Vieta, kur fotografēts: Brocēnu vidusskola',
+          en: 'Shot at: Brocēni Secondary School',
         },
       },
     },
@@ -1592,9 +1592,9 @@ function initWorksDetailPanel() {
       location: {
         href: 'https://www.google.com/maps/place/%D0%91%D1%80%D0%BE%D1%86%D0%B5%D0%BD%D1%8B,+Broc%C4%93ni+pils%C4%93ta,+%D0%A1%D0%B0%D0%BB%D0%B4%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9+%D0%BA%D1%80%D0%B0%D0%B9,+LV-3851/@56.6776452,22.5323111,9584m/data=!3m2!1e3!4b1!4m6!3m5!1s0x46efa26b1ea5d143:0x3de09c0f910a297f!8m2!3d56.6800292!4d22.5684193!16zL20vMGMzeTZn?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Brocēni ↗',
-          lv: 'Vieta, kur fotografēts: Brocēni ↗',
-          en: 'Shot at: Brocēni ↗',
+          ru: 'Место, где снималось: Brocēni',
+          lv: 'Vieta, kur fotografēts: Brocēni',
+          en: 'Shot at: Brocēni',
         },
       },
     },
@@ -1602,9 +1602,9 @@ function initWorksDetailPanel() {
       location: {
         href: 'https://www.google.com/maps/place/SALDUS+ACTION+SPORTS+GAMES/@56.6680624,22.4961391,562m/data=!3m1!1e3!4m14!1m7!3m6!1s0x46ef986a5f0192c3:0x8c3198021d90ffb3!2sSaldus+Sports+School+Stadium!8m2!3d56.6680595!4d22.498714!16s%2Fg%2F1pztyx9vj!3m5!1s0x46ef99c16c78a7fb:0x998bf1a3d440da1a!8m2!3d56.6674785!4d22.4986641!16s%2Fg%2F11rzp0nrgy?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Saldus Action Sports Games ↗',
-          lv: 'Vieta, kur fotografēts: Saldus Action Sports Games ↗',
-          en: 'Shot at: Saldus Action Sports Games ↗',
+          ru: 'Место, где снималось: Saldus Action Sports Games',
+          lv: 'Vieta, kur fotografēts: Saldus Action Sports Games',
+          en: 'Shot at: Saldus Action Sports Games',
         },
       },
     },
@@ -1612,9 +1612,9 @@ function initWorksDetailPanel() {
       location: {
         href: 'https://www.google.com/maps/place/Skrundas+iela+9,+Saldus,+Saldus+pils%C4%93ta,+Saldus+novads,+LV-3801/@56.6618123,22.4807745,562m/data=!3m2!1e3!4b1!4m6!3m5!1s0x46ef9838dfa7ad49:0xc40bd843aefb0471!8m2!3d56.6618094!4d22.4833494!16s%2Fg%2F11mtmlbgg9?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Skrundas iela 9, Saldus ↗',
-          lv: 'Vieta, kur fotografēts: Skrundas iela 9, Saldus ↗',
-          en: 'Shot at: Skrundas iela 9, Saldus ↗',
+          ru: 'Место, где снималось: Skrundas iela 9, Saldus',
+          lv: 'Vieta, kur fotografēts: Skrundas iela 9, Saldus',
+          en: 'Shot at: Skrundas iela 9, Saldus',
         },
       },
     },
@@ -1622,9 +1622,9 @@ function initWorksDetailPanel() {
       location: {
         href: 'https://www.google.com/maps/place/Broc%C4%93ni+Sports+Center/@56.6837366,22.5629471,599m/data=!3m1!1e3!4m14!1m7!3m6!1s0x46efa27bc3773323:0x2be1636755eabc2c!2sBroc%C4%93ni+Sports+Center!8m2!3d56.6844511!4d22.5626083!16s%2Fg%2F11c52k0fk3!3m5!1s0x46efa27bc3773323:0x2be1636755eabc2c!8m2!3d56.6844511!4d22.5626083!16s%2Fg%2F11c52k0fk3?entry=ttu&g_ep=EgoyMDI2MDQxOS4wIKXMDSoASAFQAw%3D%3D',
         labels: {
-          ru: 'Место, где снималось: Brocēni Sports Center ↗',
-          lv: 'Vieta, kur fotografēts: Brocēnu sporta centrs ↗',
-          en: 'Shot at: Brocēni Sports Center ↗',
+          ru: 'Место, где снималось: Brocēni Sports Center',
+          lv: 'Vieta, kur fotografēts: Brocēnu sporta centrs',
+          en: 'Shot at: Brocēni Sports Center',
         },
       },
     },
@@ -2180,9 +2180,6 @@ function initWorkGallery() {
       'IMAGES/1september/IMG_1244.jpg',
       'IMAGES/1september/IMG_1246.jpg',
       'IMAGES/1september/IMG_1250.jpg',
-      'IMAGES/1september/IMG_1258.jpg',
-      'IMAGES/1september/IMG_1260.jpg',
-      'IMAGES/1september/IMG_1263.jpg',
     ],
     'gilera-runner': [
       'IMAGES/Naumaņu bildes/Gilera Runner/DSC00007.jpg',
@@ -3143,9 +3140,24 @@ function initServicesScrollPin() {
     });
   };
 
-  // Mobile scroll observer
-  if (isMobileServicesView()) {
-    const observer = new IntersectionObserver((entries) => {
+  let mobileObserver = null;
+
+  const clearAllServiceStates = () => {
+    cards.forEach((card) => card.classList.remove('is-service-active', 'is-service-dimmed'));
+  };
+
+  const setupMobileObserver = () => {
+    if (mobileObserver) {
+      mobileObserver.disconnect();
+      mobileObserver = null;
+    }
+
+    if (!isMobileServicesView()) {
+      clearAllServiceStates();
+      return;
+    }
+
+    mobileObserver = new IntersectionObserver((entries) => {
       entries.forEach((entry) => {
         if (entry.isIntersecting) {
           cards.forEach((card) => {
@@ -3157,12 +3169,20 @@ function initServicesScrollPin() {
               card.classList.add('is-service-dimmed');
             }
           });
+        } else {
+          entry.target.classList.remove('is-service-active', 'is-service-dimmed');
+          const anyActive = cards.some((c) => c.classList.contains('is-service-active'));
+          if (!anyActive) {
+            cards.forEach((c) => c.classList.remove('is-service-dimmed'));
+          }
         }
       });
-    }, { threshold: 0.4 });
+    }, { threshold: 0.1, rootMargin: '0px 0px -5% 0px' });
 
-    cards.forEach((card) => observer.observe(card));
-  }
+    cards.forEach((card) => mobileObserver.observe(card));
+  };
+
+  setupMobileObserver();
 
   cards.forEach((card) => {
     card.addEventListener('click', () => {
@@ -3172,8 +3192,7 @@ function initServicesScrollPin() {
   });
 
   window.addEventListener('resize', () => {
-    if (isMobileServicesView()) return;
-    cards.forEach((card) => card.classList.remove('is-service-active', 'is-service-dimmed'));
+    setupMobileObserver();
   });
 }
 
@@ -5713,8 +5732,26 @@ setupLanguageFadeTargets();
 
 /* Ethereal shadow background */
 (function initShaderBackground(){
+  if (!document.getElementById('mobile-ethereal-bg')) {
+    document.body.insertAdjacentHTML('afterbegin', `
+      <div id="mobile-ethereal-bg" aria-hidden="true">
+        <div class="mobile-blob mobile-blob-1"></div>
+        <div class="mobile-blob mobile-blob-2"></div>
+        <div class="mobile-blob mobile-blob-3"></div>
+        <div class="mobile-blob mobile-blob-4"></div>
+        <div class="mobile-bg-noise"></div>
+      </div>
+    `);
+  }
+
+  const isDesktop = window.innerWidth >= 981;
+
+  if (!isDesktop) {
+    document.body.classList.add('mobile-bg-ready');
+    document.body.classList.remove('shader-bg-ready');
+  }
+
   if (document.getElementById('ethereal-bg')) return;
-  if (window.innerWidth < 981) return;
 
   document.body.insertAdjacentHTML('afterbegin', `
     <div id="ethereal-bg" aria-hidden="true">
@@ -5776,13 +5813,32 @@ setupLanguageFadeTargets();
     frameId = window.requestAnimationFrame(animate);
   };
 
-  if (window.innerWidth >= 981) {
-    document.body.classList.add('shader-bg-ready');
-    frameId = window.requestAnimationFrame(animate);
-  }
+  const updateBgMode = () => {
+    if (window.innerWidth >= 981) {
+      document.body.classList.remove('mobile-bg-ready');
+      document.body.classList.add('shader-bg-ready');
+      if (!frameId) frameId = window.requestAnimationFrame(animate);
+    } else {
+      document.body.classList.add('mobile-bg-ready');
+      document.body.classList.remove('shader-bg-ready');
+      if (frameId) {
+        window.cancelAnimationFrame(frameId);
+        frameId = 0;
+      }
+    }
+  };
+
+  updateBgMode();
+
+  let resizeTimer = null;
+  window.addEventListener('resize', () => {
+    if (resizeTimer) clearTimeout(resizeTimer);
+    resizeTimer = setTimeout(updateBgMode, 150);
+  });
 
   window.addEventListener('beforeunload', () => {
     if (frameId) window.cancelAnimationFrame(frameId);
+    if (resizeTimer) clearTimeout(resizeTimer);
   }, { once: true });
 })();
 

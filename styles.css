@@ -33,12 +33,25 @@ body{
 @media (max-width: 980px) {
   body {
     background:
-      radial-gradient(ellipse 100% 60% at 50% 0%, rgba(30, 100, 255, 0.35), transparent 55%),
-      radial-gradient(ellipse 120% 100% at 0% 50%, rgba(20, 80, 220, 0.25), transparent 50%),
-      radial-gradient(ellipse 100% 80% at 100% 20%, rgba(255, 60, 60, 0.20), transparent 45%),
-      radial-gradient(ellipse 80% 60% at 70% 70%, rgba(180, 40, 120, 0.12), transparent 50%),
-      radial-gradient(ellipse 60% 100% at 20% 100%, rgba(255, 100, 30, 0.10), transparent 40%),
-      linear-gradient(180deg, #03040a 0%, #080a14 40%, #050612 70%, #020208 100%) !important;
+      radial-gradient(ellipse 120% 100% at 0% 50%, rgba(70, 70, 75, 0.22), transparent 50%),
+      radial-gradient(ellipse 100% 80% at 100% 20%, rgba(60, 60, 65, 0.18), transparent 45%),
+      radial-gradient(ellipse 80% 60% at 70% 70%, rgba(50, 50, 55, 0.10), transparent 50%),
+      radial-gradient(ellipse 60% 100% at 20% 100%, rgba(80, 80, 85, 0.09), transparent 40%),
+      linear-gradient(180deg, #0a0a0c 0%, #0e0e10 40%, #08080a 70%, #050506 100%);
+  }
+
+  body.merch-page-view,
+  body.order-page-view,
+  body.order-delivery-view,
+  body.order-payment-view,
+  body.store-checkout-page-view,
+  body.store-product-page-view,
+  body.store-order-status-page {
+    background:
+      radial-gradient(ellipse 160% 100% at 50% 110%, rgba(63, 216, 111, 0.22), transparent 50%),
+      radial-gradient(ellipse 140% 90% at 20% -5%, rgba(70, 210, 111, 0.12), transparent 55%),
+      radial-gradient(ellipse 120% 80% at 85% 30%, rgba(50, 180, 100, 0.10), transparent 45%),
+      linear-gradient(175deg, #080c10 0%, #0a1012 40%, #060a0e 70%, #030508 100%);
   }
 }
 #ethereal-bg{
@@ -79,6 +92,22 @@ body{
   opacity:.18;
   animation:etherealNoiseDrift 6s linear infinite;
 }
+#mobile-ethereal-bg{position:fixed;inset:0;overflow:hidden;pointer-events:none;z-index:0;opacity:0;transition:opacity .6s ease;display:none}
+body.mobile-bg-ready #mobile-ethereal-bg{display:block;opacity:1}
+body.shader-bg-ready #mobile-ethereal-bg{display:none;opacity:0}
+.mobile-blob{position:absolute;border-radius:50%;filter:blur(70px);opacity:.55;will-change:transform}
+.mobile-blob-1{width:320px;height:320px;background:radial-gradient(circle,rgba(90,90,95,.45),transparent 70%);top:-10%;left:-10%;animation:mobileBlobDrift1 12s ease-in-out infinite alternate}
+.mobile-blob-2{width:280px;height:280px;background:radial-gradient(circle,rgba(70,70,75,.35),transparent 70%);top:30%;right:-15%;animation:mobileBlobDrift2 14s ease-in-out infinite alternate}
+.mobile-blob-3{width:360px;height:360px;background:radial-gradient(circle,rgba(100,100,105,.30),transparent 70%);bottom:-5%;left:20%;animation:mobileBlobDrift3 16s ease-in-out infinite alternate}
+.mobile-blob-4{width:240px;height:240px;background:radial-gradient(circle,rgba(60,60,65,.25),transparent 70%);top:60%;left:-5%;animation:mobileBlobDrift4 10s ease-in-out infinite alternate}
+@keyframes mobileBlobDrift1{0%{transform:translate3d(0,0,0) scale(1)}100%{transform:translate3d(40px,30px,0) scale(1.15)}}
+@keyframes mobileBlobDrift2{0%{transform:translate3d(0,0,0) scale(1)}100%{transform:translate3d(-30px,40px,0) scale(1.1)}}
+@keyframes mobileBlobDrift3{0%{transform:translate3d(0,0,0) scale(1)}100%{transform:translate3d(20px,-30px,0) scale(1.2)}}
+@keyframes mobileBlobDrift4{0%{transform:translate3d(0,0,0) scale(1)}100%{transform:translate3d(-20px,-20px,0) scale(1.1)}}
+.mobile-bg-noise{position:absolute;inset:0;background-image:url("https://framerusercontent.com/images/g0QcWrxr87K0ufOxIUFBakwYA8.png");background-size:200px 200px;background-repeat:repeat;opacity:.12;animation:mobileNoiseDrift 6s linear infinite}
+@keyframes mobileNoiseDrift{0%{transform:translate3d(0,0,0)}100%{transform:translate3d(24px,18px,0)}}
+.arrow-up-right::after,.work-gallery-hint::after,.works-detail-action-link.is-gallery::after,.gallery-desktop-instagram-btn::after,.works-archive-instagram-btn::after,.merch-card-btn::after,.contact-map-link::after,.btn.primary.services-cta::after,.works-detail-action-link.is-instagram::after{content:'';display:inline-block;width:.9em;height:.9em;margin-left:.35em;background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cline x1='7' y1='17' x2='17' y2='7'/%3E%3Cpolyline points='7 7 17 7 17 17'/%3E%3C/svg%3E");background-size:contain;background-repeat:no-repeat;vertical-align:middle;opacity:.8}
+.submit::after{background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cline x1='5' y1='12' x2='19' y2='12'/%3E%3Cpolyline points='12 5 19 12 12 19'/%3E%3C/svg%3E");margin-left:.45em}
 @keyframes etherealLayerDrift{
   0%{transform:scale(1.08) translate3d(-1.5%, -1%, 0)}
   50%{transform:scale(1.12) translate3d(1.5%, .8%, 0)}
