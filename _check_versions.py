@@ -1,4 +1,5 @@
-import re, glob, os
+
+\import re, glob, os
 
 BASE = r"C:\Users\Aleksey Ilnickiy\Music\готовый сайт 3"
 

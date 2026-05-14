@@ -1481,6 +1481,12 @@ function initWorksScrollSequence() {
 
   worksSection.classList.add('works-scroll-sequence-ready');
 
+  const isMobile = window.innerWidth < 981;
+  if (isMobile) {
+    cards.forEach((card) => card.classList.add('is-scroll-visible'));
+    return;
+  }
+
   const revealCard = (card, index) => {
     window.setTimeout(() => {
       card.classList.add('is-scroll-visible');
@@ -3048,6 +3054,7 @@ function initWorkCardTilt() {
   const cards = Array.from(document.querySelectorAll('.works .work, .works-archive-list .work, .merch-card'));
   if (!cards.length) return;
   if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  if (window.innerWidth < 981) return;
 
   const resetTilt = (card) => {
     card.style.setProperty('--tilt-rotate-x', '0deg');
