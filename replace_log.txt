@@ -1,0 +1,4 @@
+Found 122 DPD entries to keep
+Read 394 new Omniva entries
+Updated script.js successfully
+New total array lines: 516

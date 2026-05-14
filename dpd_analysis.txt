@@ -1,0 +1,5 @@
+Found 134 dpd-table containers
+Total div tags: 2329
+Street keyword counts: [('iela', 666), ('prospekts', 27), ('laukums', 4), ('ceļš', 7), ('gatve', 24), ('bulvāris', 10), ('šoseja', 15)]
+Found 754 LV postal codes
+Samples: ['LV-1055', 'LV-1019', 'LV-1006', 'LV-1009', 'LV-1011', 'LV-1035', 'LV-1057', 'LV-1001', 'LV-1050', 'LV-1001', 'LV-1007', 'LV-1012', 'LV-1021', 'LV-1084', 'LV-1007', 'LV-1067', 'LV-1009', 'LV-1021', 'LV-1010', 'LV-1012']

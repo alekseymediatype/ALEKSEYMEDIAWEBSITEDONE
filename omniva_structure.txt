@@ -1,0 +1,11 @@
+<class 'dict'>
+Dict keys: ['parcel_machines', 'letter_boxes', 'post_offices_postal_points']
+parcel_machines <class 'list'> 1344
+First item keys: ['id', 'ZIP', 'SERVICE_HOURS', 'TEMP_SERVICE_HOURS', 'TEMP_SERVICE_HOURS_UNTIL', 'TEMP_SERVICE_HOURS_2', 'TEMP_SERVICE_HOURS_2_UNTIL', 'country_id', 'type_id', 'comment_eng', 'comment_lav', 'SERVICEPOINT_OVERLOAD', 'title', 'lng', 'lat', 'description', 'type_array', 'long_waiting', 'real_type', 'address_text']
+First item: Traceback (most recent call last):
+  File "C:\Users\Aleksey Ilnickiy\Desktop\AM\check_omniva_json.py", line 16, in <module>
+    print('First item:', json.dumps(v[0], ensure_ascii=False, indent=2)[:1000])
+  File "C:\Users\Aleksey Ilnickiy\AppData\Local\Programs\Python\Python312\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\u0101' in position 460: character maps to <undefined>

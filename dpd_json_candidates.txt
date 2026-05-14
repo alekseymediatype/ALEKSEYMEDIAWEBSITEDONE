@@ -1,0 +1,28 @@
+Found 7 candidates
+--- 0 ---
+[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Startseite","item":"https://www.dpd.com/lv/lv/"},{"@type":"ListItem","position":2,"name":"Saņemšana","item":"https://www.dpd.com/lv/lv/sanemsana/"},{"@type":"ListItem","position":3,"name":"Pickup tīkls","item":"https://www.dpd.com/lv/lv/sanemsana/pickup-tikls/"},{"@type":"ListItem","position":4,"name":"Pickup punktu saraksts"}]
+--- 1 ---
+{"@context":"https://schema.org","@graph":[{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Startseite","item":"https://www.dpd.com/lv/lv/"}
+--- 2 ---
+{"@type":"ListItem","position":2,"name":"Saņemšana","item":"https://www.dpd.com/lv/lv/sanemsana/"}
+--- 3 ---
+{"@type":"ListItem","position":3,"name":"Pickup tīkls","item":"https://www.dpd.com/lv/lv/sanemsana/pickup-tikls/"}
+--- 4 ---
+{"@type":"ListItem","position":4,"name":"Pickup punktu saraksts"}
+--- 5 ---
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "DPD",
+  "alternateName": "DPD by Geopost",
+  "url": "https://www.dpd.com/",
+  "logo": "https://www.dpd.com/wp-content/themes/DPD_NoLogin/images/DPD_logo_redgrad_rgb_responsive.svg"
+}
+--- 6 ---
+{
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "DPD",
+      "alternateName": ["dpd.com", "DPD by Geopost"],
+      "url" : "https://www.dpd.com/"
+    }

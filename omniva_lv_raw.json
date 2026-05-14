@@ -1,0 +1,2366 @@
+[
+  {
+    "zip": "9110",
+    "title": "Ulbrokas ELVI pakomāts",
+    "address": "Peldu iela 2, Ulbroka, Stopiņu pagasts, Ropažu novads, 9110",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9240",
+    "title": "Tīnūžu Senās Bodes pakomāts",
+    "address": "Krustceles, Tīnūži, Tīnūžu pagasts, Ogres novads, 9240",
+    "desc": "Pa kreisi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9981",
+    "title": "Jelgavas Satiksmes ielas RIMI pakomāts",
+    "address": "Satiksmes iela 35, Jelgava, 9981",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9178",
+    "title": "Rīgas Katoļu ielas Neste pakomāts",
+    "address": "Katoļu iela 4, Rīga, 9178",
+    "desc": "DUS teritorijā"
+  },
+  {
+    "zip": "9195",
+    "title": "Madonas Saules ielas 4 pakomāts",
+    "address": "Saules iela 4, Madona, Madonas novads, 9195",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9984",
+    "title": "Krāslavas Maxima X pakomāts",
+    "address": "Rīgas iela 28, Krāslava, Krāslavas novads, 9984",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9114",
+    "title": "Rīgas T/C Riga Plaza pakomāts",
+    "address": "Mūkusalas iela 71, Rīga, 9114",
+    "desc": "Pa kreisi no Ņujorkas ieejas"
+  },
+  {
+    "zip": "9252",
+    "title": "Rīgas Bolderājas Lats pakomāts",
+    "address": "Lemešu iela 20, Rīga, 9252",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9573",
+    "title": "Rīgas Purvciema ielas Beta pakomāts",
+    "address": "Purvciema iela 35, Rīga, 9573",
+    "desc": "Pa labi no ieejas aiz stūra\r\n"
+  },
+  {
+    "zip": "9278",
+    "title": "Rīgas Sporta Pils dārzu pakomāts",
+    "address": "Lielgabalu iela 4, Rīga, 9278",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9546",
+    "title": "Rīgas Zalves ielas TOP pakomāts",
+    "address": "Zalves iela 46A, Rīga, 9546",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9105",
+    "title": "Ādažu T/C Apelsīns pakomāts",
+    "address": "Rīgas gatve 5, Ādaži, Ādažu pagasts, Ādažu novads, 9105",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9199",
+    "title": "Jelgavas Rūpniecības ielas ELVI pakomāts",
+    "address": "Rūpniecības iela 77A, Jelgava, 9199",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9235",
+    "title": "Siguldas Kr. Barona ielas Beta pakomāts",
+    "address": "Krišjāņa Barona iela 6, Sigulda, Siguldas novads, 9235",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9135",
+    "title": "Talsu Rīgas ielas Maxima XX pakomāts",
+    "address": "Rīgas iela 8, Talsi, Talsu novads, 9135",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9925",
+    "title": "Ogres T/C Ogres prestižs pakomāts",
+    "address": "Mednieku iela 21/23, Ogre, Ogres novads, 9925",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9181",
+    "title": "Rīgas T/C IXO pakomāts",
+    "address": "Anniņmuižas iela 17, Rīga, 9181",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9926",
+    "title": "Liepājas Rožu laukuma pakomāts",
+    "address": "Lielā iela 13, Liepāja, 9926",
+    "desc": "Pa kreisi no ieejas, autostāvvietas pusē"
+  },
+  {
+    "zip": "9237",
+    "title": "Liepājas P. Brieža ielas 14 pakomāts",
+    "address": "Pulkveža Brieža iela 14, Liepāja, 9237",
+    "desc": "Pa labi no ieejas, autostāvvietas pusē\r\n"
+  },
+  {
+    "zip": "9928",
+    "title": "Valmieras T/C Valleta pakomāts",
+    "address": "Rīgas iela 4, Valmiera, Valmieras novads, 9928",
+    "desc": "T/C aizmugurē, pa kreisi no ieejas"
+  },
+  {
+    "zip": "9927",
+    "title": "Tukuma Pasta ielas RIMI pakomāts",
+    "address": "Pasta iela 14, Tukums, Tukuma novads, 9927",
+    "desc": "Blakus RIMI ieejai no autostāvvietas puses"
+  },
+  {
+    "zip": "9903",
+    "title": "Rīgas P. Brieža ielas RIMI pakomāts",
+    "address": "Pulkveža Brieža iela 33, Rīga, 9903",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9929",
+    "title": "Jelgavas T/C Vivo centrs pakomāts",
+    "address": "Katoļu iela 18, Jelgava, 9929",
+    "desc": "Pie ieejas no stāvlaukuma puses"
+  },
+  {
+    "zip": "9909",
+    "title": "Rīgas G. Astras ielas VIADA pakomāts",
+    "address": "Gunāra Astras iela 7, Rīga, 9909",
+    "desc": "DUS VIADA teritorijā"
+  },
+  {
+    "zip": "9205",
+    "title": "Kuldīgas Gravas ielas ELVI pakomāts",
+    "address": "Gravas iela 1, Kuldīga, Kuldīgas novads, 9205",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9931",
+    "title": "Talsu Dundagas ielas RIMI pakomāts",
+    "address": "Dundagas iela 18, Talsi, Talsu novads, 9931",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9933",
+    "title": "Rīgas Biķernieku ielas RIMI pakomāts",
+    "address": "Biķernieku iela 160 k-6, Rīga, 9933",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9932",
+    "title": "Siguldas T/C Šokolāde pakomāts",
+    "address": "Strēlnieku iela 2, Sigulda, Siguldas novads, 9932",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9985",
+    "title": "Ludzas Stacijas ielas 30 pakomāts",
+    "address": "Stacijas iela 30, Ludza, Ludzas novads, 9985",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9930",
+    "title": "Kuldīgas Sūru ielas RIMI pakomāts",
+    "address": "Sūru iela 2, Kuldīga, Kuldīgas novads, 9930",
+    "desc": ""
+  },
+  {
+    "zip": "9513",
+    "title": "Saldus Kalna ielas AIBE KAIVA pakomāts",
+    "address": "Kalna iela 20, Saldus, Saldus novads, 9513",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9556",
+    "title": "Rēzeknes Stacijas ielas 20A pakomāts",
+    "address": "Stacijas iela 20A, Rēzekne, 9556",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9236",
+    "title": "Nīcas Lats pakomāts",
+    "address": "Skolas iela 6, Nīca, Nīcas pagasts, Dienvidkurzemes novads, 9236",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9530",
+    "title": "Rīgas Biķernieku ielas 98 Mego pakomāts",
+    "address": "Biķernieku iela 98, Rīga, 9530",
+    "desc": "Veikala teritorijā\r\n"
+  },
+  {
+    "zip": "9208",
+    "title": "Saldus Striķu ielas Maxima X pakomāts",
+    "address": "Striķu iela 10C, Saldus, Saldus novads, 9208",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9934",
+    "title": "Rīgas T/C Olimpia pakomāts",
+    "address": "Āzenes iela 5, Rīga, 9934",
+    "desc": "Blakus iebrauktuvei pazemes autostāvvietā"
+  },
+  {
+    "zip": "9262",
+    "title": "Ogres Skolas ielas 4 pakomāts",
+    "address": "Skolas iela 4, Ogre, Ogres novads, 9262",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9554",
+    "title": "Liepājas Sila ielas TOP pakomāts",
+    "address": "Sila iela 3, Liepāja, 9554",
+    "desc": "Pa labi aiz stūra\r\n"
+  },
+  {
+    "zip": "9994",
+    "title": "Ozolnieku TOP pakomāts",
+    "address": "Skolas iela 1B, Ozolnieki, Ozolnieku pagasts, Jelgavas novads, 9994",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9908",
+    "title": "Rīgas Gramzdas RIMI pakomāts",
+    "address": "Imantas 15. līnija 7, Rīga, 9908",
+    "desc": "Pa kreisi no centrālās ieejas"
+  },
+  {
+    "zip": "9551",
+    "title": "Rīgas Latgales ielas 256B RIMI pakomāts",
+    "address": "Latgales iela 256B, Rīga, 9551",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9107",
+    "title": "Jūrmalas Dubultu TOP pakomāts",
+    "address": "Strēlnieku prospekts 1, Jūrmala, 9107",
+    "desc": "Blakus T/C šosejas pusē"
+  },
+  {
+    "zip": "9230",
+    "title": "Jūrmalas Mellužu Dārzu ielas 55A pakomāts",
+    "address": "Dārzu iela 55A, Jūrmala, 9230",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9563",
+    "title": "Jelgavas Meiju ceļa Aibe pakomāts",
+    "address": "Meiju ceļš 38, Jelgava, 9563",
+    "desc": "Pa labi aiz stūra\r\n"
+  },
+  {
+    "zip": "9256",
+    "title": "Siguldas T/C Gāles Nams pakomāts",
+    "address": "Gāles iela 23A, Sigulda, Siguldas novads, 9256",
+    "desc": "Pa kreisi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9294",
+    "title": "Jelgavas Lielās ielas ELVI pakomāts",
+    "address": "Lielā iela 49, Jelgava, 9294",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9937",
+    "title": "Krustkalnu T/C A7 pakomāts",
+    "address": "Džutas, Krustkalni, Ķekavas pagasts, Ķekavas novads, 9937",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9935",
+    "title": "Rīgas T/C Damme pakomāts",
+    "address": "Kurzemes prospekts 1A, Rīga, 9935",
+    "desc": "Blakus T/C ieejai"
+  },
+  {
+    "zip": "9936",
+    "title": "Saldus Brīvības ielas Maxima XX pakomāts",
+    "address": "Brīvības iela 30, Saldus, Saldus novads, 9936",
+    "desc": "Blakus T/C ieejai"
+  },
+  {
+    "zip": "9106",
+    "title": "Jaunolaines TOP pakomāts",
+    "address": "Baznīcas iela 10A, Jaunolaine, Olaines pagasts, Olaines novads, 9106",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9938",
+    "title": "Liepājas Ziemeļu ielas RIMI pakomāts",
+    "address": "Ziemeļu iela 13, Liepāja, 9938",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9148",
+    "title": "Vangažu Aibe pakomāts",
+    "address": "Gaujas iela 19A, Vangaži, Ropažu novads, 9148",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9912",
+    "title": "Rīgas Vienības gatves 144 Neste pakomāts",
+    "address": "Vienības gatve 144, Rīga, 9912",
+    "desc": "DUS Neste teritorijā labajā pusē no Narvessen"
+  },
+  {
+    "zip": "9242",
+    "title": "Liepājas O. Kalpaka ielas 74 pakomāts",
+    "address": "Oskara Kalpaka iela 74, Liepāja, 9242",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9939",
+    "title": "Rīgas Kr. Valdemāra ielas 112 RIMI pakomāts",
+    "address": "Krišjāņa Valdemāra iela 112, Rīga, 9939",
+    "desc": "Blakus stāvlaukumam Valdemāra ielas pusē"
+  },
+  {
+    "zip": "9979",
+    "title": "Kandavas Citro pakomāts",
+    "address": "Lielā iela 1, Kandava, Tukuma novads, 9979",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9902",
+    "title": "Rīgas Anniņmuižas bulvāra RIMI pakomāts",
+    "address": "Anniņmuižas bulvāris 40A, Rīga, 9902",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9562",
+    "title": "Rīgas Artilērijas ielas 40 pakomāts",
+    "address": "Artilērijas iela 40, Rīga, 9562",
+    "desc": "Teritorijā\r\n"
+  },
+  {
+    "zip": "9144",
+    "title": "Rīgas Valsts Ieņēmumu Dienesta pakomāts",
+    "address": "Talejas iela 1, Rīga, 9144",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9151",
+    "title": "Rīgas Parādes ielas Mego pakomāts",
+    "address": "Parādes iela 5B, Rīga, 9151",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9159",
+    "title": "Rīgas T/C Teika Plaza pakomāts",
+    "address": "Brīvības gatve 201, Rīga, 9159",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9941",
+    "title": "Dobeles Brīvības ielas RIMI pakomāts",
+    "address": "Brīvības iela 30, Dobele, Dobeles novads, 9941",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9940",
+    "title": "Bauskas Mini RIMI pakomāts",
+    "address": "Zaļā iela 3, Bauska, Bauskas novads, 9940",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9947",
+    "title": "Salaspils Skolas ielas RIMI pakomāts",
+    "address": "Skolas iela 4E, Salaspils, Salaspils novads, 9947",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9942",
+    "title": "Limbažu RIMI pakomāts",
+    "address": "Cēsu iela 23, Limbaži, Limbažu novads, 9942",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9943",
+    "title": "Jūrmalas Lielupes RIMI pakomāts",
+    "address": "Viestura iela 22, Jūrmala, 9943",
+    "desc": "Blakus T/C šosejas pusē"
+  },
+  {
+    "zip": "9944",
+    "title": "Madonas Rūpniecības ielas MINI RIMI pakomāts",
+    "address": "Rūpniecības iela 47, Madona, Madonas novads, 9944",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9234",
+    "title": "Garkalnes Lats pakomāts",
+    "address": "Vidzemes šoseja 13, Garkalne, Garkalnes pagasts, Ropažu novads, 9234",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9288",
+    "title": "Varakļānu TOP pakomāts",
+    "address": "Pils iela 7D, Varakļāni, Varakļānu novads, 9288",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9133",
+    "title": "Ogres Rīgas ielas RIMI pakomāts",
+    "address": "Rīgas iela 33, Ogre, Ogres novads, 9133",
+    "desc": "Pa kreisi no T/C ieejas"
+  },
+  {
+    "zip": "9134",
+    "title": "Valdlauču TOP pakomāts",
+    "address": "Atpūtas iela 5, Valdlauči, Ķekavas pagasts, Ķekavas novads, 9134",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9948",
+    "title": "Gulbenes Nākotnes ielas TOP pakomāts",
+    "address": "Nākotnes iela 6, Gulbene, Gulbenes novads, 9948",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9257",
+    "title": "Jelgavas Uzvaras ielas TOP pakomāts",
+    "address": "Uzvaras iela 6A, Jelgava, 9257",
+    "desc": "Pa kreisi no ieejas aiz ēkas stūra\r\n"
+  },
+  {
+    "zip": "9218",
+    "title": "Jūrmalas Asaru Senās bodes pakomāts",
+    "address": "Asaru prospekts 14, Jūrmala, 9218",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9584",
+    "title": "Jūrmalas Bulduru tirgus pakomāts",
+    "address": "Meža prospekts 36, Jūrmala, 9584",
+    "desc": "Ēkas otrā pusē\r\n"
+  },
+  {
+    "zip": "9950",
+    "title": "Aizkraukles T/C Iga pakomāts",
+    "address": "Gaismas iela 35, Aizkraukle, Aizkraukles novads, 9950",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9949",
+    "title": "Olaines T/C Prasme pakomāts",
+    "address": "Zemgales iela 24, Olaine, Olaines novads, 9949",
+    "desc": "T/C labajā pusē"
+  },
+  {
+    "zip": "9117",
+    "title": "Piņķu Elvi pakomāts",
+    "address": "Rīgas iela 8, Piņķi, Babītes pagasts, Mārupes novads, 9117",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9118",
+    "title": "Viļānu Brīvības ielas pakomāts",
+    "address": "Brīvības iela 13, Viļāni, Rēzeknes novads, 9118",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9158",
+    "title": "Auces TOP pakomāts",
+    "address": "Baznīcas iela 1, Auce, Dobeles novads, 9158",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9156",
+    "title": "Elejas Astarte pakomāts",
+    "address": "Lietuvas iela 28, Eleja, Elejas pagasts, Jelgavas novads, 9156",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9139",
+    "title": "Strenču TOP pakomāts",
+    "address": "Valkas iela 2, Strenči, Valmieras novads, 9139",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9152",
+    "title": "Raganas ELVI pakomāts",
+    "address": "Tirgus iela 10, Ragana, Krimuldas pagasts, Siguldas novads, 9152",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9163",
+    "title": "Dundagas Citro pakomāts",
+    "address": "Talsu iela 1, Dundaga, Dundagas pagasts, Talsu novads, 9163",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9154",
+    "title": "Vecumnieku Lats pakomāts",
+    "address": "Rīgas iela 24B, Vecumnieki, Vecumnieku pagasts, Bauskas novads, 9154",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9157",
+    "title": "Viļakas Balvu ielas pakomāts",
+    "address": "Balvu iela 5, Viļaka, Balvu novads, 9157",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9165",
+    "title": "Ķeguma ELVI pakomāts",
+    "address": "Ķeguma prospekts 5C, Ķegums, Ogres novads, 9165",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9104",
+    "title": "Ilūkstes Pilskalnes ielas TOP pakomāts",
+    "address": "Pilskalnes iela 2A, Ilūkste, Augšdaugavas novads, 9104",
+    "desc": "Blakus ieejai"
+  },
+  {
+    "zip": "9153",
+    "title": "Ērgļu Zaļās ielas TOP pakomāts",
+    "address": "Zaļā iela 1, Ērgļi, Ērgļu pagasts, Madonas novads, 9153",
+    "desc": "Blakus ieejai"
+  },
+  {
+    "zip": "9169",
+    "title": "Rīgas A. Deglava 110 Rimi pakomāts",
+    "address": "Augusta Deglava iela 110, Rīga, 9169",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9119",
+    "title": "Valmieras Nākotnes ielas Maxima X pakomāts",
+    "address": "Nākotnes iela 2, Valmiera, Valmieras novads, 9119",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9120",
+    "title": "Tukuma Kurzemes ielas 36 Maxima XX pakomāts",
+    "address": "Kurzemes iela 36, Tukums, Tukuma novads, 9120",
+    "desc": "Pa kreisi no galvenās ieejas"
+  },
+  {
+    "zip": "9121",
+    "title": "Salacgrīvas Maxima X pakomāts",
+    "address": "Vidzemes iela 3A, Salacgrīva, Limbažu novads, 9121",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9122",
+    "title": "Rīgas Lidoņu ielas Mego pakomāts",
+    "address": "Lidoņu iela 27 k-1, Rīga, 9122",
+    "desc": "Autostāvvietas teritorijā"
+  },
+  {
+    "zip": "9123",
+    "title": "Rīgas Kurzemes prospekta Mego pakomāts",
+    "address": "Kurzemes prospekts 132, Rīga, 9123",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9124",
+    "title": "Lielvārdes TOP pakomāts",
+    "address": "Lāčplēša iela 16, Lielvārde, Ogres novads, 9124",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9125",
+    "title": "Ikšķiles Mini RIMI pakomāts",
+    "address": "Melioratoru iela 1A, Ikšķile, Ogres novads, 9125",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9126",
+    "title": "Grobiņas TOP pakomāts",
+    "address": "Lielā iela 74, Grobiņa, Dienvidkurzemes novads, 9126",
+    "desc": "Veikala pagalmā"
+  },
+  {
+    "zip": "9127",
+    "title": "Baldones Mego pakomāts",
+    "address": "Rīgas iela 79, Baldone, Ķekavas novads, 9127",
+    "desc": "Pa labi no galvenās ieejas"
+  },
+  {
+    "zip": "9128",
+    "title": "Rīgas Tilta ielas RIMI pakomāts",
+    "address": "Tilta iela 32, Rīga, 9128",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9129",
+    "title": "Rīgas Prūšu ielas 2 Mego pakomāts",
+    "address": "Prūšu iela 2, Rīga, 9129",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9130",
+    "title": "Priekules TOP pakomāts",
+    "address": "Galvenā iela 1, Priekule, Dienvidkurzemes novads, 9130",
+    "desc": "Pie ieejas"
+  },
+  {
+    "zip": "9564",
+    "title": "Ezeres ELVI pakomāts",
+    "address": "Centra laukums 2, Ezere, Ezeres pagasts, Saldus novads, 9564",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9527",
+    "title": "Mārupes Lielās ielas ELVI pakomāts",
+    "address": "Lielā iela 26, Mārupe, Mārupes novads, 9527",
+    "desc": "Pa labi no ieejas aiz stūra\r\n"
+  },
+  {
+    "zip": "9951",
+    "title": "Alūksnes Maxima X pakomāts",
+    "address": "Pils iela 9B, Alūksne, Alūksnes novads, 9951",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9238",
+    "title": "Talsu Dundagas ielas Citro pakomāts",
+    "address": "Dundagas iela 21, Talsi, Talsu novads, 9238",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9952",
+    "title": "Ādažu Gaujas ielas Mini RIMI pakomāts",
+    "address": "Gaujas iela 6, Ādaži, Ādažu pagasts, Ādažu novads, 9952",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9953",
+    "title": "Ogres T/C Dauga pakomāts",
+    "address": "Rīgas iela 23, Ogre, Ogres novads, 9953",
+    "desc": "Iebraucot T/C Dauga auto stāvvietā, pa labi no ieejas uz stūra"
+  },
+  {
+    "zip": "9115",
+    "title": "Rīgas Brīvības ielas 35 pakomāts",
+    "address": "Brīvības iela 35, Rīga, 9115",
+    "desc": "Autostāvvietas teritorijā"
+  },
+  {
+    "zip": "9116",
+    "title": "Rīgas Autoostas pakomāts",
+    "address": "Prāgas iela 1, Rīga, 9116",
+    "desc": "Ieeja autoostā blakus kanālam"
+  },
+  {
+    "zip": "9991",
+    "title": "Rūjienas TOP pakomāts",
+    "address": "Brīvības iela 8, Rūjiena, Valmieras novads, 9991",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9992",
+    "title": "Skrundas ELVI pakomāts",
+    "address": "Ventas iela 13, Skrunda, Kuldīgas novads, 9992",
+    "desc": "Veikala aizmugurē, pretī autoostai"
+  },
+  {
+    "zip": "9997",
+    "title": "Brocēnu Citro pakomāts",
+    "address": "Lielcieceres iela 2A, Brocēni, Saldus novads, 9997",
+    "desc": "Pa labi no galvenās ieejas"
+  },
+  {
+    "zip": "9956",
+    "title": "Valkas T/C Walk pakomāts",
+    "address": "Ausekļa iela 54, Valka, Valkas novads, 9956",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9954",
+    "title": "Rīgas Nīcgales ielas 2 RIMI pakomāts",
+    "address": "Nīcgales iela 2, Rīga, 9954",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9955",
+    "title": "Smiltenes T/C Centrs pakomāts",
+    "address": "Baznīcas laukums 2, Smiltene, Smiltenes novads, 9955",
+    "desc": "Pa kreisi no T/C ieejas"
+  },
+  {
+    "zip": "9285",
+    "title": "Sabiles Citro pakomāts",
+    "address": "Ventspils iela 9, Sabile, Talsu novads, 9285",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9549",
+    "title": "Jūrmalas Majoru J. Pliekšāna ielas TOP pakomāts",
+    "address": "Jāņa Pliekšāna iela 86, Jūrmala, 9549",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9957",
+    "title": "Ventspils Tārgales ielas Mini RIMI pakomāts",
+    "address": "Tārgales iela 62, Ventspils, 9957",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9113",
+    "title": "Rīgas T/C DOMINA pakomāts",
+    "address": "Ieriķu iela 3, Rīga, 9113",
+    "desc": "Pa kreisi no galvenās ieejas"
+  },
+  {
+    "zip": "9281",
+    "title": "Rīgas Brīvības ielas 78a pakomāts",
+    "address": "Brīvības iela 78A, Rīga, 9281",
+    "desc": "Autostāvvietas teritorijā\r\n"
+  },
+  {
+    "zip": "9131",
+    "title": "Jelgavas T/C Valdeka pakomāts",
+    "address": "Rīgas iela 11A, Jelgava, 9131",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9102",
+    "title": "Ventspils Poruka ielas RIMI pakomāts",
+    "address": "J. Poruka iela 5, Ventspils, 9102",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9101",
+    "title": "Rīgas T/C Akropole pakomāts",
+    "address": "Latgales iela 257, Rīga, 9101",
+    "desc": "Lokomotīves ielas pusē pie ieejas blakus rampām"
+  },
+  {
+    "zip": "9137",
+    "title": "Cēsu Gaujas ielas Maxima X pakomāts",
+    "address": "Gaujas iela 1/3, Cēsis, Cēsu novads, 9137",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9958",
+    "title": "Preiļu Brīvības ielas TOP pakomāts",
+    "address": "Brīvības iela 4, Preiļi, Preiļu novads, 9958",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9901",
+    "title": "Rīgas T/C AKROPOLE Alfa pakomāts",
+    "address": "Brīvības gatve 372, Rīga, 9901",
+    "desc": "Daudzstāvu stāvvietas 1. stāvā, pa kreisi no ieejas."
+  },
+  {
+    "zip": "9959",
+    "title": "Rīgas Vecmīlgrāvja RIMI pakomāts",
+    "address": "Augusta Dombrovska iela 23, Rīga, 9959",
+    "desc": "Blakus T/C centrālai ieejai"
+  },
+  {
+    "zip": "9904",
+    "title": "Rīgas Deglava ielas Maxima XXX pakomāts",
+    "address": "Augusta Deglava iela 67, Rīga, 9904",
+    "desc": "Pa kreisi no T/C centrālās ieejas"
+  },
+  {
+    "zip": "9567",
+    "title": "Rīgas Brīvības gatves 404 RIMI pakomāts",
+    "address": "Brīvības gatve 404, Rīga, 9567",
+    "desc": "Pa kreisi no veikala ieejas\r\n"
+  },
+  {
+    "zip": "9962",
+    "title": "Rīgas Dzelzavas ielas 86 Mini RIMI pakomāts",
+    "address": "Dzelzavas iela 86, Rīga, 9962",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9960",
+    "title": "Rīgas Bolderājas Mego pakomāts",
+    "address": "Gobas iela 13, Rīga, 9960",
+    "desc": "Blakus T/C centrālai ieejai"
+  },
+  {
+    "zip": "9961",
+    "title": "Rīgas Ziepniekkalna MEGO pakomāts",
+    "address": "Dižozolu iela 2, Rīga, 9961",
+    "desc": "Blakus T/C centrālai ieejai"
+  },
+  {
+    "zip": "9217",
+    "title": "Lubānas O. Kalpaka ielas Vesko pakomāts",
+    "address": "Oskara Kalpaka iela 5, Lubāna, Madonas novads, 9217",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9180",
+    "title": "Rīgas T/C Aleja pakomāts ",
+    "address": "Vienības gatve 194A, Rīga, 9180",
+    "desc": "T/C Stāvvietā pie RIMI drive-in"
+  },
+  {
+    "zip": "9974",
+    "title": "Rēzeknes Galdnieku ielas RIMI pakomāts",
+    "address": "Galdnieku iela 8, Rēzekne, 9974",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9207",
+    "title": "Pāvilostas TOP pakomāts",
+    "address": "Dzintaru iela 69, Pāvilosta, Dienvidkurzemes novads, 9207",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9963",
+    "title": "Ventspils T/C Tobago pakomāts",
+    "address": "Lielais prospekts 3/5, Ventspils, 9963",
+    "desc": "Pa kreisi no T/C otrās ieejas"
+  },
+  {
+    "zip": "9971",
+    "title": "Rīgas Ulbrokas ielas Maxima X pakomāts",
+    "address": "Ulbrokas iela 4, Rīga, 9971",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9970",
+    "title": "Baložu Mego pakomāts",
+    "address": "Rīgas iela 14, Baloži, Ķekavas novads, 9970",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9198",
+    "title": "Jelgavas T/C Pilsētas Pasāža pakomāts",
+    "address": "Driksas iela 4, Jelgava, 9198",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9969",
+    "title": "Jēkabpils Rīgas ielas Mini RIMI pakomāts",
+    "address": "Rīgas iela 120, Jēkabpils, Jēkabpils novads, 9969",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9968",
+    "title": "Rīgas Brīvības g. 253 Neste pakomāts",
+    "address": "Brīvības gatve 253, Rīga, 9968",
+    "desc": "DUS teritorijā"
+  },
+  {
+    "zip": "9967",
+    "title": "Mārupes RIMI pakomāts",
+    "address": "Daugavas iela 31, Mārupe, Mārupes novads, 9967",
+    "desc": "pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9202",
+    "title": "Dobeles Zaļās ielas Maxima X pakomāts",
+    "address": "Zaļā iela 19, Dobele, Dobeles novads, 9202",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9141",
+    "title": "Kokneses Lats pakomāts",
+    "address": "Hanzas iela 1, Koknese, Kokneses pag., Kokneses nov., 9141",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9149",
+    "title": "Saulkrastu TOP pakomāts",
+    "address": "Rīgas iela 51, Saulkrasti, Saulkrastu novads, 9149",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9150",
+    "title": "Rīgas Kleistu ielas Mego pakomāts",
+    "address": "Kleistu iela 9, Rīga, 9150",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9161",
+    "title": "Rīgas Jūrmalas gatves RIMI pakomāts",
+    "address": "Anniņmuižas bulvāris 90, Rīga, 9161",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9145",
+    "title": "Mālpils Pirts ielas TOP pakomāts",
+    "address": "Pirts iela 5, Mālpils, Mālpils pagasts, Siguldas novads, 9145",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9140",
+    "title": "Inčukalna Aibe pakomāts",
+    "address": "Atmodas iela 6, Inčukalns, Inčukalna pagasts, Siguldas novads, 9140",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9142",
+    "title": "Jūrmalas Slokas T/C Liedags pakomāts",
+    "address": "Ventspils šoseja 32, Jūrmala, 9142",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9143",
+    "title": "Rīgas Duntes ielas Neste pakomāts",
+    "address": "Dambja iela 10, Rīga, 9143",
+    "desc": "DUS teritorijā"
+  },
+  {
+    "zip": "9138",
+    "title": "Ropažu Lats Pakomāts",
+    "address": "Rīgas iela 12, Ropaži, Ropažu pagasts, Ropažu novads, 9138",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9136",
+    "title": "Rojas Maxima X pakomāts",
+    "address": "Selgas iela 2, Roja, Rojas pagasts, Talsu novads, 9136",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9109",
+    "title": "Rīgas Stirnu ielas RIMI pakomāts",
+    "address": "Stirnu iela 26, Rīga, 9109",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9998",
+    "title": "Daugavpils Valkas ielas Mego pakomāts",
+    "address": "Valkas iela 1, Daugavpils, 9998",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9975",
+    "title": "Rīgas Botāniskā dārza Maxima pakomāts",
+    "address": "Dzirciema iela 1, Rīga, 9975",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9995",
+    "title": "Rīgas T/C ZOOM pakomāts",
+    "address": "Latgales iela 400, Rīga, 9995",
+    "desc": "T/C labajā pusē"
+  },
+  {
+    "zip": "9982",
+    "title": "Balvu TOP pakomāts",
+    "address": "Partizānu iela 8, Balvi, Balvu novads, 9982",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9983",
+    "title": "Līvānu Rimi pakomāts",
+    "address": "Rīgas iela 89, Līvāni, Līvānu novads, 9983",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9993",
+    "title": "Vecpiebalgas TOP pakomāts",
+    "address": "Alauksta iela 2, Vecpiebalga, Vecpiebalgas pagasts, Cēsu novads, 9993",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9990",
+    "title": "Pļaviņu TOP pakomāts",
+    "address": "Daugavas iela 85, Pļaviņas, Aizkraukles novads, 9990",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9989",
+    "title": "Dagdas TOP pakomāts",
+    "address": "Daugavpils iela 6, Dagda, Krāslavas novads, 9989",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9987",
+    "title": "Iecavas Maxima X pakomāts",
+    "address": "Rīgas iela 27, Iecava, Bauskas novads, 9987",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9986",
+    "title": "Siguldas Vidus ielas ELVI pakomāts",
+    "address": "Vidus iela 1, Sigulda, Siguldas novads, 9986",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9972",
+    "title": "Rīgas Grostonas ielas Maxima XXX pakomāts",
+    "address": "Grostonas iela 1, Rīga, 9972",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9980",
+    "title": "Aizputes Zvaigžņu ielas AIBE pakomāts",
+    "address": "Zvaigžņu iela 2B, Aizpute, Dienvidkurzemes novads, 9980",
+    "desc": "Pie otrās T/C ieejas"
+  },
+  {
+    "zip": "9978",
+    "title": "Ķekavas T/C Liiba pakomāts",
+    "address": "Rīgas iela 22A, Ķekava, Ķekavas pag., Ķekavas nov., 9978",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9977",
+    "title": "Rīgas S. Eizenšteina ielas 29 pakomāts",
+    "address": "Sergeja Eizenšteina iela 29, Rīga, 9977",
+    "desc": "Autostāvietā pie apsarga būdas"
+  },
+  {
+    "zip": "9965",
+    "title": "Rīgas T/C Origo pakomāts",
+    "address": "Stacijas laukums 2, Rīga, 9965",
+    "desc": "Pa kreisi no pulksteņa ieejas."
+  },
+  {
+    "zip": "9966",
+    "title": "Liepājas T/C Rietumu centrs pakomāts",
+    "address": "Jaunā ostmala 3/5, Liepāja, 9966",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9964",
+    "title": "Rīgas Āgenskalna Maxima X pakomāts",
+    "address": "Pilsoņu iela 1 k-1, Rīga, 9964",
+    "desc": "Pa kreisi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9553",
+    "title": "Jelgavas Tērvetes ielas TOP pakomāts",
+    "address": "Tērvetes iela 97, Jelgava, 9553",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9914",
+    "title": "Rīgas T/C Spice pakomāts",
+    "address": "Lielirbes iela 29, Rīga, 9914",
+    "desc": "Blakus E ieejai uz RIMI "
+  },
+  {
+    "zip": "9924",
+    "title": "Jēkabpils Vienības ielas Mego pakomāts",
+    "address": "Vienības iela 1A, Jēkabpils, Jēkabpils novads, 9924",
+    "desc": "Blakus ieejai no autoostas puses"
+  },
+  {
+    "zip": "9923",
+    "title": "Ventspils Ganību ielas Mego pakomāts",
+    "address": "Ganību iela 22/24, Ventspils, 9923",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9922",
+    "title": "Rēzeknes Atbrīvošanas alejas Maxima XX pakomāts",
+    "address": "Atbrīvošanas aleja 141, Rēzekne, 9922",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9921",
+    "title": "Cēsu Valmieras ielas Maxima XX pakomāts",
+    "address": "Valmieras iela 17A, Cēsis, Cēsu novads, 9921",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9920",
+    "title": "Jūrmalas Kauguru RIMI pakomāts",
+    "address": "Talsu šoseja 29, Jūrmala, 9920",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9919",
+    "title": "Jelgavas T/C RAF pakomāts",
+    "address": "Rīgas iela 48, Jelgava, 9919",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9146",
+    "title": "Rīgas Vecmīlgrāvja Maxima X pakomāts",
+    "address": "Augusta Dombrovska iela 74, Rīga, 9146",
+    "desc": "Blakus T/C centrālai ieejai"
+  },
+  {
+    "zip": "9103",
+    "title": "Rīgas Āgenskalna RIMI pakomāts",
+    "address": "Mārupes iela 10A, Rīga, 9103",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9155",
+    "title": "Jaunmārupes Mazcenu alejas pakomāts",
+    "address": "Mazcenu aleja 33/1, Jaunmārupe, Mārupes pagasts, Mārupes novads, 9155",
+    "desc": "pa labi no ieejas"
+  },
+  {
+    "zip": "9111",
+    "title": "Rīgas A. Briāna ielas RIMI pakomāts",
+    "address": "Krišjāņa Valdemāra iela 62A, Rīga, 9111",
+    "desc": "Pa labi no galvenās ieejas"
+  },
+  {
+    "zip": "9112",
+    "title": "Rīgas Nīcgales ielas 53 T/C GREEN pakomāts",
+    "address": "Nīcgales iela 53, Rīga, 9112",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9179",
+    "title": "Rīgas Prūšu ielas 22a Mego pakomāts",
+    "address": "Prūšu iela 22A, Rīga, 9179",
+    "desc": "Pa labi no ieejas, aiz stūra"
+  },
+  {
+    "zip": "9905",
+    "title": "Rīgas T/C Dole pakomāts",
+    "address": "Latgales iela 357, Rīga, 9905",
+    "desc": "Pie kāpnēm, kas ved uz 2. stāva ieeju"
+  },
+  {
+    "zip": "9906",
+    "title": "Rīgas Saharova ielas 14 Mego pakomāts",
+    "address": "Andreja Saharova iela 14, Rīga, 9906",
+    "desc": "Blakus T/C centrālajai ieejai"
+  },
+  {
+    "zip": "9911",
+    "title": "Rīgas T/C Mols pakomāts",
+    "address": "Krasta iela 46, Rīga, 9911",
+    "desc": "Blakus iebrauktuvei uz daudzstāvu autostāvvietu"
+  },
+  {
+    "zip": "9210",
+    "title": "Ventspils Celtnieku ielas ELVI pakomāts",
+    "address": "Celtnieku iela 3, Ventspils, 9210",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9550",
+    "title": "Iecavas TOP pakomāts",
+    "address": "Edvarta Virzas iela 2, Iecava, Bauskas novads, 9550",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9907",
+    "title": "Rīgas Mazās stacijas ielas Drogas pakomāts",
+    "address": "Mazā Stacijas iela 2A, Rīga, 9907",
+    "desc": "Pie aptiekas Dzirciema ielas pusē"
+  },
+  {
+    "zip": "9918",
+    "title": "Daugavpils T/C Ditton pakomāts",
+    "address": "Cietokšņa iela 60, Daugavpils, 9918",
+    "desc": "Krustojumā ar Kandavas ielu"
+  },
+  {
+    "zip": "9917",
+    "title": "Liepājas T/C Baata pakomāts",
+    "address": "Klaipēdas iela 104C, Liepāja, 9917",
+    "desc": "Blakus T/C ieejai no stāvlaukuma puses"
+  },
+  {
+    "zip": "9916",
+    "title": "Daugavpils T/C Aveņu centrs pakomāts",
+    "address": "Raipoles iela 11A, Daugavpils, 9916",
+    "desc": "Aveņu centra centrālās fasādes pusē"
+  },
+  {
+    "zip": "9915",
+    "title": "Rīgas T/C Juglas Centrs pakomāts",
+    "address": "Juglas krastmala 2, Rīga, 9915",
+    "desc": "Pie stāvlaukuma Juglas ielas pusē"
+  },
+  {
+    "zip": "9177",
+    "title": "Rīgas Mūkusalas Maxima XX pakomāts",
+    "address": "Mūkusalas iela 73, Rīga, 9177",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9215",
+    "title": "Rīgas Valdeķu ielas 10 Maxima X pakomāts",
+    "address": "Valdeķu iela 10, Rīga, 9215",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9559",
+    "title": "Ogres Mālkalnes prospekta 3 pakomāts",
+    "address": "Mālkalnes prospekts 3, Ogre, Ogres novads, 9559",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9193",
+    "title": "Augšlīgatnes ELVI pakomāts",
+    "address": "Nītaures iela 5, Augšlīgatne, Līgatnes pagasts, Cēsu novads, 9193",
+    "desc": "Pa labi no T/C ieejas"
+  },
+  {
+    "zip": "9182",
+    "title": "Babītes ELVI pakomāts",
+    "address": "Liepu aleja 15A, Babīte, Babītes pagasts, Mārupes novads, 9182",
+    "desc": "Pa kreisi no T/C ieejas"
+  },
+  {
+    "zip": "9174",
+    "title": "Rīgas Brīvības gatves 386 Neste pakomāts",
+    "address": "Brīvības gatve 386, Rīga, 9174",
+    "desc": "DUS teritorijā"
+  },
+  {
+    "zip": "9194",
+    "title": "Cēsu T/C Globuss pakomāts",
+    "address": "Raiņa iela 26/28, Cēsis, Cēsu novads, 9194",
+    "desc": "Pa labi no T/C Centrālās ieejas"
+  },
+  {
+    "zip": "9213",
+    "title": "Jēkabpils T/C Sēlija pakomāts",
+    "address": "Vienības iela 7, Jēkabpils, Jēkabpils novads, 9213",
+    "desc": "Pa kreisi no T/C centrālās ieejas"
+  },
+  {
+    "zip": "9190",
+    "title": "Skrīveru TOP pakomāts",
+    "address": "Daugavas iela 97, Skrīveri, Skrīveru pagasts, Aizkraukles novads, 9190",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9171",
+    "title": "Rīgas Elizabetes ielas 81 pakomāts",
+    "address": "Elizabetes iela 81, Rīga, 9171",
+    "desc": "Pie autostāvvietas iebrauktuves"
+  },
+  {
+    "zip": "9203",
+    "title": "Skaistkalnes VESKO pakomāts",
+    "address": "Rīgas iela 3, Skaistkalne, Skaistkalnes pagasts, Bauskas novads, 9203",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9560",
+    "title": "Saulkrastu Ainažu ielas ELVI pakomāts",
+    "address": "Ainažu iela 28A, Saulkrasti, Saulkrastu novads, 9560",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9538",
+    "title": "Rīgas PEPSI CENTRS pakomāts",
+    "address": "Uzvaras bulvāris 10, Rīga, 9538",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9521",
+    "title": "Rīgas BARONS KVARTĀLS pakomāts",
+    "address": "Cēsu iela 31, Rīga, 9521",
+    "desc": "Pa labi no iebrauktuves\r\n"
+  },
+  {
+    "zip": "9544",
+    "title": "Rīgas Dzelzavas ielas 78 RIMI pakomāts",
+    "address": "Dzelzavas iela 78, Rīga, 9544",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9525",
+    "title": "Kalngales ELVI pakomāts",
+    "address": "Ērgļu iela 1B, Kalngale, Carnikavas pagasts, Ādažu novads, 9525",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9519",
+    "title": "Rīgas Vaidelotes ielas RIMI pakomāts",
+    "address": "Vaidelotes iela 11A, Rīga, 9519",
+    "desc": "Pa labi no ieejas aiz stūra\r\n"
+  },
+  {
+    "zip": "9565",
+    "title": "Smiltenes Daugavas ielas TOP pakomāts",
+    "address": "Daugavas iela 1B, Smiltene, Smiltenes novads, 9565",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9516",
+    "title": "Smiltenes Rīgas ielas TOP pakomāts",
+    "address": "Rīgas iela 5, Smiltene, Smiltenes novads, 9516",
+    "desc": "Pa labi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9637",
+    "title": "Rīgas Skanstes ielas 17 RIMI pakomāts",
+    "address": "Skanstes iela 17, Rīga, 9637",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9183",
+    "title": "Aknīstes VESKO pakomāts",
+    "address": "Skolas iela 5, Aknīste, Jēkabpils novads, 9183",
+    "desc": ""
+  },
+  {
+    "zip": "9184",
+    "title": "Upesciema Lats pakomāts",
+    "address": "Ziedu iela 2C, Upesciems, Garkalnes pagasts, Ropažu novads, 9184",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9175",
+    "title": "Rīgas Saharova ielas Maxima XXX pakomāts",
+    "address": "Andreja Saharova iela 20A, Rīga, 9175",
+    "desc": "Blakus veikala Jysk ieejai"
+  },
+  {
+    "zip": "9186",
+    "title": "Madlienas ELVI pakomāts",
+    "address": "Tirdzniecības centrs, Madliena, Madlienas pagasts, Ogres novads, 9186",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9201",
+    "title": "Bauskas Pionieru ielas RIMI pakomāts",
+    "address": "Pionieru iela 2, Bauska, Bauskas novads, 9201",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9185",
+    "title": "Rīgas Jaunciema gatves Maxima X pakomāts",
+    "address": "Jaunciema gatve 174, Rīga, 9185",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9170",
+    "title": "Jaunpils TOP pakomāts",
+    "address": "Jāņkrogs, Jaunpils, Jaunpils pagasts, Tukuma novads, 9170",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9172",
+    "title": "Rīgas Tēriņu ielas 55 pakomāts",
+    "address": "Tēriņu iela 55, Rīga, 9172",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9188",
+    "title": "Rīgas T/C Gaiļezers pakomāts",
+    "address": "Gaiļezera iela 8, Rīga, 9188",
+    "desc": "Blakus T/C centrālai ieejai"
+  },
+  {
+    "zip": "9176",
+    "title": "Rīgas Rītupes ielas Maxima X pakomāts",
+    "address": "Rītupes iela 2, Rīga, 9176",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9197",
+    "title": "Valmieras Rīgas ielas TOP pakomāts",
+    "address": "Rīgas iela 64, Valmiera, Valmieras novads, 9197",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9196",
+    "title": "Straupes VIADA pakomāts",
+    "address": "Aleta, Straupe, Straupes pagasts, Cēsu novads, 9196",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9216",
+    "title": "Rēzeknes Kr. Valdemāra ielas Mego pakomāts",
+    "address": "Kr. Valdemāra iela 16A, Rēzekne, 9216",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9211",
+    "title": "Daugavpils Cialkovska ielas Lats pakomāts",
+    "address": "Cialkovska iela 10A, Daugavpils, 9211",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9214",
+    "title": "Neretas TOP pakomāts",
+    "address": "Raiņa iela 6, Nereta, Neretas pagasts, Aizkraukles novads, 9214",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9187",
+    "title": "Lapmežciema Citro pakomāts",
+    "address": "Talsu šosejas 8 km, Lapmežciems, Lapmežciema pagasts, Tukuma novads, 9187",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9204",
+    "title": "Engures Citro pakomāts",
+    "address": "Jūras iela 81, Engure, Engures pagasts, Tukuma novads, 9204",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9192",
+    "title": "Alojas Mini TOP pakomāts",
+    "address": "Rīgas iela 1B, Aloja, Limbažu novads, 9192",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9209",
+    "title": "Ugāles Lats pakomāts",
+    "address": "Skolas iela 7, Ugāle, Ugāles pagasts, Ventspils novads, 9209",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9206",
+    "title": "Liepājas Ganību ielas ELVI pakomāts",
+    "address": "Ganību iela 69/71, Liepāja, 9206",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9212",
+    "title": "Jaunjelgavas Mini Top pakomāts",
+    "address": "Jelgavas iela 44, Jaunjelgava, Aizkraukles novads, 9212",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9529",
+    "title": "Rīgas T/C Ozols pakomāts",
+    "address": "Mazā Rencēnu iela 1, Rīga, 9529",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9167",
+    "title": "Viesītes TOP pakomāts",
+    "address": "Raiņa iela 23, Viesīte, Jēkabpils novads, 9167",
+    "desc": "Blakus veikala ieejai"
+  },
+  {
+    "zip": "9166",
+    "title": "Valmieras Rubenes ielas RIMI pakomāts",
+    "address": "Rubenes iela 51, Valmiera, Valmieras novads, 9166",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9108",
+    "title": "Liepājas Ganību ielas JYSK pakomāts",
+    "address": "Ganību iela 187, Liepāja, 9108",
+    "desc": "Pie veikala fasādes, tramvaja sliežu pusē"
+  },
+  {
+    "zip": "9168",
+    "title": "Zilupes TOP pakomāts",
+    "address": "Brīvības iela 34, Zilupe, Ludzas novads, 9168",
+    "desc": "Pie ieejas veikalā"
+  },
+  {
+    "zip": "9147",
+    "title": "Rīgas Kalnciema ielas RIMI pakomāts",
+    "address": "Kalnciema iela 41, Rīga, 9147",
+    "desc": "Pie ieejas veikalā"
+  },
+  {
+    "zip": "9162",
+    "title": "Kārsavas TOP pakomāts",
+    "address": "Sporta iela 6, Kārsava, Ludzas novads, 9162",
+    "desc": "Pie ieejas veikalā"
+  },
+  {
+    "zip": "9520",
+    "title": "Rīgas T/C Galleria Riga pakomāts",
+    "address": "Dzirnavu iela 67, Rīga, 9520",
+    "desc": "Pazemes stāvlaukumā\r\n"
+  },
+  {
+    "zip": "9164",
+    "title": "Rīgas Juglas ielas 45 Maxima pakomāts",
+    "address": "Juglas iela 45, Rīga, 9164",
+    "desc": "Pa labi no aptiekas ieejas\r\n"
+  },
+  {
+    "zip": "9587",
+    "title": "Piņķu Rīgas ielas RIMI pakomāts",
+    "address": "Rīgas iela 23, Piņķi, Babītes pagasts, Mārupes novads, 9587",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9620",
+    "title": "Rīgas Latgales ielas 414 LIDL pakomāts",
+    "address": "Latgales iela 414, Rīga, 9620",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9583",
+    "title": "Ogres Brīvības ielas 19 pakomāts",
+    "address": "Brīvības iela 19, Ogre, Ogres novads, 9583",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9575",
+    "title": "Dobeles Krasta ielas TOP pakomāts",
+    "address": "Krasta iela 7, Dobele, Dobeles novads, 9575",
+    "desc": "Pa labi aiz stūra\r\n"
+  },
+  {
+    "zip": "9572",
+    "title": "Jūrmalas Kauguru Raiņa ielas Mini RIMI pakomāts",
+    "address": "Raiņa iela 74, Jūrmala, 9572",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9636",
+    "title": "Jūrmalas Valteru Piekrastes ielas 31A pakomāts",
+    "address": "Piekrastes iela 31A, Jūrmala, 9636",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9581",
+    "title": "Jaunpiebalgas pakomāts",
+    "address": "Gaujas iela 4, Jaunpiebalga, Jaunpiebalgas pagasts, Cēsu novads, 9581",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9582",
+    "title": "Rēzeknes Dārzu ielas ELFI pakomāts",
+    "address": "Dārzu iela 14, Rēzekne, 9582",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9543",
+    "title": "Priekuļu Aibe pakomāts",
+    "address": "Cēsu prospekts 44, Priekuļi, Priekuļu pagasts, Cēsu novads, 9543",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9533",
+    "title": "Rīgas Dammes tirgus pakomāts",
+    "address": "Dammes iela 36A, Rīga, 9533",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9532",
+    "title": "Pūres Citro pakomāts",
+    "address": "Roze, Pūre, Pūres pagasts, Tukuma novads, 9532",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9539",
+    "title": "Liepājas Kuršu laukuma 10 pakomāts",
+    "address": "Kuršu laukums 10, Liepāja, 9539",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9570",
+    "title": "Jumpravas Lats pakomāts",
+    "address": "Ceriņu iela 3, Jumprava, Jumpravas pagasts, Ogres novads, 9570",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9173",
+    "title": "Rīgas Miera ielas 2 pakomāts",
+    "address": "Miera iela 2, Rīga, 9173",
+    "desc": "Pretī laukumam\r\n"
+  },
+  {
+    "zip": "9531",
+    "title": "Tukuma Kurzemes ielas 2A Mego pakomāts",
+    "address": "Kurzemes iela 2A, Tukums, Tukuma novads, 9531",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9561",
+    "title": "Naukšēnu Lats pakomāts",
+    "address": "Ievulīči, Naukšēni, Naukšēnu pagasts, Valmieras novads, 9561",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9540",
+    "title": "Rīgas Lāčplēša ielas 76 LIDL pakomāts",
+    "address": "Lāčplēša iela 76, Rīga, 9540",
+    "desc": "Teritorijā\r\n"
+  },
+  {
+    "zip": "9528",
+    "title": "Rīgas Avotu ielas 17 pakomāts",
+    "address": "Avotu iela 17, Rīga, 9528",
+    "desc": "Stavlaukuma teritorijā\r\n"
+  },
+  {
+    "zip": "9566",
+    "title": "Daugavpils Viestura ielas Mego pakomāts",
+    "address": "Viestura iela 60, Daugavpils, 9566",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9555",
+    "title": "Saldus Lielās ielas Lats pakomāts",
+    "address": "Lielā iela 73, Saldus, Saldus novads, 9555",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9524",
+    "title": "Ādažu Rīgas gatves ELVI pakomāts",
+    "address": "Rīgas gatve 51, Ādaži, Ādažu novads, 9524",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9522",
+    "title": "Rīgas Kalpaka bulvāra 14A pakomāts",
+    "address": "Kalpaka bulvāris 14A, Rīga, 9522",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9523",
+    "title": "Salaspils Rīgas ielas TOP pakomāts",
+    "address": "Rīgas iela 48, Salaspils, Salaspils novads, 9523",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9552",
+    "title": "Druvas ELVI pakomāts",
+    "address": "Vienības iela 4, Druva, Saldus pagasts, Saldus novads, 9552",
+    "desc": "Pa labi aiz stūra\r\n"
+  },
+  {
+    "zip": "9535",
+    "title": "Stendes Brīvības ielas Citro pakomāts",
+    "address": "Brīvības iela 12, Stende, Talsu novads, 9535",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9536",
+    "title": "Kuldīgas Stendes ielas Citro pakomāts",
+    "address": "Stendes iela 23A, Kuldīga, Kuldīgas novads, 9536",
+    "desc": "Veikala pagalmā\r\n"
+  },
+  {
+    "zip": "9976",
+    "title": "Rīgas Mīlgrāvja ielas RIMI pakomāts ",
+    "address": "Mīlgrāvja iela 14, Rīga, 9976",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9622",
+    "title": "Rīgas Kalnciema ielas 38 LIDL pakomāts",
+    "address": "Kalnciema iela 38, Rīga, 9622",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9578",
+    "title": "Daugavpils 18. novembra ielas RIMI pakomāts",
+    "address": "18. novembra iela 136, Daugavpils, 9578",
+    "desc": "Pa kreisi no veikala stāvvietas\r\n"
+  },
+  {
+    "zip": "9577",
+    "title": "Valdemārpils Lielās ielas 17A pakomāts",
+    "address": "Lielā iela 17A, Valdemārpils, Talsu novads, 9577",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9292",
+    "title": "Mārupes Dzirnieku ielas 24 pakomāts",
+    "address": "Dzirnieku iela 24, Mārupe, Mārupes pagasts, Mārupes novads, 9292",
+    "desc": "pa kreisi iebraucot teritorijā\r\n"
+  },
+  {
+    "zip": "9590",
+    "title": "Liepas TOP pakomāts",
+    "address": "Rūpnīcas iela 8A, Liepa, Liepas pagasts, Cēsu novads, 9590",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9251",
+    "title": "Rīgas Kurzemes prospekta 15a Neste pakomāts",
+    "address": "Kurzemes prospekts 15A, Rīga, 9251",
+    "desc": "DUS teritorijā\r\n"
+  },
+  {
+    "zip": "9946",
+    "title": "Rīgas Bērnu pasaules RIMI pakomāts",
+    "address": "Matīsa iela 25, Rīga, 9946",
+    "desc": "Pa kreisi no ieejas, Kr. Barona ielas pusē\r\n"
+  },
+  {
+    "zip": "9283",
+    "title": "Medemciema pakomāts",
+    "address": "Medemciema iela 1, Medemciems, Olaines pagasts, Olaines novads, 9283",
+    "desc": "Pa kreisi no ieejas veikalā\r\n"
+  },
+  {
+    "zip": "9247",
+    "title": "Kadagas T/C Kadaga pakomāts",
+    "address": "Kadaga 15, Kadaga, Ādažu pagasts, Ādažu novads, 9247",
+    "desc": "Pa kreisi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9269",
+    "title": "Valmieras Miera ielas TOP pakomāts",
+    "address": "Miera iela 5, Valmiera, Valmieras novads, 9269",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9286",
+    "title": "Rīgas Stabu ielas 24 pakomāts",
+    "address": "Stabu iela 24, Rīga, 9286",
+    "desc": "Stāvvietas teritorijā\r\n"
+  },
+  {
+    "zip": "9547",
+    "title": "Rīgas Valmieras ielas 2 pakomāts",
+    "address": "Valmieras iela 2, Rīga, 9547",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9263",
+    "title": "Mērsraga Citro pakomāts",
+    "address": "Lielā iela 31, Mērsrags, Mērsraga pagasts, Talsu novads, 9263",
+    "desc": "Pa kreisi no ieejas veikalā\r\n"
+  },
+  {
+    "zip": "9510",
+    "title": "Ogres Kartona fabrikas pakomāts",
+    "address": "Brīvības iela 116, Ogre, Ogres novads, 9510",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9231",
+    "title": "Rīgas Berģu ielas Senās Bodes pakomāts",
+    "address": "Berģu iela 72B, Rīga, 9231",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9517",
+    "title": "Salaspils Miera ielas AIBE pakomāts",
+    "address": "Miera iela 24, Salaspils, Salaspils novads, 9517",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9219",
+    "title": "Salaspils Rīgas ielas ELVI pakomāts",
+    "address": "Rīgas iela 24, Salaspils, Salaspils novads, 9219",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9515",
+    "title": "Apes TOP pakomāts",
+    "address": "Stacijas iela 4, Ape, Smiltenes novads, 9515",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9229",
+    "title": "Mārupes Rožu ielas 2 pakomāts",
+    "address": "Rožu iela 2, Mārupe, Mārupes pagasts, Mārupes novads, 9229",
+    "desc": "Pa labi no ieejas veikalā\r\n"
+  },
+  {
+    "zip": "9250",
+    "title": "Rīgas Liepājas ielas Maxima X pakomāts",
+    "address": "Liepājas iela 76A, Rīga, 9250",
+    "desc": "Pa labi no veikala ieejas\r\n"
+  },
+  {
+    "zip": "9512",
+    "title": "Rīgas Latgales ielas 427b Neste pakomāts",
+    "address": "Latgales iela 427B, Rīga, 9512",
+    "desc": "DUS teritorijā\r\n"
+  },
+  {
+    "zip": "9272",
+    "title": "Daugavpils 18. novembra ielas Lats pakomāts",
+    "address": "18. novembra iela 398A, Vecstropi, Naujenes pagasts, Augšdaugavas novads, 9272",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9299",
+    "title": "Limbažu Pasta ielas pakomāts",
+    "address": "Pasta iela 1, Limbaži, Limbažu novads, 9299",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9253",
+    "title": "Rīgas Čiekurkalna MEGO pakomāts",
+    "address": "Čiekurkalna 4. šķērslīnija 4, Rīga, 9253",
+    "desc": "Pa kreisi no veikala ieejas\r\n"
+  },
+  {
+    "zip": "9287",
+    "title": "Jēkabpils Nameja ielas TOP pakomāts",
+    "address": "Nameja iela 12, Jēkabpils, Jēkabpils novads, 9287",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9508",
+    "title": "Suntažu AIBE pakomāts",
+    "address": "Rīts, Suntaži, Suntažu pagasts, Ogres novads, 9508",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9291",
+    "title": "Preiļu Rīgas ielas MEGO pakomāts",
+    "address": "Rīgas iela 4D, Preiļi, Preiļu novads, 9291",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9507",
+    "title": "Jūrmalas Ķemeru TOP pakomāts",
+    "address": "Emīla Dārziņa iela 16, Jūrmala, 9507",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9271",
+    "title": "Ventspils Inženieru ielas MEGO pakomāts",
+    "address": "Inženieru iela 65, Ventspils, 9271",
+    "desc": "Pa labi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9273",
+    "title": "Daugavpils Gaismas ielas TOP pakomāts",
+    "address": "Gaismas iela 12, Daugavpils, 9273",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9268",
+    "title": "Valmieras Stacijas ielas 33 pakomāts",
+    "address": "Stacijas iela 33, Valmiera, Valmieras novads, 9268",
+    "desc": "Pretī rezerves daļu veikalam\r\n"
+  },
+  {
+    "zip": "9261",
+    "title": "Rīgas Juglas ielas 25 MINI RIMI pakomāts",
+    "address": "Juglas iela 25, Rīga, 9261",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9265",
+    "title": "Jēkabpils T/C Sprīdītis pakomāts",
+    "address": "Celtnieku iela 1, Jēkabpils, Jēkabpils novads, 9265",
+    "desc": "Pa kreisi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9243",
+    "title": "Tukuma Alīnes ielas TOP pakomāts",
+    "address": "Alīnes iela 1A, Tukums, Tukuma novads, 9243",
+    "desc": "Pa kreisi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9244",
+    "title": "Tukuma T/C Aplis pakomāts",
+    "address": "Eksporta iela 6, Tukums, Tukuma novads, 9244",
+    "desc": "Pa kreisi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9258",
+    "title": "Ozolnieku ELVI pakomāts",
+    "address": "Rīgas iela 42, Ozolnieki, Ozolnieku pagasts, Jelgavas novads, 9258",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9511",
+    "title": "Rēzeknes Dārzu ielas 63 pakomāts",
+    "address": "Dārzu iela 63, Rēzekne, 9511",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9504",
+    "title": "Rīgas Buļļu ielas 35 Aibe pakomāts",
+    "address": "Buļļu iela 35, Rīga, 9504",
+    "desc": "Pa kreisi no ieejas aiz stūra\r\n"
+  },
+  {
+    "zip": "9248",
+    "title": "Zvejniekciema Bērzu alejas ELVI pakomāts",
+    "address": "Bērzu aleja 5, Zvejniekciems, Saulkrastu pagasts, Saulkrastu novads, 9248",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9276",
+    "title": "Zaķumuižas pakomāts",
+    "address": "Vidzemes prospekts 11A, Zaķumuiža, Ropažu pagasts, Ropažu novads, 9276",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9297",
+    "title": "Madonas Raiņa ielas 34 pakomāts",
+    "address": "Raiņa iela 34, Madona, Madonas novads, 9297",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9233",
+    "title": "Rīgas T/C Venta pakomāts",
+    "address": "Zolitūdes iela 34, Rīga, 9233",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9246",
+    "title": "Daugmales ELVI pakomāts",
+    "address": "Ceļmalas, Daugmale, Daugmales pagasts, Ķekavas novads, 9246",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9579",
+    "title": "Baldones TOP pakomāts",
+    "address": "Pārupes iela 6, Baldone, Ķekavas novads, 9579",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9284",
+    "title": "Kalnciema Aibe pakomāts",
+    "address": "Lielā iela 11, Kalnciems, Kalnciema pagasts, Jelgavas novads, 9284",
+    "desc": "Pa kreisi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9502",
+    "title": "Rīgas Daugavgrīvas ielas TOP pakomāts",
+    "address": "Daugavgrīvas iela 72, Rīga, 9502",
+    "desc": "Pa kreisi no galvenās ieejas\r\n"
+  },
+  {
+    "zip": "9277",
+    "title": "Rīgas Saharova ielas 2 MEGO pakomāts",
+    "address": "Andreja Saharova iela 2, Rīga, 9277",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9255",
+    "title": "Siguldas L. Paegles ielas Maxima pakomāts",
+    "address": "Leona Paegles iela 3, Sigulda, Siguldas novads, 9255",
+    "desc": "Pa kreisi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9228",
+    "title": "Alūksnes Pils ielas TOP pakomāts",
+    "address": "Pils iela 38A, Alūksne, Alūksnes novads, 9228",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9279",
+    "title": "Rīgas T/C Sāga pakomāts",
+    "address": "Biķeru iela 4, Dreiliņi, Stopiņu pagasts, Ropažu novads, 9279",
+    "desc": "Pa kreisi no \"Meža Vārti\" ieejas."
+  },
+  {
+    "zip": "9282",
+    "title": "Rīgas Baltāsbaznīcas ielas MEGO pakomāts",
+    "address": "Baltāsbaznīcas iela 42, Rīga, 9282",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9264",
+    "title": "Kolkas Citro pakomāts",
+    "address": "Saulkrasti, Kolka, Kolkas pagasts, Talsu novads, 9264",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9569",
+    "title": "Olaines Stacijas ielas RIMI pakomāts",
+    "address": "Stacijas iela 8, Olaine, Olaines novads, 9569",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9580",
+    "title": "Jūrmalas Kauguru Engures ielas Maxima pakomāts",
+    "address": "Engures iela 3, Jūrmala, 9580",
+    "desc": "Pa labi no ieejas aiz stūra\r\n"
+  },
+  {
+    "zip": "9514",
+    "title": "Rīgas Bērnu slimnīcas pakomāts",
+    "address": "Vienības gatve 45, Rīga, 9514",
+    "desc": "Slimnīcas teritorijā\r\n"
+  },
+  {
+    "zip": "9227",
+    "title": "Gulbenes Dzelzceļa ielas 14 pakomāts",
+    "address": "Dzelzceļa iela 14, Gulbene, Gulbenes novads, 9227",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9254",
+    "title": "Rīgas Viestura prospekta 35a TOP pakomāts",
+    "address": "Viestura prospekts 35A, Rīga, 9254",
+    "desc": "Pie ēkas sienas stāvlaukumā\r\n"
+  },
+  {
+    "zip": "9506",
+    "title": "Raunas TOP pakomāts",
+    "address": "Cēsu iela 2A, Rauna, Raunas pagasts, Smiltenes novads, 9506",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9503",
+    "title": "Ikšķiles ELVI pakomāts",
+    "address": "Daugavas prospekts 18A, Ikšķile, Ogres novads, 9503",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9293",
+    "title": "Maltas Lats pakomāts",
+    "address": "1. maija iela 44, Malta, Maltas pagasts, Rēzeknes novads, 9293",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9290",
+    "title": "Valkas Raiņa ielas Maxima X pakomāts",
+    "address": "Raiņa iela 7, Valka, Valkas novads, 9290",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9274",
+    "title": "Rīgas Graudu ielas Mego pakomāts",
+    "address": "Graudu iela 10, Rīga, 9274",
+    "desc": "Pa labi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9260",
+    "title": "Cēsu T/C SOLO pakomāts",
+    "address": "Jāņa Poruka iela 19, Cēsis, Cēsu novads, 9260",
+    "desc": "Pa labi no T/C Centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9505",
+    "title": "Balvu Tautas ielas 1 pakomāts",
+    "address": "Tautas iela 1, Balvi, Balvu novads, 9505",
+    "desc": "Pa labi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9239",
+    "title": "Talsu T/C Talsu Centrs pakomāts",
+    "address": "Lielā iela 2, Talsi, Talsu novads, 9239",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9266",
+    "title": "Aizkraukles TOP pakomāts",
+    "address": "Lāčplēša iela 7, Aizkraukle, Aizkraukles novads, 9266",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9241",
+    "title": "Saulkalnes TOP pakomāts",
+    "address": "Daugavmalas iela 24A, Saulkalne, Salaspils pagasts, Salaspils novads, 9241",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9298",
+    "title": "Mazsalacas pakomāts",
+    "address": "Parka iela 1, Mazsalaca, Valmieras novads, 9298",
+    "desc": "Pa kreisi no ieejas veikalā\r\n"
+  },
+  {
+    "zip": "9574",
+    "title": "Rīgas Vaidavas ielas RIMI pakomāts",
+    "address": "Vaidavas iela 9B, Rīga, 9574",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9245",
+    "title": "Ķekavas T/C Dālderi pakomāts",
+    "address": "Nākotnes iela 1, Ķekava, Ķekavas pag., Ķekavas nov., 9245",
+    "desc": "Pa labi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9296",
+    "title": "Cesvaines TOP pakomāts",
+    "address": "Rīgas iela 2, Cesvaine, Madonas novads, 9296",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9259",
+    "title": "Cēsu Gaujas ielas TOP pakomāts",
+    "address": "Gaujas iela 29, Cēsis, Cēsu novads, 9259",
+    "desc": "Pa kreisi no centrālās ieejas\r\n"
+  },
+  {
+    "zip": "9249",
+    "title": "Plakanciema pakomāts",
+    "address": "Veckrogzemji, Plakanciems, Ķekavas pagasts, Ķekavas novads, 9249",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9280",
+    "title": "Bauskas Upmalas ielas TOP pakomāts",
+    "address": "Upmalas iela 1, Bauska, Bauskas novads, 9280",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9295",
+    "title": "Rīgas Hipokrāta ielas FIX PRICE pakomāts",
+    "address": "Hipokrāta iela 26, Rīga, 9295",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9501",
+    "title": "Sauriešu DELFĪNS pakomāts",
+    "address": "Kazāru iela 4, Saurieši, Stopiņu pagasts, Ropažu novads, 9501",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9518",
+    "title": "Dobeles Muldavas ielas TOP pakomāts",
+    "address": "Muldavas iela 3A, Dobele, Dobeles novads, 9518",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9588",
+    "title": "Ventspils Talsu ielas Citro pakomāts",
+    "address": "Talsu iela 6, Ventspils, 9588",
+    "desc": ""
+  },
+  {
+    "zip": "9586",
+    "title": "RĀMKALNI pakomāts",
+    "address": "Vītiņkalni, Krustiņi, Inčukalna pagasts, Siguldas novads, 9586",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9585",
+    "title": "Slampes pakomāts",
+    "address": "Zemgales 3, Slampe, Slampes pagasts, Tukuma novads, 9585",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9623",
+    "title": "Rīgas Anniņmuižas ielas 8a LIDL pakomāts",
+    "address": "Anniņmuižas iela 8A, Rīga, 9623",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9624",
+    "title": "Salaspils LIDL pakomāts",
+    "address": "Skolas iela 4A, Salaspils, Salaspils novads, 9624",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9160",
+    "title": "Rīgas Biķernieku ielas 16a MEGO pakomāts",
+    "address": "Biķernieku iela 16A, Rīga, 9160",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9595",
+    "title": "Aglonas TOP pakomāts",
+    "address": "Somersētas iela 33, Aglona, Aglonas pagasts, Preiļu novads, 9595",
+    "desc": "Pa kreisi no ieejas, aiz stūra"
+  },
+  {
+    "zip": "9619",
+    "title": "Daugavpils Aveņu ielas Maxima X pakomāts",
+    "address": "Aveņu iela 35B, Daugavpils, 9619",
+    "desc": "Pa kreisi no ieejas, aiz stūra"
+  },
+  {
+    "zip": "9611",
+    "title": "Liepājas Krūmu ielas MEGO pakomāts",
+    "address": "Krūmu iela 45/47, Liepāja, 9611",
+    "desc": "Pa labi no ieejas."
+  },
+  {
+    "zip": "9615",
+    "title": "Rīgas Pļavnieku ielas BETA pakomāts",
+    "address": "Pļavnieku iela 1A, Rīga, 9615",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9618",
+    "title": "Ķekavas Gaismas ielas Maxima X pakomāts",
+    "address": "Gaismas iela 1A, Ķekava, Ķekavas novads, 9618",
+    "desc": "Pa labi no ieejas"
+  },
+  {
+    "zip": "9634",
+    "title": "Kuldīgas LIDL pakomāts",
+    "address": "Aizputes iela 7, Kuldīga, Kuldīgas novads, 9634",
+    "desc": "Aiz veikala, pelēkā krāsā"
+  },
+  {
+    "zip": "9633",
+    "title": "Rīgas A. Deglava ielas 160 LIDL pakomāts",
+    "address": "Augusta Deglava iela 160, Rīga, 9633",
+    "desc": "Pa kreisi no ieejas"
+  },
+  {
+    "zip": "9988",
+    "title": "Carnikavas Mego pakomāts",
+    "address": "Rīgas iela 14, Carnikava, Carnikavas pagasts, Ādažu novads, 9988",
+    "desc": "Stāvlaukumā\r\n"
+  },
+  {
+    "zip": "9601",
+    "title": "Jelgavas Birzes ielas 21 LATS pakomāts",
+    "address": "Birzes iela 21, Jelgava, 9601",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9613",
+    "title": "Grobiņas LATS pakomāts",
+    "address": "Vītolu iela 12, Grobiņa, Dienvidkurzemes novads, 9613",
+    "desc": "Pa kreisi no ieejas, pie blakus ēkas"
+  },
+  {
+    "zip": "9589",
+    "title": "Valmieras Fabrikas ielas RIMI pakomāts",
+    "address": "Fabrikas iela 2, Valmiera, Valmieras novads, 9589",
+    "desc": "Pa labi aiz stūra\r\n"
+  },
+  {
+    "zip": "9597",
+    "title": "Rīgas Lidoņu ielas 3 MAXIMA X pakomāts",
+    "address": "Lidoņu iela 3, Rīga, 9597",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9275",
+    "title": "Ulbrokas TOP pakomāts",
+    "address": "Institūta iela 7, Ulbroka, Stopiņu pagasts, Ropažu novads, 9275",
+    "desc": "Pa kreisi no ieejas, aiz stūra"
+  },
+  {
+    "zip": "9526",
+    "title": "Katlakalna pakomāts",
+    "address": "Pļavniekkalna iela 41A, Katlakalns, Ķekavas pagasts, Ķekavas novads, 9526",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9591",
+    "title": "Rīgas Pētersalas ielas Maxima pakomāts",
+    "address": "Pētersalas iela 18B, Rīga, 9591",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9602",
+    "title": "Rīgas F. Sadovņikova ielas 14 RIMI pakomāts",
+    "address": "Firsa Sadovņikova iela 14, Rīga, 9602",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9594",
+    "title": "Bēnes TOP pakomāts",
+    "address": "Stacijas iela 10, Bēne, Bēnes pagasts, Dobeles novads, 9594",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9593",
+    "title": "Zaļenieku TOP pakomāts",
+    "address": "Centra iela 7, Zaļenieki, Zaļenieku pagasts, Jelgavas novads, 9593",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9596",
+    "title": "Rīgas MĒBEĻU NAMS pakomāts",
+    "address": "Dzelzavas iela 72, Rīga, 9596",
+    "desc": "Stavlaukuma teritorijā\r\n"
+  },
+  {
+    "zip": "9599",
+    "title": "Daugavpils T/C Solo pakomāts",
+    "address": "Rīgas iela 9, Daugavpils, 9599",
+    "desc": "Pa labi no Mego ieejas \r\n"
+  },
+  {
+    "zip": "9621",
+    "title": "Rīgas Dzelzavas ielas 75 LIDL pakomāts",
+    "address": "Dzelzavas iela 75B, Rīga, 9621",
+    "desc": "Pa labi no ieejas aiz stūra\r\n"
+  },
+  {
+    "zip": "9600",
+    "title": "Jelgavas Zemgales prospekta 10 pakomāts",
+    "address": "Zemgales prospekts 10, Jelgava, 9600",
+    "desc": "Pa labi no ieejas aiz ēkas stūra\r\n"
+  },
+  {
+    "zip": "9612",
+    "title": "Carnikavas T/C Mandarīns pakomāts",
+    "address": "Atpūtas iela 1, Carnikava, Carnikavas pagasts, Ādažu novads, 9612",
+    "desc": "Pa labi no ieejas."
+  },
+  {
+    "zip": "9607",
+    "title": "Rīgas Ķīšezera ielas 6 RIMI pakomāts",
+    "address": "Ķīšezera iela 6, Rīga, 9607",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9191",
+    "title": "Rīgas Vecāķu ELVI pakomāts",
+    "address": "Mangaļu prospekts 29, Rīga, 9191",
+    "desc": ""
+  },
+  {
+    "zip": "9603",
+    "title": "Mārupes Daugavas ielas 36 ELVI pakomāts",
+    "address": "Daugavas iela 36, Mārupe, Mārupes novads, 9603",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9605",
+    "title": "Rīgas Saharova ielas 23 RIMI pakomāts",
+    "address": "Andreja Saharova iela 23A, Rīga, 9605",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9609",
+    "title": "Rīgas Tallinas ielas 86 pakomāts",
+    "address": "Tallinas iela 86, Rīga, 9609",
+    "desc": "Teritorijā\r\n"
+  },
+  {
+    "zip": "9635",
+    "title": "Bauskas LIDL pakomāts",
+    "address": "Zaļā iela 5, Bauska, Bauskas novads, 9635",
+    "desc": "Stāvlaukumā, pret ieeju"
+  },
+  {
+    "zip": "9628",
+    "title": "Rīgas Lubānas ielas 113a LIDL pakomāts",
+    "address": "Lubānas iela 113A, Rīga, 9628",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9630",
+    "title": "Rīgas Valdeķu ielas 39A LIDL pakomāts",
+    "address": "Valdeķu iela 39A, Rīga, 9630",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9625",
+    "title": "Rīgas Brīvības ielas 254 LIDL pakomāts",
+    "address": "Brīvības gatve 254, Rīga, 9625",
+    "desc": "Pa kreisi no ieejas\r\n"
+  },
+  {
+    "zip": "9632",
+    "title": "Daugavpils Balvu ielas 1a LIDL pakomāts",
+    "address": "Balvu iela 1, Daugavpils, 9632",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9608",
+    "title": "Rīgas Duntes Biroji pakomāts",
+    "address": "Duntes iela 6, Rīga, 9608",
+    "desc": "Teritorijā\r\n"
+  },
+  {
+    "zip": "9610",
+    "title": "Rīgas Kr. Barona ielas 136 pakomāts",
+    "address": "Krišjāņa Barona iela 136, Rīga, 9610",
+    "desc": "Kr. Barona un Zemitānu ielas krustojumā."
+  },
+  {
+    "zip": "9629",
+    "title": "Rīgas Prūšu ielas 1 LIDL pakomāts",
+    "address": "Prūšu iela 1, Rīga, 9629",
+    "desc": "Pa labi no ieejas\r\n"
+  },
+  {
+    "zip": "9604",
+    "title": "Rīgas Vecmīlgrāvja VIADA pakomāts",
+    "address": "Emmas iela 45, Rīga, 9604",
+    "desc": "Pa labi no ieejas\r\n"
+  }
+]

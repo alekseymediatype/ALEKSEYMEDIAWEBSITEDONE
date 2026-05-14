@@ -1,0 +1,4 @@
+Riga count: 6
+Daugavpils count: 23
+File length: 1393468
+Table rows found: 1980

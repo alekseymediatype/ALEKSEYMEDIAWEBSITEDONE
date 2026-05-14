@@ -1,0 +1,16 @@
+Total DPD points: 164
+Cities count: 12
+
+Top cities:
+  Rīga: 127
+  Jelgava: 13
+  Smiltene: 5
+  Tukums: 5
+  Cēsis: 4
+  Alūksne: 3
+  Balvi: 2
+  Aloja: 1
+  Baltinava: 1
+  Inčukalns: 1
+  Piltene: 1
+  Zvejniekciems: 1

@@ -1,0 +1,986 @@
+[
+  {
+    "name": "Paku Skapis Aibe Buļļu",
+    "city": "Rīga",
+    "postal": "LV-1055",
+    "address": "Buļļu iela 35"
+  },
+  {
+    "name": "Paku Skapis Akropole",
+    "city": "Rīga",
+    "postal": "LV-1019",
+    "address": "Latgales iela 257"
+  },
+  {
+    "name": "Paku Skapis Alfa",
+    "city": "Rīga",
+    "postal": "LV-1006",
+    "address": "Brīvības gatve 372"
+  },
+  {
+    "name": "Paku Skapis Artilērijas",
+    "city": "Rīga",
+    "postal": "LV-1009",
+    "address": "Artilērijas iela 40"
+  },
+  {
+    "name": "Paku Skapis Barona Centrs",
+    "city": "Rīga",
+    "postal": "LV-1011",
+    "address": "Krišjāņa Barona iela 46"
+  },
+  {
+    "name": "Paku Skapis BETA Purvciems",
+    "city": "Rīga",
+    "postal": "LV-1035",
+    "address": "Purvciema iela 35"
+  },
+  {
+    "name": "Paku Skapis BETA Rušonu",
+    "city": "Rīga",
+    "postal": "LV-1057",
+    "address": "Rušonu iela 17A"
+  },
+  {
+    "name": "Paku Skapis Bērnu Pasaule",
+    "city": "Rīga",
+    "postal": "LV-1001",
+    "address": "Matīsa iela 25"
+  },
+  {
+    "name": "Paku Skapis Brīvības 44",
+    "city": "Rīga",
+    "postal": "LV-1050",
+    "address": "Brīvības iela 44"
+  },
+  {
+    "name": "Paku Skapis Brīvības 78",
+    "city": "Rīga",
+    "postal": "LV-1001",
+    "address": "Brīvības iela 78a"
+  },
+  {
+    "name": "Paku Skapis Circle K Botānika",
+    "city": "Rīga",
+    "postal": "LV-1007",
+    "address": "Jūrmalas gatve 5a"
+  },
+  {
+    "name": "Paku Skapis Circle K Brīvības/Cēsu",
+    "city": "Rīga",
+    "postal": "LV-1012",
+    "address": "Brīvības iela 176a"
+  },
+  {
+    "name": "Paku Skapis Circle K Deglava",
+    "city": "Rīga",
+    "postal": "LV-1021",
+    "address": "Augusta Deglava iela 164c"
+  },
+  {
+    "name": "Paku Skapis Circle K Dzelzavas",
+    "city": "Rīga",
+    "postal": "LV-1084",
+    "address": "Dzelzavas iela 14"
+  },
+  {
+    "name": "Paku Skapis Circle K Iļģuciems",
+    "city": "Rīga",
+    "postal": "LV-1007",
+    "address": "Dzirciema iela 40"
+  },
+  {
+    "name": "Paku Skapis Circle K Imanta",
+    "city": "Rīga",
+    "postal": "LV-1067",
+    "address": "Anniņmuižas bulvāris 25a"
+  },
+  {
+    "name": "Paku Skapis Circle K Kurbada",
+    "city": "Rīga",
+    "postal": "LV-1009",
+    "address": "Kurbada iela 8"
+  },
+  {
+    "name": "Paku Skapis Circle K Lubānas",
+    "city": "Rīga",
+    "postal": "LV-1021",
+    "address": "Lubānas iela 119A"
+  },
+  {
+    "name": "Paku Skapis Circle K Muitas",
+    "city": "Rīga",
+    "postal": "LV-1010",
+    "address": "Muitas iela 4"
+  },
+  {
+    "name": "Paku Skapis Circle K Pērnavas",
+    "city": "Rīga",
+    "postal": "LV-1012",
+    "address": "Pērnavas iela 7"
+  },
+  {
+    "name": "Paku Skapis Circle K Teika",
+    "city": "Rīga",
+    "postal": "LV-1006",
+    "address": "Brīvības gatve 265"
+  },
+  {
+    "name": "Paku Skapis Circle K Valdemāra",
+    "city": "Rīga",
+    "postal": "LV-1013",
+    "address": "Krišjāna Valdemāra iela 104"
+  },
+  {
+    "name": "Paku Skapis Citro Imanta",
+    "city": "Rīga",
+    "postal": "LV-1029",
+    "address": "Kurzemes prospekts 160A"
+  },
+  {
+    "name": "Paku Skapis Citro Ziepniekkalns",
+    "city": "Rīga",
+    "postal": "LV-1058",
+    "address": "Ozolciema iela 46 k-6"
+  },
+  {
+    "name": "Paku Skapis Čiekurkalns",
+    "city": "Rīga",
+    "postal": "LV-1026",
+    "address": "Čiekurkalna 2.līnija 30"
+  },
+  {
+    "name": "Paku Skapis Damme",
+    "city": "Rīga",
+    "postal": "LV-1067",
+    "address": "Kurzemes prospekts 1a"
+  },
+  {
+    "name": "Paku Skapis Dārziņi",
+    "city": "Rīga",
+    "postal": "LV-1063",
+    "address": "Taisnā iela 71A"
+  },
+  {
+    "name": "Paku Skapis Dole",
+    "city": "Rīga",
+    "postal": "LV-1063",
+    "address": "Latgales iela 357"
+  },
+  {
+    "name": "Paku Skapis Domina",
+    "city": "Rīga",
+    "postal": "LV-1084",
+    "address": "Ieriķu iela 3"
+  },
+  {
+    "name": "Paku Skapis DPD Termināls",
+    "city": "Rīga",
+    "postal": "LV-1005",
+    "address": "Uriekstes iela 8a"
+  },
+  {
+    "name": "Paku Skapis Drogas Jugla",
+    "city": "Rīga",
+    "postal": "LV-1024",
+    "address": "Brīvības gatve 432"
+  },
+  {
+    "name": "Paku Skapis Elemental Skanste",
+    "city": "Rīga",
+    "postal": "LV-1013",
+    "address": "Skanstes iela 25"
+  },
+  {
+    "name": "Paku Skapis Ēbelmuiža",
+    "city": "Rīga",
+    "postal": "LV-1058",
+    "address": "Valdeķu iela 39"
+  },
+  {
+    "name": "Paku Skapis Galleria Riga",
+    "city": "Rīga",
+    "postal": "LV-1011",
+    "address": "Dzirnavu iela 67"
+  },
+  {
+    "name": "Paku Skapis Hipokrāta",
+    "city": "Rīga",
+    "postal": "LV-1079",
+    "address": "Hipokrāta iela 26"
+  },
+  {
+    "name": "Paku Skapis IXO Centrs",
+    "city": "Rīga",
+    "postal": "LV-1029",
+    "address": "Anniņmuižas iela 17"
+  },
+  {
+    "name": "Paku Skapis Jaunā Teika",
+    "city": "Rīga",
+    "postal": "LV-1039",
+    "address": "Gustava Zemgala gatve 76"
+  },
+  {
+    "name": "Paku Skapis Kurši Vienības",
+    "city": "Rīga",
+    "postal": "LV-1058",
+    "address": "Vienības gatve 113"
+  },
+  {
+    "name": "Paku Skapis LaTS Bolderāja",
+    "city": "Rīga",
+    "postal": "LV-1016",
+    "address": "Lemešu iela 20"
+  },
+  {
+    "name": "Paku Skapis LaTS Plostu",
+    "city": "Rīga",
+    "postal": "LV-1057",
+    "address": "Plostu iela 29"
+  },
+  {
+    "name": "Paku Skapis Maxima Burtnieku",
+    "city": "Rīga",
+    "postal": "LV-1084",
+    "address": "Burtnieku iela 39"
+  },
+  {
+    "name": "Paku Skapis Maxima Gaigalas",
+    "city": "Rīga",
+    "postal": "LV-1016",
+    "address": "Gaigalas iela 29"
+  },
+  {
+    "name": "Paku Skapis Maxima Kurzemes 59A",
+    "city": "Rīga",
+    "postal": "LV-1067",
+    "address": "Kurzemes prospekts 59a"
+  },
+  {
+    "name": "Paku Skapis Maxima Lidoņu",
+    "city": "Rīga",
+    "postal": "LV-1055",
+    "address": "Lidoņu iela 3"
+  },
+  {
+    "name": "Paku Skapis Maxima Rusova",
+    "city": "Rīga",
+    "postal": "LV-1026",
+    "address": "Rusova iela 1"
+  },
+  {
+    "name": "Paku Skapis Maxima Vecmīlgrāvis",
+    "city": "Rīga",
+    "postal": "LV-1015",
+    "address": "Augusta Dombrovska iela 74"
+  },
+  {
+    "name": "Paku Skapis Maxima Viestura",
+    "city": "Rīga",
+    "postal": "LV-5201",
+    "address": "Viestura iela 34a"
+  },
+  {
+    "name": "Paku Skapis Maxima Višķu",
+    "city": "Rīga",
+    "postal": "LV-1063",
+    "address": "Višķu iela 14"
+  },
+  {
+    "name": "Paku Skapis Maxima X Āgenskalns",
+    "city": "Rīga",
+    "postal": "LV-1002",
+    "address": "Pilsoņu iela 1 k-1"
+  },
+  {
+    "name": "Paku Skapis Maxima X Jugla",
+    "city": "Rīga",
+    "postal": "LV-1064",
+    "address": "Juglas iela 45"
+  },
+  {
+    "name": "Paku Skapis Maxima X Parādes",
+    "city": "Rīga",
+    "postal": "LV-1016",
+    "address": "Parādes iela 8"
+  },
+  {
+    "name": "Paku Skapis Maxima X Ulbrokas",
+    "city": "Rīga",
+    "postal": "LV-1021",
+    "address": "Ulbrokas iela 4"
+  },
+  {
+    "name": "Paku Skapis Maxima Liepājas",
+    "city": "Rīga",
+    "postal": "LV-1002",
+    "address": "Liepājas iela 76A"
+  },
+  {
+    "name": "Paku Skapis Maxima XX Mūkusalas",
+    "city": "Rīga",
+    "postal": "LV-1004",
+    "address": "Mūkusalas iela 73"
+  },
+  {
+    "name": "Paku Skapis Maxima XX Nīcgales",
+    "city": "Rīga",
+    "postal": "LV-1035",
+    "address": "Nīcgales iela 46a"
+  },
+  {
+    "name": "Paku Skapis Maxima XXX Grostonas",
+    "city": "Rīga",
+    "postal": "LV-1013",
+    "address": "Grostonas iela 1"
+  },
+  {
+    "name": "Paku Skapis Maxima XXX Deglava",
+    "city": "Rīga",
+    "postal": "LV-1082",
+    "address": "Augusta Deglava iela 67"
+  },
+  {
+    "name": "Paku Skapis Maxima XXX Saharova",
+    "city": "Rīga",
+    "postal": "LV-1021",
+    "address": "Andreja Saharova iela 20a"
+  },
+  {
+    "name": "Paku Skapis Mego Biķernieku",
+    "city": "Rīga",
+    "postal": "LV-1039",
+    "address": "Biķernieku iela 16a"
+  },
+  {
+    "name": "Paku Skapis Mego Bolderāja",
+    "city": "Rīga",
+    "postal": "LV-1016",
+    "address": "Gobas iela 13"
+  },
+  {
+    "name": "Paku Skapis Mego Graudu",
+    "city": "Rīga",
+    "postal": "LV-1058",
+    "address": "Graudu iela 10"
+  },
+  {
+    "name": "Paku Skapis Mego Kleistu",
+    "city": "Rīga",
+    "postal": "LV-1067",
+    "address": "Kleistu iela 9"
+  },
+  {
+    "name": "Paku Skapis Mego Kurzemes",
+    "city": "Rīga",
+    "postal": "LV-1069",
+    "address": "Kurzemes prospekts 132a"
+  },
+  {
+    "name": "Paku Skapis Mego Ķengarags",
+    "city": "Rīga",
+    "postal": "LV-1063",
+    "address": "Latgales iela 264 k-3"
+  },
+  {
+    "name": "Paku Skapis Mego Lidoņu",
+    "city": "Rīga",
+    "postal": "LV-1055",
+    "address": "Lidoņu ielu 27 k-1"
+  },
+  {
+    "name": "Paku Skapis Mego Prūšu",
+    "city": "Rīga",
+    "postal": "LV-1057",
+    "address": "Prūšu iela 2"
+  },
+  {
+    "name": "Paku Skapis Mego Saharova 2",
+    "city": "Rīga",
+    "postal": "LV-1021",
+    "address": "Andreja Saharova iela 2"
+  },
+  {
+    "name": "Paku Skapis Mego Ziepniekkalns",
+    "city": "Rīga",
+    "postal": "LV-1058",
+    "address": "Dižozolu iela 2"
+  },
+  {
+    "name": "Paku Skapis Mēbeļu Nams",
+    "city": "Rīga",
+    "postal": "LV-1082",
+    "address": "Dzelzavas iela 72"
+  },
+  {
+    "name": "Paku Skapis Miera 2",
+    "city": "Rīga",
+    "postal": "LV-1001",
+    "address": "Miera iela 2"
+  },
+  {
+    "name": "Paku Skapis Mini Rimi Biķernieku",
+    "city": "Rīga",
+    "postal": "LV-1039",
+    "address": "Biķernieku iela 21"
+  },
+  {
+    "name": "Paku Skapis MIX Deglava",
+    "city": "Rīga",
+    "postal": "LV-1035",
+    "address": "Augusta Deglava iela 52"
+  },
+  {
+    "name": "Paku Skapis MIX Jasmuižas",
+    "city": "Rīga",
+    "postal": "LV-1021",
+    "address": "Jasmuižas iela 9A"
+  },
+  {
+    "name": "Paku Skapis Mols",
+    "city": "Rīga",
+    "postal": "LV-1003",
+    "address": "Krasta iela 46"
+  },
+  {
+    "name": "Paku Skapis Neste Dambja",
+    "city": "Rīga",
+    "postal": "LV-1005",
+    "address": "Dambja iela 10"
+  },
+  {
+    "name": "Paku Skapis Olimpia",
+    "city": "Rīga",
+    "postal": "LV-1048",
+    "address": "Āzenes iela 5"
+  },
+  {
+    "name": "Paku Skapis Riga Plaza",
+    "city": "Rīga",
+    "postal": "LV-1004",
+    "address": "Mūkusalas iela 71"
+  },
+  {
+    "name": "Paku Skapis Rimi Aleja",
+    "city": "Rīga",
+    "postal": "LV-1058",
+    "address": "Vienības gatve 194a"
+  },
+  {
+    "name": "Paku Skapis Rimi Anniņmuižas",
+    "city": "Rīga",
+    "postal": "LV-1069",
+    "address": "Anniņmuižas bulvāris 40a"
+  },
+  {
+    "name": "Paku Skapis Rimi Āgenskalns",
+    "city": "Rīga",
+    "postal": "LV-1002",
+    "address": "Mārupes iela 10a"
+  },
+  {
+    "name": "Paku Skapis Rimi Biķernieku",
+    "city": "Rīga",
+    "postal": "LV-1079",
+    "address": "Biķernieku iela 160"
+  },
+  {
+    "name": "Paku Skapis Rimi Briāna",
+    "city": "Rīga",
+    "postal": "LV-1013",
+    "address": "Krišjāņa Valdemāra iela 62a"
+  },
+  {
+    "name": "Paku Skapis Rimi Deglava",
+    "city": "Rīga",
+    "postal": "LV-1082",
+    "address": "Augusta Deglava iela 110"
+  },
+  {
+    "name": "Paku Skapis Rimi Gramzdas",
+    "city": "Rīga",
+    "postal": "LV-1029",
+    "address": "Imantas 15.līnija 7"
+  },
+  {
+    "name": "Paku Skapis Rimi Kalnciema",
+    "city": "Rīga",
+    "postal": "LV-1046",
+    "address": "Kalnciema iela 41"
+  },
+  {
+    "name": "Paku Skapis Rimi Kreimeņu",
+    "city": "Rīga",
+    "postal": "LV-1015",
+    "address": "Kreimeņu iela 4a"
+  },
+  {
+    "name": "Paku Skapis Rimi Latgales",
+    "city": "Rīga",
+    "postal": "LV-1019",
+    "address": "Latgales iela 220B"
+  },
+  {
+    "name": "Paku Skapis Rimi Mežaparks",
+    "city": "Rīga",
+    "postal": "LV-1014",
+    "address": "Ķīšezera iela 6"
+  },
+  {
+    "name": "Paku Skapis Rimi Mini Anniņmuiža",
+    "city": "Rīga",
+    "postal": "LV-1029",
+    "address": "Anniņmuižas bulvāris 90"
+  },
+  {
+    "name": "Paku Skapis Rimi Mini Brīvības",
+    "city": "Rīga",
+    "postal": "LV-1024",
+    "address": "Brīvības gatve 404"
+  },
+  {
+    "name": "Paku Skapis Rimi Mīlgrāvis",
+    "city": "Rīga",
+    "postal": "LV-1034",
+    "address": "Mīlgrāvja iela 14"
+  },
+  {
+    "name": "Paku Skapis Rimi P. Brieža",
+    "city": "Rīga",
+    "postal": "LV-1045",
+    "address": "Pulkveža Brieža iela 33a"
+  },
+  {
+    "name": "Paku Skapis Rimi Purvciems",
+    "city": "Rīga",
+    "postal": "LV-1035",
+    "address": "Nīcgales iela 2"
+  },
+  {
+    "name": "Paku Skapis Rimi Sadovņikova",
+    "city": "Rīga",
+    "postal": "LV-1003",
+    "address": "Firsa Sadovņikova iela 14"
+  },
+  {
+    "name": "Paku Skapis Rimi Saharova",
+    "city": "Rīga",
+    "postal": "LV-1082",
+    "address": "Andreja Saharova iela 23a"
+  },
+  {
+    "name": "Paku Skapis Rimi Salnas",
+    "city": "Rīga",
+    "postal": "LV-1021",
+    "address": "Salnas iela 1a"
+  },
+  {
+    "name": "Paku Skapis Rimi Seiles",
+    "city": "Rīga",
+    "postal": "LV-1003",
+    "address": "Valērijas Seiles iela 6"
+  },
+  {
+    "name": "Paku Skapis Rimi Stirnu",
+    "city": "Rīga",
+    "postal": "LV-1084",
+    "address": "Stirnu iela 26"
+  },
+  {
+    "name": "Paku Skapis Rimi Super Dzelzavas",
+    "city": "Rīga",
+    "postal": "LV-1082",
+    "address": "Dzelzavas iela 78"
+  },
+  {
+    "name": "Paku Skapis Rimi Tilta",
+    "city": "Rīga",
+    "postal": "LV-1005",
+    "address": "Tilta iela 32"
+  },
+  {
+    "name": "Paku Skapis Rimi Vaidelotes",
+    "city": "Rīga",
+    "postal": "LV-1055",
+    "address": "Vaidelotes iela 11a"
+  },
+  {
+    "name": "Paku Skapis Rimi Valdemārs",
+    "city": "Rīga",
+    "postal": "LV-1013",
+    "address": "Krišjāņa Valdemāra iela 112"
+  },
+  {
+    "name": "Paku Skapis Rimi Vecmīlgrāvis",
+    "city": "Rīga",
+    "postal": "LV-1015",
+    "address": "Augusta Dombrovska iela 23"
+  },
+  {
+    "name": "Paku Skapis Spice",
+    "city": "Rīga",
+    "postal": "LV-1046",
+    "address": "Lielirbes iela 29"
+  },
+  {
+    "name": "Paku Skapis Stabu 24",
+    "city": "Rīga",
+    "postal": "LV-1011",
+    "address": "Stabu iela 24"
+  },
+  {
+    "name": "Paku Skapis Tallinas",
+    "city": "Rīga",
+    "postal": "LV-1009",
+    "address": "Tallinas iela 66B"
+  },
+  {
+    "name": "Paku Skapis TC Gaiļezers",
+    "city": "Rīga",
+    "postal": "LV-1079",
+    "address": "Gaiļezera iela 8"
+  },
+  {
+    "name": "Paku Skapis TC Jugla",
+    "city": "Rīga",
+    "postal": "LV-1024",
+    "address": "Juglas krastmala 2"
+  },
+  {
+    "name": "Paku Skapis TC Mežciems",
+    "city": "Rīga",
+    "postal": "LV-1021",
+    "address": "Biķernieku iela 143"
+  },
+  {
+    "name": "Paku Skapis TC ORIGO",
+    "city": "Rīga",
+    "postal": "LV-1050",
+    "address": "Satekles iela 2B"
+  },
+  {
+    "name": "Paku Skapis TC OZOLS",
+    "city": "Rīga",
+    "postal": "LV-1073",
+    "address": "Mazā Rencēnu iela 1"
+  },
+  {
+    "name": "Paku Skapis TC Venta",
+    "city": "Rīga",
+    "postal": "LV-1029",
+    "address": "Zolitūdes iela 34"
+  },
+  {
+    "name": "Paku Skapis Teika Plaza",
+    "city": "Rīga",
+    "postal": "LV-1039",
+    "address": "Brīvības gatve 201"
+  },
+  {
+    "name": "Paku Skapis Tēriņu 55",
+    "city": "Rīga",
+    "postal": "LV-1058",
+    "address": "Tēriņu iela 55"
+  },
+  {
+    "name": "Paku Skapis TOP Daugavgrīvas",
+    "city": "Rīga",
+    "postal": "LV-1007",
+    "address": "Daugavgrīvas iela 72"
+  },
+  {
+    "name": "Paku Skapis TOP Ilūkstes iela",
+    "city": "Rīga",
+    "postal": "LV-1082",
+    "address": "Ilūkstes iela 44A"
+  },
+  {
+    "name": "Paku Skapis TOP Kūdras",
+    "city": "Rīga",
+    "postal": "LV-1083",
+    "address": "Kūdras iela 8B"
+  },
+  {
+    "name": "Paku Skapis TOP Viestura prospekts",
+    "city": "Rīga",
+    "postal": "LV-1005",
+    "address": "Viestura prospekts 35A"
+  },
+  {
+    "name": "Paku Skapis TOP Zalves",
+    "city": "Rīga",
+    "postal": "LV-1046",
+    "address": "Zalves iela 46a"
+  },
+  {
+    "name": "Paku Skapis TOP Zasulauks",
+    "city": "Rīga",
+    "postal": "LV-1083",
+    "address": "Vecā Jūrmalas gatve 1"
+  },
+  {
+    "name": "Paku Skapis TOP Ziepniekkalns",
+    "city": "Rīga",
+    "postal": "LV-1058",
+    "address": "Ozolciema iela 16 K- 4"
+  },
+  {
+    "name": "Paku Skapis Verde",
+    "city": "Rīga",
+    "postal": "LV-1045",
+    "address": "Roberta Hirša iela 1"
+  },
+  {
+    "name": "Paku Skapis VIRŠI Arkādijs",
+    "city": "Rīga",
+    "postal": "LV-1048",
+    "address": "Uzvaras bulvāris 16"
+  },
+  {
+    "name": "Paku Skapis VIRŠI Katrīnas dambis",
+    "city": "Rīga",
+    "postal": "LV-1045",
+    "address": "Katrīnas dambis 35"
+  },
+  {
+    "name": "Paku Skapis VIRŠI Pērnava",
+    "city": "Rīga",
+    "postal": "LV-1009",
+    "address": "Pērnavas iela 78"
+  },
+  {
+    "name": "Paku Skapis Ziedu Bāze Kapseļu",
+    "city": "Rīga",
+    "postal": "LV-1083",
+    "address": "Kapseļu iela 15"
+  },
+  {
+    "name": "Paku Skapis TC Zoom",
+    "city": "Rīga",
+    "postal": "LV-1063",
+    "address": "Latgales iela 400"
+  },
+  {
+    "name": "Paku Skapis LaTS Aloja",
+    "city": "Aloja",
+    "postal": "LV-4064",
+    "address": "Jūras iela 12"
+  },
+  {
+    "name": "Paku Skapis Maxima X Alūksne",
+    "city": "Alūksne",
+    "postal": "LV-4301",
+    "address": "Pils iela 9a"
+  },
+  {
+    "name": "Paku Skapis Mājai &amp; Dārzam Alūksne",
+    "city": "Alūksne",
+    "postal": "LV-4301",
+    "address": "Latgales iela 3B"
+  },
+  {
+    "name": "Paku Skapis LaTS Alūksne",
+    "city": "Alūksne",
+    "postal": "LV-4301",
+    "address": "Torņa iela 2A"
+  },
+  {
+    "name": "Paku Skapis Lats Baltinava",
+    "city": "Baltinava",
+    "postal": "LV-4594",
+    "address": "Kārsavas iela 4"
+  },
+  {
+    "name": "Paku Skapis TC Planēta",
+    "city": "Balvi",
+    "postal": "LV-4501",
+    "address": "Brīvības iela 57"
+  },
+  {
+    "name": "Paku Skapis TOP Balvi",
+    "city": "Balvi",
+    "postal": "LV-4501",
+    "address": "Partizānu iela 6"
+  },
+  {
+    "name": "Paku Skapis Maxima XX Cēsis",
+    "city": "Cēsis",
+    "postal": "LV-4101",
+    "address": "Valmieras iela 17A"
+  },
+  {
+    "name": "Paku Skapis SOLO Cēsis",
+    "city": "Cēsis",
+    "postal": "LV-4101",
+    "address": "Jāņa Poruka iela 19"
+  },
+  {
+    "name": "Paku Skapis TC Globuss",
+    "city": "Cēsis",
+    "postal": "LV-4101",
+    "address": "Raiņa iela 26/28"
+  },
+  {
+    "name": "Paku Skapis TOP Cēsis",
+    "city": "Cēsis",
+    "postal": "LV-4101",
+    "address": "Gaujas iela 29"
+  },
+  {
+    "name": "Paku Skapis Elvi Inčukalns",
+    "city": "Inčukalns",
+    "postal": "LV-2141",
+    "address": "Laimes iela 1"
+  },
+  {
+    "name": "Paku Skapis Circle K Akadēmijas",
+    "city": "Jelgava",
+    "postal": "LV-3001",
+    "address": "Akadēmijas iela 20"
+  },
+  {
+    "name": "Paku Skapis Circle K Jelgava-1",
+    "city": "Jelgava",
+    "postal": "LV-3002",
+    "address": "Brīvības bulvāris 1"
+  },
+  {
+    "name": "Paku Skapis Circle K Jelgava-3",
+    "city": "Jelgava",
+    "postal": "LV-3007",
+    "address": "Satiksmes iela 29"
+  },
+  {
+    "name": "Paku Skapis Citro Kalnciema ceļš",
+    "city": "Jelgava",
+    "postal": "LV-3002",
+    "address": "Kalnciema ceļš 52"
+  },
+  {
+    "name": "Paku Skapis Citro Zvejnieku",
+    "city": "Jelgava",
+    "postal": "LV-3007",
+    "address": "Zvejnieku iela 13"
+  },
+  {
+    "name": "Paku Skapis Elvi Rūpniecības",
+    "city": "Jelgava",
+    "postal": "LV-3008",
+    "address": "Rūpniecības iela 77a"
+  },
+  {
+    "name": "Paku Skapis Mego Jelgava",
+    "city": "Jelgava",
+    "postal": "LV-3007",
+    "address": "Dobeles šoseja 7"
+  },
+  {
+    "name": "Paku Skapis Pilsētas Pasāža",
+    "city": "Jelgava",
+    "postal": "LV-3001",
+    "address": "Driksas iela 4"
+  },
+  {
+    "name": "Paku Skapis RAF Centrs",
+    "city": "Jelgava",
+    "postal": "LV-3004",
+    "address": "Rīgas iela 48"
+  },
+  {
+    "name": "Paku Skapis Rimi Satiksmes",
+    "city": "Jelgava",
+    "postal": "LV-3005",
+    "address": "Satiksmes iela 35"
+  },
+  {
+    "name": "Paku Skapis TC Valdeka",
+    "city": "Jelgava",
+    "postal": "LV-3004",
+    "address": "Rīgas iela 11a"
+  },
+  {
+    "name": "Paku Skapis TC Vivo",
+    "city": "Jelgava",
+    "postal": "LV-3001",
+    "address": "Katoļu iela 18"
+  },
+  {
+    "name": "Paku Skapis TOP Dobeles šoseja",
+    "city": "Jelgava",
+    "postal": "LV-3003",
+    "address": "Dobeles šoseja 90"
+  },
+  {
+    "name": "Paku Skapis LaTS Piltene",
+    "city": "Piltene",
+    "postal": "LV-3620",
+    "address": "Lielā iela 4"
+  },
+  {
+    "name": "Paku Skapis Centrs Smiltene",
+    "city": "Smiltene",
+    "postal": "LV-4729",
+    "address": "Baznīcas laukums 2"
+  },
+  {
+    "name": "Paku Skapis Maxima Smiltene",
+    "city": "Smiltene",
+    "postal": "LV-4729",
+    "address": "Atmodas iela 4"
+  },
+  {
+    "name": "Paku Skapis TC Laims",
+    "city": "Smiltene",
+    "postal": "LV-4729",
+    "address": "Kalēju iela 7"
+  },
+  {
+    "name": "Paku Skapis VIRŠI Smiltene",
+    "city": "Smiltene",
+    "postal": "LV-4729",
+    "address": "Stacijas iela 2"
+  },
+  {
+    "name": "Paku Skapis TOP Smiltene",
+    "city": "Smiltene",
+    "postal": "",
+    "address": "Rīgas iela 5, LV- 4729"
+  },
+  {
+    "name": "Paku Skapis Elvi Tukums",
+    "city": "Tukums",
+    "postal": "LV-3101",
+    "address": "Meža iela 28"
+  },
+  {
+    "name": "Paku Skapis Maxima XX Tukums",
+    "city": "Tukums",
+    "postal": "LV-3101",
+    "address": "Kurzemes iela 36"
+  },
+  {
+    "name": "Paku Skapis TC Aplis",
+    "city": "Tukums",
+    "postal": "LV-3104",
+    "address": "Eksporta iela 6"
+  },
+  {
+    "name": "Paku Skapis Rimi Tukums",
+    "city": "Tukums",
+    "postal": "LV-3101",
+    "address": "Pasta iela 14"
+  },
+  {
+    "name": "Paku Skapis TOP Tukums",
+    "city": "Tukums",
+    "postal": "LV-3101",
+    "address": "Alīnes iela 1a"
+  },
+  {
+    "name": "Paku Skapis Elvi Zvejniekciems",
+    "city": "Zvejniekciems",
+    "postal": "LV-2160",
+    "address": "Ainažu iela 113"
+  }
+]

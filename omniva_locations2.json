@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="lv" >
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name='robots' content='noindex, follow' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	
+	<!-- This site is optimized with the Yoast SEO plugin v27.2 - https://yoast.com/product/yoast-seo-wordpress/ -->
+	<title>Page not found | Omniva</title>
+	<meta property="og:locale" content="lv_LV" />
+	<meta property="og:title" content="Page not found | Omniva" />
+	<meta property="og:site_name" content="Omniva" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://www.omniva.lv/#website","url":"https://www.omniva.lv/","name":"Omniva","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.omniva.lv/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"lv"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//challenges.cloudflare.com' />
+<link rel='dns-prefetch' href='//consent.cookiebot.com' />
+<link rel="alternate" type="application/rss+xml" title="Omniva &raquo; Feed" href="https://www.omniva.lv/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Omniva &raquo; Comments Feed" href="https://www.omniva.lv/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.omniva.lv\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.5"}};
+/*! This file is auto-generated */
+!function(s,n){var o,i,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),a=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===a[t]})}function u(e,t){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);for(var n=e.getImageData(16,16,1,1),a=0;a<n.data.length;a++)if(0!==n.data[a])return!1;return!0}function f(e,t,n,a){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\udde8\ud83c\uddf6","\ud83c\udde8\u200b\ud83c\uddf6")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!a(e,"\ud83e\udedf")}return!1}function g(e,t,n,a){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):s.createElement("canvas"),o=r.getContext("2d",{willReadFrequently:!0}),i=(o.textBaseline="top",o.font="600 32px Arial",{});return e.forEach(function(e){i[e]=t(o,e,n,a)}),i}function t(e){var t=s.createElement("script");t.src=e,t.defer=!0,s.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",i=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){s.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+g.toString()+"("+[JSON.stringify(i),f.toString(),p.toString(),u.toString()].join(",")+"));",a=new Blob([e],{type:"text/javascript"}),r=new Worker(URL.createObjectURL(a),{name:"wpTestEmojiSupports"});return void(r.onmessage=function(e){c(n=e.data),r.terminate(),t(n)})}catch(e){}c(n=g(i,f,p,u))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 18px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 24px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--extra-small: 16px;--wp--preset--font-size--normal: 20px;--wp--preset--font-size--extra-large: 40px;--wp--preset--font-size--huge: 96px;--wp--preset--font-size--gigantic: 144px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.omniva.lv/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1' media='all' />
+<link rel='stylesheet' id='omniva-style-additional-css' href='https://www.omniva.lv/wp-content/themes/omniva/assets/css/theme.css?ver=0.33.15' media='all' />
+<link rel='stylesheet' id='omniva-theme-libraty-style-css' href='https://www.omniva.lv/wp-content/themes/omniva/assets/dist/assets/css/omniva-theme.min.css?ver=0.33.15' media='all' />
+<link rel='stylesheet' id='omniva-style-css' href='https://www.omniva.lv/wp-content/themes/omniva/assets/dist/assets/css/styles.min.css?ver=0.33.15' media='all' />
+<link rel='stylesheet' id='leaflet-css-css' href='https://www.omniva.lv/wp-content/themes/omniva/assets/dist/assets/css/leaflet.min.css?ver=0.33.15' media='all' />
+<link rel='stylesheet' id='cf7cf-style-css' href='https://www.omniva.lv/wp-content/plugins/cf7-conditional-fields/style.css?ver=2.6' media='all' />
+<script defer src="https://www.omniva.lv/wp-content/themes/omniva/assets/dist/assets/js/react.production.min.js?ver=0.33.15" id="react.production-js"></script>
+<script src="https://www.omniva.lv/wp-includes/js/dist/vendor/react.min.js?ver=18.3.1.1" id="react-js"></script>
+<script defer src="https://www.omniva.lv/wp-content/themes/omniva/assets/dist/assets/js/react-dom.production.min.js?ver=0.33.15" id="react-dom.production-js"></script>
+<script src="https://www.omniva.lv/wp-content/themes/omniva/assets/dist/assets/js/leaflet.js?ver=0.33.15" id="leaflet-js"></script>
+<script defer src="https://www.omniva.lv/wp-content/themes/omniva/assets/dist/assets/js/dayjs.min.js?ver=0.33.15" id="dayjs-js"></script>
+<script id="omniva-index-script-js-extra">
+var OmnivaThemeData = {"version":"0.33.15"};
+</script>
+<script defer src="https://www.omniva.lv/wp-content/themes/omniva/assets/dist/assets/js/index.min.js?ver=0.33.15" id="omniva-index-script-js"></script>
+<script type="text/javascript" data-cbid="35e4852f-b553-4484-abfc-6badf9c6f685" data-blockingmode="auto" data-culture="lv"  src="https://consent.cookiebot.com/uc.js" id="Cookiebot-js"></script>
+<script src="https://www.omniva.lv/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script src="https://www.omniva.lv/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel="https://api.w.org/" href="https://www.omniva.lv/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.omniva.lv/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.8.5" />
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push(
+{'gtm.start': new Date().getTime(),event:'gtm.js'}
+);var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-KQL7L7P');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Hotjar -->
+<!-- <script>
+(function(h,o,t,j,a,r){
+h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+h._hjSettings=
+{hjid:5233152,hjsv:6};
+a=o.getElementsByTagName('head')[0];
+r=o.createElement('script');r.async=1;
+r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+a.appendChild(r);
+})(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script> -->
+<!-- End Hotjar -->
+
+<!-- Google Consent Mode -->
+<script data-cookieconsent="ignore">
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments)
+      }
+      gtag("consent", "default", {
+        ad_personalization: "denied",
+        ad_storage: "denied",
+        ad_user_data: "denied",
+        analytics_storage: "denied",
+        functionality_storage: "denied",
+        personalization_storage: "denied",
+        security_storage: "granted",
+        wait_for_update: 500
+      });
+      gtag("set", "ads_data_redaction", true);
+      gtag("set", "url_passthrough", true);
+    </script>
+<!-- End Google Consent Mode-->
+		<script>
+			document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+		</script>
+				<style>
+			.no-js img.lazyload {
+				display: none;
+			}
+
+			figure.wp-block-image img.lazyloading {
+				min-width: 150px;
+			}
+
+			.lazyload,
+			.lazyloading {
+				--smush-placeholder-width: 100px;
+				--smush-placeholder-aspect-ratio: 1/1;
+				width: var(--smush-placeholder-width) !important;
+				aspect-ratio: var(--smush-placeholder-aspect-ratio) !important;
+			}
+
+						.lazyload, .lazyloading {
+				opacity: 0;
+			}
+
+			.lazyloaded {
+				opacity: 1;
+				transition: opacity 400ms;
+				transition-delay: 0ms;
+			}
+
+					</style>
+		<link rel="icon" href="https://www.omniva.lv/wp-content/uploads/sites/6/2024/02/logo-sign.png" sizes="32x32" />
+<link rel="icon" href="https://www.omniva.lv/wp-content/uploads/sites/6/2024/02/logo-sign.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://www.omniva.lv/wp-content/uploads/sites/6/2024/02/logo-sign.png" />
+<meta name="msapplication-TileImage" content="https://www.omniva.lv/wp-content/uploads/sites/6/2024/02/logo-sign.png" />
+</head>
+<body class="error404 wp-embed-responsive wp-theme-omniva om-body-md">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+	<iframe src=https://www.googletagmanager.com/ns.html?id=GTM-KQL7L7P height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<div class="banners-container om-information-banners">        <div id="omnivaInfoBanner3446" class="om-header-banner om-banner-top banner-info">
+            <div class="om-container-2xl container om-align-items-start om-align-items-xl-center">
+                <div class="om-d-flex om-flex-column om-flex-xl-row om-align-items-xl-center">
+                <div class="om-body-md om-pb-3 om-pb-xl-0">Meklējam kurjerpartnerus sūtījumu piegādei Liepājā!</div>
+                                                    <div>
+                        <button onclick="window.open('https://forms.office.com/e/maYKbXJ0TZ', '_blank')" class="om-btn btn-sm btn-info om-m-0 om-ms-xl-5 om-me-xl-5">Uzzināt vairāk</button>
+                    </div>
+                                </div>
+
+            </div>
+                            <div class="close" onclick="hideInfoBanner(3446); ">
+                    <div class="close-button"></div>
+                </div>
+                    </div>
+                <div id="omnivaInfoBanner3134" class="om-header-banner om-banner-top banner-danger">
+            <div class="om-container-2xl container om-align-items-start om-align-items-xl-center">
+                <div class="om-d-flex om-flex-column om-flex-xl-row om-align-items-xl-center">
+                <div class="om-body-md om-pb-3 om-pb-xl-0">Uzmanību – krāpnieki zvana, izliekoties, ka Omniva piegādā valsts iestāžu ierakstītas vēstules. Omniva šādus sūtījumus nepiegādā. Esiet piesardzīgi.</div>
+                                                </div>
+
+            </div>
+                    </div>
+        </div>
+<header class="om-header desktop om-px-0 om-px-xl-5 site-header local-page has-title-and-tagline">
+    <div class="site-search om-py-7 om-d-none">
+        <div class="om-d-flex om-container-2xl">
+            <div class="om-d-flex om-align-items-center om-col">
+                <om-text-box display-mode="normal" left-icon="ico-search">
+                    <input
+                            type="text"
+                            data-lang = ""
+                            placeholder="Ierakstiet atslēgvārdu vai frāzi"
+                            maxLength="100">
+                </om-text-box>
+            </div>
+
+            <div class="om-d-flex om-justify-content-end om-align-items-center om-col-2">
+                <button class="om-btn btn-lg btn-info om-ms-5 om-me-7 search-button">
+                    Meklēt                </button>
+                <div class="om-icon ico-close om-icon-size-lg om-px-4 cursor-pointer close-search-button"></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="nav-secondary om-container-2xl om-d-none om-d-xl-flex om-body-sm-bold">
+        <div class="nav-item-group-sm left-group">
+            <om-popover class="omniva-lang-switcher" type="select">
+                            </om-popover>
+                    </div>
+        <div class="nav-item-group-sm right-group">
+                        <div class="menu-header-search-menu_lv-private-container"><div class="nav-item-group-sm om-px-6 open-search-button"><a href = "/" class="om-btn om-link link-no-underline"><div class="btn-content om-d-flex"><img class="img-icon om-me-3 lazyload" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/07/Icon-6.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /><div>Meklēt</div></div></a></li>
+</div></div>
+            <div class="menu-header-right-menu_lv-private-container"><div class="nav-item-group-sm om-px-6"><a href = "https://www.omniva.lv/pakomatu-adreses/" class="om-btn om-link link-no-underline"><div class="btn-content om-d-flex"><img class="img-icon om-me-3 lazyload" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/07/Shape.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /><div>Pakomātu atrašanās vietas</div></div></a></li>
+</div></div>            <div class="menu-my-account-menu-lv-private-container"><div class="nav-item-group-sm">
+<om-popover placement="bottom-end" wrap>
+ <button class="toggle toggle-lg om-btn btn-sm btn-xl-sm om-d-none om-d-xl-flex btn-primary my-account-desktop"><span class="om-body-base-bold">Mans konts</span></button>
+ <button class="toggle toggle-lg om-btn-icon btn-xl-lg om-d-xl-none btn-icon-sm btn-primary my-account-mobile"><img class="img-icon button-with-image-icon lazyload" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/10/Shape.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /></button>
+  <div class="popover popover-lg">
+    <div class="list">
+
+<div class="section qa-my-account-desktop-menu-item"><a target="_blank" rel="noopener" href="https://auth.omniva.eu/cas/login?TARGET=https%3A%2F%2Fmana.omniva.lv%2Fauth%3Faction%3Drestore%26targetPath%3D%252F&#038;FAIL_TARGET=https%3A%2F%2Fmana.omniva.lv%2F%3Faction%3Drestore&#038;locale=lv_LV&#038;isMobile=false&#038;NEW=true"https://auth.omniva.eu/cas/login?TARGET=https%3A%2F%2Fmana.omniva.lv%2Fauth%3Faction%3Drestore%26targetPath%3D%252F&FAIL_TARGET=https%3A%2F%2Fmana.omniva.lv%2F%3Faction%3Drestore&locale=lv_LV&isMobile=false&NEW=true class="om-btn om-link om-full-width link-md link-no-underline"><div class="title">Privāts klients</div></a></div>
+<div class="section qa-my-account-desktop-menu-item"><a target="_blank" rel="noopener" href="https://business.omniva.eu/"https://business.omniva.eu/ class="om-btn om-link om-full-width link-md link-no-underline"><div class="title">Biznesa klients</div></a></div>
+
+</div></div></om-popover>
+</div></div>
+        </div>
+    </div>
+
+    <div id="parent-for-popover" class="nav-main om-container-2xl om-d-none om-d-xl-flex">
+        <div class="om-pe-10 nav-item-group-lg">
+            <a href="/">
+                <div class="om-image img-logo-sign desktop"></div>
+            </a>
+            <div class="om-tabs tabs-sm tabs-fullwidth" id="test-tabs">
+                <button class="tab active success"
+                    onClick="window.location = 'zinas/omniva-2025-gada-parskats-transformacija-uz-starptautisku-tehnologijas-balstitu-logistikas-uznemumu/';">
+                    <span class="om-body-base-bold">Privāts</span>
+                </button>
+                <button class="om-body-base-bold tab"
+                    onClick="window.location = '/business';">
+                    <span class="om-body-base-bold">Bizness</span>
+                </button>
+            </div>
+        </div>
+        <div class="nav-item-group-md">
+            <om-popover  placement="bottom-start"  anchor-element-id="parent-for-popover">
+                <button class="toggle toggle-lg om-link link-no-underline link-md-bold link-sm om-body-lg-bold"> Nosūti</button>
+                <div class="popover popover-lg">
+      <div class="om-d-flex om-header-main-menu-popover"> <div class="list om-col om-image-in-popover om-gray-300-background"><div class="img-menu om-d-flex om-flex-column"><img data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/10/Aspect-Ratio.png" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 419px; --smush-placeholder-aspect-ratio: 419/280;" /><button class="om-btn btn-md om-full-width btn-primary om-mt-5" onclick="window.open('https://mana.omniva.lv/parcel/baltics/new', '_blank');">Nosūtīt</button></div></div>
+
+<div class="list om-col"><button class="section" onclick=" location.href='https://www.omniva.lv/nosutit-sutijumu/';"><div class="title">Nosūtīt sūtījumu</div><div class="details">Uzzini par sūtījumu nosūtīšanas iespējām Igaunijā, Latvijā un Lietuvā.</div></button>
+<button class="section" onclick=" location.href='https://www.omniva.lv/starptautiskie-sutijumi/';"><div class="title">Starptautiskie sūtījumi</div><div class="details">Uzzini par sūtījuma nosūtīšanas iespējām uz 237 galamērķiem visā pasaulē.</div></button>
+</div><div class="list om-col"><div class="title">Papildu iespējas</div>
+	
+<button class="section" onclick=" location.href='https://www.omniva.lv/deklaracija/';"><div class="title">Sūtījumu deklarēšana</div><div class="details">Uzzini, kā muitā deklarēt sūtījumu, ja sūti to uz valsti ārpus ES vai autonomu reģionu ES.</div></button>
+<button class="section" onclick=" location.href='https://www.omniva.lv/aizliegtie-prieksmeti/';"><div class="title">Aizliegtie priekšmeti</div><div class="details">Uzzini, uz kuriem priekšmetiem attiecas ierobežojumi vai kurus ir aizliegts sūtīt ar Omniva.</div></button>
+	
+
+</div>
+</div></div></om-popover>
+<a href="https://www.omniva.lv/zinas/" target="" class="om-link link-no-underline om-body-lg-bold ">Ziņas</a><om-popover  placement="bottom-start"  anchor-element-id="parent-for-popover">
+                <button class="toggle toggle-lg om-link link-no-underline link-md-bold link-sm om-body-lg-bold"> Izseko un saņem</button>
+                <div class="popover popover-lg">
+      <div class="om-d-flex om-header-main-menu-popover"> <div class="list om-col om-image-in-popover om-gray-300-background"><div class="img-menu om-d-flex om-flex-column"><img data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/10/track-receive-main-menu.png" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload" style="--smush-placeholder-width: 419px; --smush-placeholder-aspect-ratio: 419/280;" /></div></div>
+
+<div class="list om-col"><button class="section" onclick=" location.href='https://www.omniva.lv/sutijumu-izsekosana/';"><div class="title">Sūtījumu izsekošana</div><div class="details">Ar Omniva sūtījumu saņemšana ir vienkārša. Uzzini vairāk par sūtījuma saņemšanas iespējām.</div></button>
+</div><div class="list om-col"><div class="title">Papildu iespējas</div>
+	
+<button class="section" onclick="window.open('https://www.omniva.lv/palidziba/parvaldit-savus-sutijumus-visparigi/sutijuma-paradresacija', '_blank');"><div class="title">Pāradresācija</div><div class="details">Uzzini, kā mainīt sūtījuma piegādes veidu, pāradresēt to.</div></button>
+<button class="section" onclick="window.open('https://atgriesana.omniva.lv/', '_blank');"><div class="title">Atgriešanas pakalpojums</div><div class="details">Uzzini vairāk par sūtījuma atgriešanas iespējām.</div></button>
+	
+
+</div>
+</div></div></om-popover>
+<a href="https://www.omniva.lv/palidziba/" target="" class="om-link link-no-underline om-body-lg-bold ">Klientu atbalsts</a>            <div class="local-my-account-menu nav-item-group-sm om-d-none">
+<om-popover placement="bottom-end" wrap>
+ <button class="toggle toggle-lg om-btn btn-sm btn-xl-sm om-d-none om-d-xl-flex btn-primary my-account-desktop"><span class="om-body-base-bold">Mans konts</span></button>
+ <button class="toggle toggle-lg om-btn-icon btn-xl-lg om-d-xl-none btn-icon-sm btn-primary my-account-mobile"><img class="img-icon button-with-image-icon lazyload" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/10/Shape.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /></button>
+  <div class="popover popover-lg">
+    <div class="list">
+
+<div class="section qa-my-account-desktop-menu-item"><a target="_blank" rel="noopener" href="https://auth.omniva.eu/cas/login?TARGET=https%3A%2F%2Fmana.omniva.lv%2Fauth%3Faction%3Drestore%26targetPath%3D%252F&#038;FAIL_TARGET=https%3A%2F%2Fmana.omniva.lv%2F%3Faction%3Drestore&#038;locale=lv_LV&#038;isMobile=false&#038;NEW=true"https://auth.omniva.eu/cas/login?TARGET=https%3A%2F%2Fmana.omniva.lv%2Fauth%3Faction%3Drestore%26targetPath%3D%252F&FAIL_TARGET=https%3A%2F%2Fmana.omniva.lv%2F%3Faction%3Drestore&locale=lv_LV&isMobile=false&NEW=true class="om-btn om-link om-full-width link-md link-no-underline"><div class="title">Privāts klients</div></a></div>
+<div class="section qa-my-account-desktop-menu-item"><a target="_blank" rel="noopener" href="https://business.omniva.eu/"https://business.omniva.eu/ class="om-btn om-link om-full-width link-md link-no-underline"><div class="title">Biznesa klients</div></a></div>
+
+</div></div></om-popover>
+</div>        </div>
+    </div>
+
+    <!-- Mobile header -->
+
+    <om-modal full-screen="true" class="mobile-site-search" ref-id="mobile-site-search-btn">
+        <!-- Mobile search is handled by JS, but theme library requires the toggle element inside the modal -->
+        <div id="mobile-site-search-btn" style="display: none;"></div>
+        <div class="om-modal modal-lg">
+            <div class="header underline">
+                <span class="om-body-md-bold font-keep">
+                Meklēt                </span>
+                <div class="close close-mobile-site-search" data-dismiss="modal" aria-label="Close">
+                    <div tabindex="0" class="om-icon ico-close om-icon-size-md"></div>
+                </div>
+            </div>
+            <div id="modal_desc" class="content" tabindex="1">
+                <om-text-box display-mode="normal" left-icon="ico-search">
+                    <input
+                            type="text"
+                            placeholder="Ierakstiet atslēgvārdu vai frāzi"
+                            maxLength="100"
+                    >
+                </om-text-box>
+            </div>
+        </div>
+    </om-modal>
+
+    <div id="parent-for-mobile-popover" class="nav-main mobile om-d-xl-none om-px-5 om-py-0">
+        <div class="om-d-flex om-justify-content-between om-full-width om-py-4">
+            <div class="nav-item-group-sm">
+                <a href="/" class="om-d-flex">
+                    <div class="om-image img-logo-sign"></div>
+                </a>
+                <om-popover type="select" class="omniva-lang-switcher ">
+                                    </om-popover>
+            </div>
+
+            <div class="nav-item-group-sm open-mobile-site-search">
+                <a class="om-link om-d-flex om-search-btn">
+                    <div class="om-d-flex om-btn btn-content">
+                        <div class="om-icon ico-search"></div>
+                    </div>
+                </a>
+                <div class="menu-my-account-menu-lv-private-container"><div class="nav-item-group-sm"><button class="my-account-menu-toggle om-btn-icon btn-xl-lg om-d-xl-none btn-icon-sm btn-primary my-account-mobile"><img class="img-icon button-with-image-icon lazyload" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/10/Shape.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /></button>
+</div></div>
+                <span class="om-link om-d-flex menu-toggle-btn om-px-3" id="mobile-menu-btn">
+                    <span class="om-icon ico-hamburger2"></span>
+                </span>
+            </div>
+        </div>
+    </div>
+    <div class="menu-my-account-menu-lv-private-container"><div class="nav-item-group-sm">
+    <om-popover id="my-account-popover-body" class="om-d-xl-none" offset="0" placement="bottom-start" anchor-element-id="parent-for-mobile-popover" wrap> 
+        <!-- <om-popover> expects a .toogle element inside the popover even though we are toggling it with js -->
+        <button type="button" class="toggle" style="display: none;"></button>
+        <div id="my-popover-container">
+            <div class="popover popover-md">
+                <div class="list">
+
+<a target="_blank" rel="noopener" href="https://auth.omniva.eu/cas/login?TARGET=https%3A%2F%2Fmana.omniva.lv%2Fauth%3Faction%3Drestore%26targetPath%3D%252F&#038;FAIL_TARGET=https%3A%2F%2Fmana.omniva.lv%2F%3Faction%3Drestore&#038;locale=lv_LV&#038;isMobile=false&#038;NEW=true"https://auth.omniva.eu/cas/login?TARGET=https%3A%2F%2Fmana.omniva.lv%2Fauth%3Faction%3Drestore%26targetPath%3D%252F&FAIL_TARGET=https%3A%2F%2Fmana.omniva.lv%2F%3Faction%3Drestore&locale=lv_LV&isMobile=false&NEW=true class="om-btn om-link om-full-width link-md link-no-underline qa-my-account-mobile-menu-item"><div class="om-btn btn-content om-justify-content-between om-px-6 om-py-3"><div class="om-d-flex om-align-items-center"><span>Privāts klients</span></div> <div class="om-icon-mask ico-right-arrow om-ms-3"></div></div></a>
+<a target="_blank" rel="noopener" href="https://business.omniva.eu/"https://business.omniva.eu/ class="om-btn om-link om-full-width link-md link-no-underline qa-my-account-mobile-menu-item"><div class="om-btn btn-content om-justify-content-between om-px-6 om-py-3"><div class="om-d-flex om-align-items-center"><span>Biznesa klients</span></div> <div class="om-icon-mask ico-right-arrow om-ms-3"></div></div></a>
+
+</div></div></div></om-popover>
+</div></div>
+    <!--  Mobile menu  -->
+
+    <div class="local-pages menu-mobile om-pb-10 om-flex-column om-justify-content-between">
+        <div>
+            <div class="om-px-7 om-py-5 om-d-none">
+                <om-text-box left-icon="om-search">
+                    <input type="text" placeholder="Search from site">
+                </om-text-box>
+            </div>
+            <div class="nav-item-group-lg om-pt-5">
+                <div class="om-tabs om-full-width tabs-md header-private-business-tabs om-justify-content-center"
+                     id="test-tabs">
+                    <button class="tab active success"
+                        onClick="window.location = 'zinas/omniva-2025-gada-parskats-transformacija-uz-starptautisku-tehnologijas-balstitu-logistikas-uznemumu/';">
+                    <span>Privāts</span>
+                    </button>
+                    <button class="tab"
+                        onClick="window.location = '/business';">
+                    <span>Bizness</span>
+                    </button>
+                </div>
+            </div>
+            <div class="menu-main_lv-private-container"><div class="menu-container-mobile om-d-flex om-p-5 om-pb-10"><ul class="om-list-group list-group-lg list-group-underline"><li class="om-list-group-item om-p-0 om-m-0 om-border-bottom ">
+                            <details class="om-accordion accordion-lg">
+                            <summary class="om-py-3">
+                            <div class="accordion-title">
+                            <span class="om-link link-lg-bold link-no-underline om-d-inline-block om-full-width" >Nosūti</span>
+                            </div>
+                            <div class="arrow" tabindex="0"></div>
+                            </summary>
+                            <div class="accordion-content om-m-0"><button class="om-btn btn-md om-full-width btn-primary" onclick="location.href='https://mana.omniva.lv/parcel/baltics/new'">Nosūtīt</button>                            
+                            <ul class="om-list-group list-group-lg om-py-3">
+<div class='accordion-content om-m-0'><ul  class="om-list-group list-group-lg om-pb-5">
+<li class="om-list-group-item om-p-0 om-m-0">
+<a class="om-link link-md-bold link-no-underline om-d-inline-block om-full-width om-pt-5 om-pb-3 om-body-base-bold" href="https://www.omniva.lv/nosutit-sutijumu/" >Nosūtīt sūtījumu</a>
+<div class="details  om-gray-color om-body-sm">Uzzini par sūtījumu nosūtīšanas iespējām Igaunijā, Latvijā un Lietuvā.</div>
+</li></li>
+<li class="om-list-group-item om-p-0 om-m-0">
+<a class="om-link link-md-bold link-no-underline om-d-inline-block om-full-width om-pt-5 om-pb-3 om-body-base-bold" href="https://www.omniva.lv/starptautiskie-sutijumi/" >Starptautiskie sūtījumi</a>
+<div class="details  om-gray-color om-body-sm">Uzzini par sūtījuma nosūtīšanas iespējām uz 237 galamērķiem visā pasaulē.</div>
+</li></li>
+<li class="om-list-group-item om-p-0 om-mt-5"><div class="title om-gray-color om-body-base">Papildu iespējas</div></li>
+	<div class='accordion-content om-m-0'><ul  class="om-list-group list-group-lg om-pb-5">
+<li class="om-list-group-item om-p-0 om-m-0">
+<a class="om-link link-md-bold link-no-underline om-d-inline-block om-full-width om-pt-5 om-pb-3 om-body-base-bold" href="https://www.omniva.lv/deklaracija/" >Sūtījumu deklarēšana </a>
+<div class="details  om-gray-color om-body-sm">Uzzini, kā muitā deklarēt sūtījumu, ja sūti to uz valsti ārpus ES vai autonomu reģionu ES.</div>
+</li></li>
+<li class="om-list-group-item om-p-0 om-m-0">
+<a class="om-link link-md-bold link-no-underline om-d-inline-block om-full-width om-pt-5 om-pb-3 om-body-base-bold" href="https://www.omniva.lv/aizliegtie-prieksmeti/" >Aizliegtie priekšmeti </a>
+<div class="details  om-gray-color om-body-sm">Uzzini, uz kuriem priekšmetiem attiecas ierobežojumi vai kurus ir aizliegts sūtīt ar Omniva.</div>
+</li></li>
+	</ul></div>
+</li>
+</ul></div>
+</ul></div>
+</details></li></li>
+<li class="om-list-group-item om-p-0 om-m-0 om-border-bottom ">
+                            <details class="om-accordion accordion-lg">
+                            <summary class="om-py-3">
+                            <div class="accordion-title">
+                            <span class="om-link link-lg-bold link-no-underline om-d-inline-block om-full-width" >Ziņas</span>
+                            </div>
+                            <div class="arrow" tabindex="0"></div>
+                            </summary>
+                            <div class="accordion-content om-m-0">                            
+                            <ul class="om-list-group list-group-lg om-py-3"></ul></div>
+</details></li></li>
+<li class="om-list-group-item om-p-0 om-m-0 om-border-bottom ">
+                            <details class="om-accordion accordion-lg">
+                            <summary class="om-py-3">
+                            <div class="accordion-title">
+                            <span class="om-link link-lg-bold link-no-underline om-d-inline-block om-full-width" >Izseko un saņem</span>
+                            </div>
+                            <div class="arrow" tabindex="0"></div>
+                            </summary>
+                            <div class="accordion-content om-m-0">                            
+                            <ul class="om-list-group list-group-lg om-py-3">
+<div class='accordion-content om-m-0'><ul  class="om-list-group list-group-lg om-pb-5">
+<li class="om-list-group-item om-p-0 om-m-0">
+<a class="om-link link-md-bold link-no-underline om-d-inline-block om-full-width om-pt-5 om-pb-3 om-body-base-bold" href="https://www.omniva.lv/sutijumu-izsekosana/" >Sūtījumu izsekošana</a>
+<div class="details  om-gray-color om-body-sm">Ar Omniva sūtījumu saņemšana ir vienkārša. Uzzini vairāk par sūtījuma saņemšanas iespējām.</div>
+</li></li>
+<li class="om-list-group-item om-p-0 om-mt-5"><div class="title om-gray-color om-body-base">Papildu iespējas</div></li>
+	<div class='accordion-content om-m-0'><ul  class="om-list-group list-group-lg om-pb-5">
+<li class="om-list-group-item om-p-0 om-m-0">
+<a class="om-link link-md-bold link-no-underline om-d-inline-block om-full-width om-pt-5 om-pb-3 om-body-base-bold" href="https://www.omniva.lv/palidziba/parvaldit-savus-sutijumus-visparigi/sutijuma-paradresacija" >Pāradresācija </a>
+<div class="details  om-gray-color om-body-sm">Uzzini, kā mainīt sūtījuma piegādes veidu, pāradresēt to.</div>
+</li></li>
+<li class="om-list-group-item om-p-0 om-m-0">
+<a class="om-link link-md-bold link-no-underline om-d-inline-block om-full-width om-pt-5 om-pb-3 om-body-base-bold" href="https://atgriesana.omniva.lv/" >Atgriešanas pakalpojums </a>
+<div class="details  om-gray-color om-body-sm">Uzzini vairāk par sūtījuma atgriešanas iespējām.</div>
+</li></li>
+	</ul></div>
+</li>
+</ul></div>
+</ul></div>
+</details></li></li>
+<li class="om-list-group-item om-p-0 om-m-0 om-border-bottom ">
+                            <details class="om-accordion accordion-lg">
+                            <summary class="om-py-3">
+                            <div class="accordion-title">
+                            <span class="om-link link-lg-bold link-no-underline om-d-inline-block om-full-width" >Klientu atbalsts</span>
+                            </div>
+                            <div class="arrow" tabindex="0"></div>
+                            </summary>
+                            <div class="accordion-content om-m-0"><button class="om-btn btn-md om-full-width btn-primary" onclick="location.href='https://www.omniva.lv/palidziba/'">Doties uz klientu atbalsta centru</button>                            
+                            <ul class="om-list-group list-group-lg om-py-3"></ul></div>
+</details></li></li>
+</ul></div></div>        </div>
+        <div>
+            <div class="mobile-left-right-menus om-d-flex om-flex-column om-yellow-200-background om-mt-8 om-mb-8 om-ms-5 om-me-5">
+                <div class="menu-header-right-menu_lv-private-container"><div class="nav-item-group-sm"><a href="https://www.omniva.lv/pakomatu-adreses/" class="om-btn om-link om-full-width link-md link-no-underline om-p-5"><div class="om-btn btn-content om-justify-content-between"><div class="om-d-flex om-align-items-center"><img class="img-icon om-me-3 lazyload" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/07/Shape.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /><span>Pakomātu atrašanās vietas</span></div> <div class="om-icon-mask ico-right-arrow om-ms-3"></div></div></a></li>
+</div></div>                
+            </div>
+            <div class="om-d-flex">
+                                    <img data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/10/Yellow-smile.jpg" alt="" class="om-mx-auto lazyload" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" style="--smush-placeholder-width: 293px; --smush-placeholder-aspect-ratio: 293/64;">
+                                </div>
+        </div>
+    </div>
+
+
+</header>
+<div class="app-container om-container-2xl om-px-0 om-px-xl-5">
+    <div class="page-content om-mx-5 om-mx-xl-0">
+        <div class="om-d-flex om-justify-content-between om-flex-column-reverse om-flex-xl-row om-mx-5 om-mx-xl-6 om-mt-xl-6 om-mt-6">
+    <div class="om-row om-d-xl-flex om-justify-content-center om-flex-column om-col-xl-6 om-404-text-wrap om-pe-0 om-pe-xl-6 om-pt-5 om-pt-xl-0">
+        <h1 class="om-mb-4 om-body-lg">Lapa nav atrasta</h1>
+        <div class="main-container om-headline-4xl">
+            <p>Mēs tuvinām pasauli ikvienam. Katru dienu</p>
+        </div>
+        <div class="om-d-flex">
+            <button class="om-btn btn-lg btn-xl-lg om-d-none om-d-xl-flex btn-primary" onclick="location.href='/'"><span class="">Atgriezties mājas lapā</span></button>
+            <button class="om-btn btn-md btn-xl-lg om-d-xl-none btn-primary" onclick="location.href='/'"><span class="">Atgriezties mājas lapā</span></button>
+        </div>
+    </div>
+    <div class="om-row om-d-xl-flex om-flex-column om-my-xl-auto om-ps-0 om-ps-xl-6">
+        <img data-src="/wp-content/uploads/2024/02/404.png" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" class="lazyload">
+    </div>
+</div>
+<footer class="om-footer om-px-xl-0 om-px-5">
+    <om-details-wrapper type="responsive">
+        <div class="om-row">
+            <div class="om-col-12 om-col-xl-3 om-mb-xl-3 om-pt-8 om-pt-xl-0">
+                <div class="om-row om-flex-column">
+                    <div class="om-row om-mb-3">
+                        <div class="om-col-6 om-col-xl-12 om-mb-3">
+                            <div class="om-image img-logo-text om-mb-2"></div>
+                            <div class="om-logo-slogan-text om-mt-1">PIEGĀDĀJAM<br/>PRIEKU</div>
+                        </div>
+                        <div class="om-col-6 om-col-xl-12 om-mt-xl-3 om-d-flex om-justify-content-end om-d-xl-block social-media-menu">
+                            <div class="menu-social-media-menu-lv-private-container"><div class="om-d-flex om-gap-5"><a target="_blank" rel="noopener" href="https://www.tiktok.com/@omnivabaltics?lang=en"class="om-btn om-link om-p-3 link-no-underline"><div class="om-icon om-icon-size-md om-d-flex om-justify-content-center" title="Tiktok"><img class="img-icon om-me-3 lazyload" alt="Tiktok" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/07/Icon-3.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /></div></a></li>
+<a target="_blank" rel="noopener" href="https://www.instagram.com/omnivalv/"class="om-btn om-link om-p-3 link-no-underline"><div class="om-icon om-icon-size-md om-d-flex om-justify-content-center" title="Instagram"><img class="img-icon om-me-3 lazyload" alt="Instagram" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/07/Icon.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /></div></a></li>
+<a target="_blank" rel="noopener" href="https://www.facebook.com/omniva.lv"class="om-btn om-link om-p-3 link-no-underline"><div class="om-icon om-icon-size-md om-d-flex om-justify-content-center" title="Facebook"><img class="img-icon om-me-3 lazyload" alt="Facebook" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/07/Icon-1.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /></div></a></li>
+<a target="_blank" rel="noopener" href="https://www.youtube.com/@omnivalatvija4003"class="om-btn om-link om-p-3 link-no-underline"><div class="om-icon om-icon-size-md om-d-flex om-justify-content-center" title="Youtube"><img class="img-icon om-me-3 lazyload" alt="Youtube" data-src="https://www.omniva.lv/wp-content/uploads/sites/6/2024/07/Icon-2.svg" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==" /></div></a></li>
+</div></div>                        </div>
+                    </div>
+                    <div class="menu-contact-info-menu-lv-private-container"> <div class="om-mt-xl-3"><div><span class="om-body-base-bold">+371 270 42424</span></div></li>
+<div><span class="om-body-base"><a class="om-link link-reversed om-gray-color" href="/cdn-cgi/l/email-protection#8fe6e1e9e0cfe0e2e1e6f9eea1e3f9"><span class="__cf_email__" data-cfemail="a1c8cfc7cee1cecccfc8d7c08fcdd7">[email&#160;protected]</span></a></span></div></div><div class="om-mp-3 om-mt-3"></li>
+<div>
+                        <span class="om-body-base-bold">P - Pk </span>
+                        <span class="om-body-base">08:00 &#8211; 18:00</span>
+                    </div></li>
+<div>
+                        <span class="om-body-base-bold">S.</span>
+                        <span class="om-body-base">09:00 &#8211; 15:00</span>
+                    </div></li>
+<div>
+                        <span class="om-body-base-bold">Sv.</span>
+                        <span class="om-body-base">slēgts</span>
+                    </div></div><div class="om-mp-3 om-mt-3"></li>
+<div><span class="om-body-base"><a class="om-link link-reversed om-gray-color" href="https://www.omniva.lv/kontakti-privatajiem-klientiem/">Kontakti privātajiem klientiem</a></span></div></li>
+</div></div>                </div>
+            </div>
+            <div class="om-col-12 om-col-xl-9 om-py-5 om-py-xl-0">
+                <div class="om-row om-g-xl-4">
+                    <div class="om-col-12 om-col-xl-3"><details data-parent="footer-id-2" class="om-accordion accordion-lg">
+                        <summary>
+                            <div class="accordion-title">
+                                <span class="om-body-md-bold">Nosūti</span>
+                            </div>
+                            <div class="arrow" tabindex="0"></div>
+                        </summary>
+                        <div class="accordion-content"><a class="om-link" href="https://www.omniva.lv/nosutit-sutijumu/" description="Uzzini par sūtījumu nosūtīšanas iespējām Igaunijā, Latvijā un Lietuvā."><div class="link"><div  class="om-d-flex om-align-items-center">Nosūtīt sūtījumu</div></div></a>
+<a class="om-link" href="https://www.omniva.lv/starptautiskie-sutijumi/" description="Uzzini par sūtījuma nosūtīšanas iespējām uz 237 galamērķiem visā pasaulē."><div class="link"><div  class="om-d-flex om-align-items-center">Starptautiskie sūtījumi</div></div></a><div class="bottom-border om-d-none om-d-xl-flex om-my-2"></div>
+<div class="om-gray-color om-body-sm om-mb-2 om-mt-4 font-keep">Papildu iespējas</div><a class="om-link" href="https://www.omniva.lv/deklaracija/" description="Uzzini, kā muitā deklarēt sūtījumu, ja sūti to uz valsti ārpus ES vai autonomu reģionu ES."><div class="link"><div  class="om-d-flex om-align-items-center">Sūtījumu deklarēšana</div></div></a>
+<a class="om-link" href="https://www.omniva.lv/aizliegtie-prieksmeti/" description="Uzzini, uz kuriem priekšmetiem attiecas ierobežojumi vai kurus ir aizliegts sūtīt ar Omniva."><div class="link"><div  class="om-d-flex om-align-items-center">Aizliegtie priekšmeti</div></div></a>
+
+</div></details></div>
+<div class="om-col-12 om-col-xl-3"><details data-parent="footer-id-2" class="om-accordion accordion-lg">
+                        <summary>
+                            <div class="accordion-title">
+                                <span class="om-body-md-bold">Izseko un saņem</span>
+                            </div>
+                            <div class="arrow" tabindex="0"></div>
+                        </summary>
+                        <div class="accordion-content"><a class="om-link" href="https://www.omniva.lv/sutijumu-izsekosana/" description="Ar Omniva sūtījumu saņemšana ir vienkārša. Uzzini vairāk par sūtījuma saņemšanas iespējām."><div class="link"><div  class="om-d-flex om-align-items-center">Sūtījumu izsekošana</div></div></a><div class="bottom-border om-d-none om-d-xl-flex om-my-2"></div>
+<div class="om-gray-color om-body-sm om-mb-2 om-mt-4 font-keep">Papildu iespējas</div><a class="om-link" target="_blank" rel="noopener" href="https://www.omniva.lv/palidziba/parvaldit-savus-sutijumus-visparigi/sutijuma-paradresacija" description="Uzzini, kā mainīt sūtījuma piegādes veidu, pāradresēt to."><div class="link"><div  class="om-d-flex om-align-items-center">Pāradresācija<span class="om-ms-3 om-icon ico-new-window om-icon-size-xs"></span></div></div></a>
+<a class="om-link" target="_blank" rel="noopener" href="https://atgriesana.omniva.lv/" description="Uzzini vairāk par sūtījuma atgriešanas iespējām."><div class="link"><div  class="om-d-flex om-align-items-center">Atgriešanas pakalpojums<span class="om-ms-3 om-icon ico-new-window om-icon-size-xs"></span></div></div></a>
+
+</div></details></div>
+                    <div class="om-col-12 om-col-xl-3"><details data-parent="footer-id-2" class="om-accordion accordion-lg">
+                        <summary>
+                            <div class="accordion-title">
+                                <span class="om-body-md-bold">Vispārēja informācija</span>
+                            </div>
+                            <div class="arrow" tabindex="0"></div>
+                        </summary>
+                        <div class="accordion-content"><a class="om-link" target="_blank" rel="noopener" href="https://www.omnivagroup.com/lv/par/par-mums/"><div class="link"><div  class="om-d-flex om-align-items-center">Par Omniva<span class="om-ms-3 om-icon ico-new-window om-icon-size-xs"></span></div></div></a>
+<a class="om-link" target="_blank" rel="noopener" href="https://www.omnivagroup.com/lv/karjera/"><div class="link"><div><span class="om-d-flex om-align-items-center">Karjera<span class="om-ms-3 om-icon ico-new-window om-icon-size-xs"></span><div class="om-ms-2 om-pill pill-sm pill-orange">Vakances</div></span></div></div></a>
+<a class="om-link" target="_blank" rel="noopener" href="https://www.omnivagroup.com/lv/par/ilgtspeja/"><div class="link"><div  class="om-d-flex om-align-items-center">Ilgtspēja<span class="om-ms-3 om-icon ico-new-window om-icon-size-xs"></span></div></div></a>
+<a class="om-link" target="_blank" rel="noopener" href="https://www.omnivagroup.com/lv/iepirkums/"><div class="link"><div  class="om-d-flex om-align-items-center">Iepirkumi<span class="om-ms-3 om-icon ico-new-window om-icon-size-xs"></span></div></div></a>
+<a class="om-link" href="https://www.omniva.lv/zinas/"><div class="link"><div  class="om-d-flex om-align-items-center">Ziņas</div></div></a>
+<a class="om-link" href="https://www.omniva.lv/privatajiem-cenas/"><div class="link"><div  class="om-d-flex om-align-items-center">Cenas privātajiem klientiem</div></div></a>
+<a class="om-link" href="https://www.omniva.lv/kontakti-privatajiem-klientiem/"><div class="link"><div  class="om-d-flex om-align-items-center">Kontakti privātajiem klientiem</div></div></a><div class="bottom-border om-d-none om-d-xl-flex om-my-2"></div>
+<a class="om-link" target="_blank" rel="noopener" href="https://www.omnivagroup.com/lv/zinas/"><div class="link"><div  class="om-d-flex om-align-items-center">Masu medijiem<span class="om-ms-3 om-icon ico-new-window om-icon-size-xs"></span></div></div></a>
+</div></details></div>
+                </div>
+                </div>
+
+        </div>
+        <div class="om-row om-mt-xl-5 om-mt-7 om-mb-xl-4">
+            <div class="om-col-12 om-col-xl-3 om-mb-xl-3"></div>
+            <div class="om-col-12 om-col-xl-9">
+                <div class="om-headline-lg om-pb-3">Nepieciešama palīdzība?</div>
+                <div class="menu-need-help-menu-lv-private-container"> <div class="om-d-flex om-flex-wrap om-gap-2"><button class="om-btn btn-sm btn-info" onclick="location.href='https://www.omniva.lv/nosutit-sutijumu/'">Nosūtīšana</button></li>
+<button class="om-btn btn-sm btn-info" onclick="location.href='https://www.omniva.lv/sutijumu-izsekosana/'">Izsekošana</button></li>
+<button class="om-btn btn-sm btn-info" onclick="location.href='https://www.omniva.lv/pakomatu-adreses/'">Omniva pakomāti</button></li>
+<button class="om-btn btn-sm btn-info" onclick="location.href='https://www.omniva.lv/deklaracija/'">Muita</button></li>
+<button class="om-btn btn-sm btn-info" onclick="location.href='https://www.omniva.lv/palidziba/'">Klientu atbalsts</button></li>
+<button class="om-btn btn-sm btn-info" onclick="location.href='https://www.omniva.lv/kontakti-privatajiem-klientiem/'">Kontakti privātajiem klientiem</button></li>
+</div></div>            </div>
+        </div>
+
+        <div class="bottom om-body-base">
+            <div class="date"><div class="date">© 2025, Omniva</div></div>
+            <div class="menu-bottom-menu_lv-private-container"><div class="references"><a target="_blank" rel="noopener" href="https://www.omnivagroup.com/lv/politikas/datu-apstrades-principi/" class="om-link link-reversed om-gray-color">Datu apstrādes principi</a></li>
+<a target="_blank" rel="noopener" href="https://www.omnivagroup.com/lv/politikas/sikfailu-politika/" class="om-link link-reversed om-gray-color">Sīkfailu politika</a></li>
+<a href="https://www.omniva.lv/noteikumi-un-nosacijumi/" class="om-link link-reversed om-gray-color">Noteikumi un nosacījumi</a></li>
+<a href="https://www.omniva.lv/palidziba/omnivalv" class="om-link link-reversed om-gray-color">Piekļūstamība</a></li>
+<a href="javascript:Cookiebot && Cookiebot.show();" class="om-link link-reversed om-gray-color omnivacookies">Sīkdatnes</a></li>
+</div></div>        </div>
+    </om-details-wrapper>
+</footer>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">window.icc3_UserToken="lv"; </script>
+<script type="speculationrules">
+{"prefetch":[{"source":"document","where":{"and":[{"href_matches":"\/*"},{"not":{"href_matches":["\/wp-*.php","\/wp-admin\/*","\/wp-content\/uploads\/sites\/6\/*","\/wp-content\/*","\/wp-content\/plugins\/*","\/wp-content\/themes\/omniva\/*","\/*\\?(.+)"]}},{"not":{"selector_matches":"a[rel~=\"nofollow\"]"}},{"not":{"selector_matches":".no-prefetch, .no-prefetch a"}}]},"eagerness":"conservative"}]}
+</script>
+<script data-cookieconsent="ignore">
+window.addEventListener('CookiebotOnDialogDisplay', function (e) {	
+const cybotCookiebotDialogBodyLevelButtonAccept = document.getElementById('CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll');	
+if (cybotCookiebotDialogBodyLevelButtonAccept != undefined) {
+cybotCookiebotDialogBodyLevelButtonAccept.addEventListener('click', function (e) {
+if (Cookiebot.consent.marketing) {
+	document.location.reload();
+}
+});
+}
+});
+</script>
+<script src="https://www.omniva.lv/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6" id="wp-hooks-js"></script>
+<script src="https://www.omniva.lv/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://www.omniva.lv/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1" id="swv-js"></script>
+<script id="contact-form-7-js-before">
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.omniva.lv\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+</script>
+<script src="https://www.omniva.lv/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1" id="contact-form-7-js"></script>
+<script id="pll_cookie_script-js-after">
+(function() {
+				var expirationDate = new Date();
+				expirationDate.setTime( expirationDate.getTime() + 31536000 * 1000 );
+				document.cookie = "pll_language=lv; expires=" + expirationDate.toUTCString() + "; path=/; secure; SameSite=Lax";
+			}());
+</script>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" id="cloudflare-turnstile-js" data-wp-strategy="async"></script>
+<script id="cloudflare-turnstile-js-after">
+document.addEventListener( 'wpcf7submit', e => turnstile.reset() );
+</script>
+<script src="https://www.omniva.lv/wp-content/themes/omniva/assets/dist/assets/js/omniva-theme.min.js?ver=0.33.15" id="omniva-script-js"></script>
+<script id="wpcf7cf-scripts-js-extra">
+var wpcf7cf_global_settings = {"ajaxurl":"https:\/\/www.omniva.lv\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="https://www.omniva.lv/wp-content/plugins/cf7-conditional-fields/js/scripts.js?ver=2.6" id="wpcf7cf-scripts-js"></script>
+<script src="https://www.omniva.lv/wp-content/plugins/wp-smushit/app/assets/js/smush-lazy-load.min.js?ver=3.20.0" id="smush-lazy-load-js"></script>
+
+
+    <script type='text/javascript'>
+        window.OM_ERROR_BANNER_TEXTS = {"title":"Lapu nav iesp\u0113jams iel\u0101d\u0113t. L\u016bdzu, m\u0113\u0123ini v\u0113lreiz.","refresh":"Atk\u0101rtoti iel\u0101d\u0113t lapu"};
+    </script>
+    <script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9fa46cf84884e4e0',t:'MTc3ODUzNjUwMw=='};var a=document.createElement('script');a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</html>
+
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/?utm_source=w3tc&utm_medium=footer_comment&utm_campaign=free_plugin
+
+Object Caching 0/0 objects using Redis
+Page Caching using Redis{w3tc_pagecache_reject_reason}
+
+Served from: www.omniva.lv @ 2026-05-11 21:55:03 by W3 Total Cache
+-->

@@ -1,11 +1,11 @@
 ﻿<!DOCTYPE html>
-<html lang="lv">
+<html lang="lv" style="background:#120f0c">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>AlekseyMedia | Order</title>
   <style>
-    html, body { color: #f4eadb; }
+    html, body { color: #f4eadb; background: #120f0c; }
     body { margin: 0; }
     .topbar { position: fixed; top: 0; left: 0; width: 100%; z-index: 1000; }
     .nav { min-height: 88px; }
@@ -178,6 +178,14 @@
                     <img class="delivery-option-anim delivery-option-anim-omniva" src="https://raw.githubusercontent.com/alekseymediatype/AlekseyMedia/main/IMAGES/PAYMENTS/Omivas%20busss.png" alt="" />
                   </label>
                   <label class="delivery-option">
+                    <input type="radio" name="delivery_method" value="SMARTPOSTI" data-price="2.19" required />
+                    <span class="delivery-option-content">
+                      <span class="delivery-option-brand">SMARTPOSTI</span>
+                      <small class="delivery-option-price">2,19 €</small>
+                    </span>
+                    <img class="delivery-option-anim delivery-option-anim-smartposti" src="https://raw.githubusercontent.com/alekseymediatype/AlekseyMedia/main/IMAGES/PAYMENTS/Logo_SmartPosti.png" alt="" />
+                  </label>
+                  <label class="delivery-option">
                     <input type="radio" name="delivery_method" value="DPD" data-price="2.78" required disabled />
                     <span class="delivery-option-content">
                       <span class="delivery-option-brand">DPD</span>
@@ -185,51 +193,29 @@
                     </span>
                     <img class="delivery-option-anim delivery-option-anim-dpd" src="https://raw.githubusercontent.com/alekseymediatype/AlekseyMedia/main/IMAGES/PAYMENTS/DPD_logo_.png" alt="" />
                   </label>
-                  <label class="delivery-option">
-                    <input type="radio" name="delivery_method" value="SMARTPOSTI" data-price="2.19" required disabled title="Ar Smartposti dažkart var rasties problemas, jo skapīšos var nebūt brīvas vietas - tā ir diezgan izplatīta situācija." />
-                    <span class="delivery-option-content">
-                      <span class="delivery-option-brand">SMARTPOSTI</span>
-                      <small class="delivery-option-price">2,19 €</small>
-                    </span>
-                    <img class="delivery-option-anim delivery-option-anim-smartposti" src="https://raw.githubusercontent.com/alekseymediatype/AlekseyMedia/main/IMAGES/PAYMENTS/Logo_SmartPosti.png" alt="" />
-                  </label>
                 </div>
             <p class="order-delivery-help" data-i18n="order_delivery_help">????? ?????? ??????? ??? ????? ??????, ?????? ??? ? ????? ?????? ?? ????? ???? ?????????. ???? ???? ??????? ??? ??????.</p>
           </div>
 
-          <div class="row">
-            <div class="field">
-              <label data-i18n="order_city">?????</label>
-              <input type="text" name="city" data-i18n-placeholder="order_city_placeholder" placeholder="Saldus" required disabled />
-            </div>
-            <div class="field">
-              <label data-i18n="order_postal_code">??????</label>
-              <input type="text" name="postal_code" data-i18n-placeholder="order_postal_placeholder" placeholder="LV-3801" required disabled />
-            </div>
-          </div>
-
-          <div class="row order-delivery-address-row">
-            <div class="field">
-              <label data-i18n="order_locker_point">??????? / ????? ??????</label>
-              <input type="text" name="parcel_locker" data-i18n-placeholder="order_locker_placeholder" placeholder="OMNIVA Saldus Rimi" required disabled />
-            </div>
-
-            <div class="field">
-              <label data-i18n="order_address">?????</label>
-              <input type="text" name="street_address" data-i18n-placeholder="order_address_placeholder" placeholder="Rigas iela" required disabled />
+          <div class="field parcel-locker-field">
+            <label data-i18n="order_locker_point">??????? / ????? ??????</label>
+            <div class="locker-autocomplete-wrap">
+              <div class="locker-input-row" id="lockerInputRowWizard">
+                <span class="locker-input-badge" id="lockerInputBadgeWizard" hidden></span>
+                <input type="text" name="parcel_locker" id="parcelLockerInputWizard" data-i18n-placeholder="order_locker_placeholder_disabled" placeholder="Izvēlieties piegādes veidu" required disabled autocomplete="off" />
+              </div>
+              <div class="locker-dropdown" id="lockerDropdownWizard" hidden></div>
             </div>
           </div>
 
-          <div class="row">
-            <div class="field">
-              <label data-i18n="order_house_number">????? ????</label>
-              <input type="text" name="house_number" data-i18n-placeholder="order_house_placeholder" placeholder="12" required disabled />
-            </div>
-            <div class="field">
-              <label data-i18n="order_apartment">????? ????????</label>
-              <input type="text" name="apartment_number" data-i18n-placeholder="order_apartment_placeholder" placeholder="8" disabled />
-            </div>
-          </div>
+          <p class="order-delivery-help omniva-baltic-note" data-i18n="order_omniva_baltic_note">Omniva pakalpojums pieejams visā Baltijā: LT, LV, EST</p>
+          <p class="order-delivery-help smartposti-latvia-note" data-i18n="order_smartposti_latvia_note">Smartposti pakalpojums pieejams tikai Latvijā</p>
+
+          <input type="hidden" name="city" id="lockerHiddenCityWizard" />
+          <input type="hidden" name="postal_code" id="lockerHiddenPostalWizard" />
+          <input type="hidden" name="street_address" id="lockerHiddenStreetWizard" />
+          <input type="hidden" name="house_number" id="lockerHiddenHouseWizard" />
+          <input type="hidden" name="apartment_number" id="lockerHiddenApartmentWizard" />
 
           <div class="order-step-actions order-step-actions-split">
             <button class="btn primary order-submit-btn order-pay-btn order-slide-btn" type="button" data-simple-click="true" disabled>

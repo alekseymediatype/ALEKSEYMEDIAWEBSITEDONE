@@ -1,0 +1,2760 @@
+[
+  {
+    "carrier": "OMNIVA",
+    "name": "Ulbrokas ELVI pakomāts",
+    "city": "Stopiņu",
+    "postal": "LV-9110",
+    "address": "Peldu iela 2, Ulbroka"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Tīnūžu Senās Bodes pakomāts",
+    "city": "Tīnūžu",
+    "postal": "LV-9240",
+    "address": "Krustceles, Tīnūži"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas Satiksmes ielas RIMI pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9981",
+    "address": "Satiksmes iela 35"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Katoļu ielas Neste pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9178",
+    "address": "Katoļu iela 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Madonas Saules ielas 4 pakomāts",
+    "city": "Madona",
+    "postal": "LV-9195",
+    "address": "Saules iela 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Krāslavas Maxima X pakomāts",
+    "city": "Krāslava",
+    "postal": "LV-9984",
+    "address": "Rīgas iela 28"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Riga Plaza pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9114",
+    "address": "Mūkusalas iela 71"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Bolderājas Lats pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9252",
+    "address": "Lemešu iela 20"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Purvciema ielas Beta pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9573",
+    "address": "Purvciema iela 35"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Sporta Pils dārzu pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9278",
+    "address": "Lielgabalu iela 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Zalves ielas TOP pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9546",
+    "address": "Zalves iela 46A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ādažu T/C Apelsīns pakomāts",
+    "city": "Ādažu",
+    "postal": "LV-9105",
+    "address": "Rīgas gatve 5, Ādaži"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas Rūpniecības ielas ELVI pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9199",
+    "address": "Rūpniecības iela 77A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Siguldas Kr. Barona ielas Beta pakomāts",
+    "city": "Sigulda",
+    "postal": "LV-9235",
+    "address": "Krišjāņa Barona iela 6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Talsu Rīgas ielas Maxima XX pakomāts",
+    "city": "Talsi",
+    "postal": "LV-9135",
+    "address": "Rīgas iela 8"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ogres T/C Ogres prestižs pakomāts",
+    "city": "Ogre",
+    "postal": "LV-9925",
+    "address": "Mednieku iela 21/23"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C IXO pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9181",
+    "address": "Anniņmuižas iela 17"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas Rožu laukuma pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9926",
+    "address": "Lielā iela 13"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas P. Brieža ielas 14 pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9237",
+    "address": "Pulkveža Brieža iela 14"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valmieras T/C Valleta pakomāts",
+    "city": "Valmiera",
+    "postal": "LV-9928",
+    "address": "Rīgas iela 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Tukuma Pasta ielas RIMI pakomāts",
+    "city": "Tukums",
+    "postal": "LV-9927",
+    "address": "Pasta iela 14"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas P. Brieža ielas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9903",
+    "address": "Pulkveža Brieža iela 33"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas T/C Vivo centrs pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9929",
+    "address": "Katoļu iela 18"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas G. Astras ielas VIADA pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9909",
+    "address": "Gunāra Astras iela 7"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kuldīgas Gravas ielas ELVI pakomāts",
+    "city": "Kuldīga",
+    "postal": "LV-9205",
+    "address": "Gravas iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Talsu Dundagas ielas RIMI pakomāts",
+    "city": "Talsi",
+    "postal": "LV-9931",
+    "address": "Dundagas iela 18"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Biķernieku ielas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9933",
+    "address": "Biķernieku iela 160 k-6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Siguldas T/C Šokolāde pakomāts",
+    "city": "Sigulda",
+    "postal": "LV-9932",
+    "address": "Strēlnieku iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ludzas Stacijas ielas 30 pakomāts",
+    "city": "Ludza",
+    "postal": "LV-9985",
+    "address": "Stacijas iela 30"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kuldīgas Sūru ielas RIMI pakomāts",
+    "city": "Kuldīga",
+    "postal": "LV-9930",
+    "address": "Sūru iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Saldus Kalna ielas AIBE KAIVA pakomāts",
+    "city": "Saldus",
+    "postal": "LV-9513",
+    "address": "Kalna iela 20"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rēzeknes Stacijas ielas 20A pakomāts",
+    "city": "Rēzekne",
+    "postal": "LV-9556",
+    "address": "Stacijas iela 20A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Nīcas Lats pakomāts",
+    "city": "Nīcas",
+    "postal": "LV-9236",
+    "address": "Skolas iela 6, Nīca"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Biķernieku ielas 98 Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9530",
+    "address": "Biķernieku iela 98"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Saldus Striķu ielas Maxima X pakomāts",
+    "city": "Saldus",
+    "postal": "LV-9208",
+    "address": "Striķu iela 10C"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Olimpia pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9934",
+    "address": "Āzenes iela 5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ogres Skolas ielas 4 pakomāts",
+    "city": "Ogre",
+    "postal": "LV-9262",
+    "address": "Skolas iela 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas Sila ielas TOP pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9554",
+    "address": "Sila iela 3"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ozolnieku TOP pakomāts",
+    "city": "Ozolnieku",
+    "postal": "LV-9994",
+    "address": "Skolas iela 1B, Ozolnieki"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Gramzdas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9908",
+    "address": "Imantas 15. līnija 7"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Latgales ielas 256B RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9551",
+    "address": "Latgales iela 256B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Dubultu TOP pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9107",
+    "address": "Strēlnieku prospekts 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Mellužu Dārzu ielas 55A pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9230",
+    "address": "Dārzu iela 55A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas Meiju ceļa Aibe pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9563",
+    "address": "Meiju ceļš 38"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Siguldas T/C Gāles Nams pakomāts",
+    "city": "Sigulda",
+    "postal": "LV-9256",
+    "address": "Gāles iela 23A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas Lielās ielas ELVI pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9294",
+    "address": "Lielā iela 49"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Krustkalnu T/C A7 pakomāts",
+    "city": "Ķekavas",
+    "postal": "LV-9937",
+    "address": "Džutas, Krustkalni"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Damme pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9935",
+    "address": "Kurzemes prospekts 1A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Saldus Brīvības ielas Maxima XX pakomāts",
+    "city": "Saldus",
+    "postal": "LV-9936",
+    "address": "Brīvības iela 30"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jaunolaines TOP pakomāts",
+    "city": "Olaines",
+    "postal": "LV-9106",
+    "address": "Baznīcas iela 10A, Jaunolaine"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas Ziemeļu ielas RIMI pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9938",
+    "address": "Ziemeļu iela 13"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Vangažu Aibe pakomāts",
+    "city": "Vangaži",
+    "postal": "LV-9148",
+    "address": "Gaujas iela 19A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Vienības gatves 144 Neste pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9912",
+    "address": "Vienības gatve 144"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas O. Kalpaka ielas 74 pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9242",
+    "address": "Oskara Kalpaka iela 74"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Kr. Valdemāra ielas 112 RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9939",
+    "address": "Krišjāņa Valdemāra iela 112"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kandavas Citro pakomāts",
+    "city": "Kandava",
+    "postal": "LV-9979",
+    "address": "Lielā iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Anniņmuižas bulvāra RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9902",
+    "address": "Anniņmuižas bulvāris 40A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Artilērijas ielas 40 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9562",
+    "address": "Artilērijas iela 40"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Valsts Ieņēmumu Dienesta pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9144",
+    "address": "Talejas iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Parādes ielas Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9151",
+    "address": "Parādes iela 5B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Teika Plaza pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9159",
+    "address": "Brīvības gatve 201"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Dobeles Brīvības ielas RIMI pakomāts",
+    "city": "Dobele",
+    "postal": "LV-9941",
+    "address": "Brīvības iela 30"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Bauskas Mini RIMI pakomāts",
+    "city": "Bauska",
+    "postal": "LV-9940",
+    "address": "Zaļā iela 3"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Salaspils Skolas ielas RIMI pakomāts",
+    "city": "Salaspils",
+    "postal": "LV-9947",
+    "address": "Skolas iela 4E"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Limbažu RIMI pakomāts",
+    "city": "Limbaži",
+    "postal": "LV-9942",
+    "address": "Cēsu iela 23"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Lielupes RIMI pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9943",
+    "address": "Viestura iela 22"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Madonas Rūpniecības ielas MINI RIMI pakomāts",
+    "city": "Madona",
+    "postal": "LV-9944",
+    "address": "Rūpniecības iela 47"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Garkalnes Lats pakomāts",
+    "city": "Garkalnes",
+    "postal": "LV-9234",
+    "address": "Vidzemes šoseja 13, Garkalne"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Varakļānu TOP pakomāts",
+    "city": "Varakļāni",
+    "postal": "LV-9288",
+    "address": "Pils iela 7D"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ogres Rīgas ielas RIMI pakomāts",
+    "city": "Ogre",
+    "postal": "LV-9133",
+    "address": "Rīgas iela 33"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valdlauču TOP pakomāts",
+    "city": "Ķekavas",
+    "postal": "LV-9134",
+    "address": "Atpūtas iela 5, Valdlauči"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Gulbenes Nākotnes ielas TOP pakomāts",
+    "city": "Gulbene",
+    "postal": "LV-9948",
+    "address": "Nākotnes iela 6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas Uzvaras ielas TOP pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9257",
+    "address": "Uzvaras iela 6A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Asaru Senās bodes pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9218",
+    "address": "Asaru prospekts 14"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Bulduru tirgus pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9584",
+    "address": "Meža prospekts 36"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Aizkraukles T/C Iga pakomāts",
+    "city": "Aizkraukle",
+    "postal": "LV-9950",
+    "address": "Gaismas iela 35"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Olaines T/C Prasme pakomāts",
+    "city": "Olaine",
+    "postal": "LV-9949",
+    "address": "Zemgales iela 24"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Piņķu Elvi pakomāts",
+    "city": "Babītes",
+    "postal": "LV-9117",
+    "address": "Rīgas iela 8, Piņķi"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Viļānu Brīvības ielas pakomāts",
+    "city": "Viļāni",
+    "postal": "LV-9118",
+    "address": "Brīvības iela 13"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Auces TOP pakomāts",
+    "city": "Auce",
+    "postal": "LV-9158",
+    "address": "Baznīcas iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Elejas Astarte pakomāts",
+    "city": "Elejas",
+    "postal": "LV-9156",
+    "address": "Lietuvas iela 28, Eleja"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Strenču TOP pakomāts",
+    "city": "Strenči",
+    "postal": "LV-9139",
+    "address": "Valkas iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Raganas ELVI pakomāts",
+    "city": "Krimuldas",
+    "postal": "LV-9152",
+    "address": "Tirgus iela 10, Ragana"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Dundagas Citro pakomāts",
+    "city": "Dundagas",
+    "postal": "LV-9163",
+    "address": "Talsu iela 1, Dundaga"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Vecumnieku Lats pakomāts",
+    "city": "Vecumnieku",
+    "postal": "LV-9154",
+    "address": "Rīgas iela 24B, Vecumnieki"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Viļakas Balvu ielas pakomāts",
+    "city": "Viļaka",
+    "postal": "LV-9157",
+    "address": "Balvu iela 5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ķeguma ELVI pakomāts",
+    "city": "Ķegums",
+    "postal": "LV-9165",
+    "address": "Ķeguma prospekts 5C"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ilūkstes Pilskalnes ielas TOP pakomāts",
+    "city": "Ilūkste",
+    "postal": "LV-9104",
+    "address": "Pilskalnes iela 2A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ērgļu Zaļās ielas TOP pakomāts",
+    "city": "Ērgļu",
+    "postal": "LV-9153",
+    "address": "Zaļā iela 1, Ērgļi"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas A. Deglava 110 Rimi pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9169",
+    "address": "Augusta Deglava iela 110"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valmieras Nākotnes ielas Maxima X pakomāts",
+    "city": "Valmiera",
+    "postal": "LV-9119",
+    "address": "Nākotnes iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Tukuma Kurzemes ielas 36 Maxima XX pakomāts",
+    "city": "Tukums",
+    "postal": "LV-9120",
+    "address": "Kurzemes iela 36"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Salacgrīvas Maxima X pakomāts",
+    "city": "Salacgrīva",
+    "postal": "LV-9121",
+    "address": "Vidzemes iela 3A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Lidoņu ielas Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9122",
+    "address": "Lidoņu iela 27 k-1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Kurzemes prospekta Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9123",
+    "address": "Kurzemes prospekts 132"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Lielvārdes TOP pakomāts",
+    "city": "Lielvārde",
+    "postal": "LV-9124",
+    "address": "Lāčplēša iela 16"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ikšķiles Mini RIMI pakomāts",
+    "city": "Ikšķile",
+    "postal": "LV-9125",
+    "address": "Melioratoru iela 1A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Grobiņas TOP pakomāts",
+    "city": "Grobiņa",
+    "postal": "LV-9126",
+    "address": "Lielā iela 74"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Baldones Mego pakomāts",
+    "city": "Baldone",
+    "postal": "LV-9127",
+    "address": "Rīgas iela 79"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Tilta ielas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9128",
+    "address": "Tilta iela 32"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Prūšu ielas 2 Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9129",
+    "address": "Prūšu iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Priekules TOP pakomāts",
+    "city": "Priekule",
+    "postal": "LV-9130",
+    "address": "Galvenā iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ezeres ELVI pakomāts",
+    "city": "Ezeres",
+    "postal": "LV-9564",
+    "address": "Centra laukums 2, Ezere"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Mārupes Lielās ielas ELVI pakomāts",
+    "city": "Mārupe",
+    "postal": "LV-9527",
+    "address": "Lielā iela 26"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Alūksnes Maxima X pakomāts",
+    "city": "Alūksne",
+    "postal": "LV-9951",
+    "address": "Pils iela 9B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Talsu Dundagas ielas Citro pakomāts",
+    "city": "Talsi",
+    "postal": "LV-9238",
+    "address": "Dundagas iela 21"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ādažu Gaujas ielas Mini RIMI pakomāts",
+    "city": "Ādažu",
+    "postal": "LV-9952",
+    "address": "Gaujas iela 6, Ādaži"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ogres T/C Dauga pakomāts",
+    "city": "Ogre",
+    "postal": "LV-9953",
+    "address": "Rīgas iela 23"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Brīvības ielas 35 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9115",
+    "address": "Brīvības iela 35"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Autoostas pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9116",
+    "address": "Prāgas iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rūjienas TOP pakomāts",
+    "city": "Rūjiena",
+    "postal": "LV-9991",
+    "address": "Brīvības iela 8"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Skrundas ELVI pakomāts",
+    "city": "Skrunda",
+    "postal": "LV-9992",
+    "address": "Ventas iela 13"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Brocēnu Citro pakomāts",
+    "city": "Brocēni",
+    "postal": "LV-9997",
+    "address": "Lielcieceres iela 2A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valkas T/C Walk pakomāts",
+    "city": "Valka",
+    "postal": "LV-9956",
+    "address": "Ausekļa iela 54"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Nīcgales ielas 2 RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9954",
+    "address": "Nīcgales iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Smiltenes T/C Centrs pakomāts",
+    "city": "Smiltene",
+    "postal": "LV-9955",
+    "address": "Baznīcas laukums 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Sabiles Citro pakomāts",
+    "city": "Sabile",
+    "postal": "LV-9285",
+    "address": "Ventspils iela 9"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Majoru J. Pliekšāna ielas TOP pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9549",
+    "address": "Jāņa Pliekšāna iela 86"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ventspils Tārgales ielas Mini RIMI pakomāts",
+    "city": "Ventspils",
+    "postal": "LV-9957",
+    "address": "Tārgales iela 62"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C DOMINA pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9113",
+    "address": "Ieriķu iela 3"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Brīvības ielas 78a pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9281",
+    "address": "Brīvības iela 78A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas T/C Valdeka pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9131",
+    "address": "Rīgas iela 11A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ventspils Poruka ielas RIMI pakomāts",
+    "city": "Ventspils",
+    "postal": "LV-9102",
+    "address": "J. Poruka iela 5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Akropole pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9101",
+    "address": "Latgales iela 257"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Cēsu Gaujas ielas Maxima X pakomāts",
+    "city": "Cēsis",
+    "postal": "LV-9137",
+    "address": "Gaujas iela 1/3"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Preiļu Brīvības ielas TOP pakomāts",
+    "city": "Preiļi",
+    "postal": "LV-9958",
+    "address": "Brīvības iela 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C AKROPOLE Alfa pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9901",
+    "address": "Brīvības gatve 372"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Vecmīlgrāvja RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9959",
+    "address": "Augusta Dombrovska iela 23"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Deglava ielas Maxima XXX pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9904",
+    "address": "Augusta Deglava iela 67"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Brīvības gatves 404 RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9567",
+    "address": "Brīvības gatve 404"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Dzelzavas ielas 86 Mini RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9962",
+    "address": "Dzelzavas iela 86"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Bolderājas Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9960",
+    "address": "Gobas iela 13"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Ziepniekkalna MEGO pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9961",
+    "address": "Dižozolu iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Lubānas O. Kalpaka ielas Vesko pakomāts",
+    "city": "Lubāna",
+    "postal": "LV-9217",
+    "address": "Oskara Kalpaka iela 5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Aleja pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9180",
+    "address": "Vienības gatve 194A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rēzeknes Galdnieku ielas RIMI pakomāts",
+    "city": "Rēzekne",
+    "postal": "LV-9974",
+    "address": "Galdnieku iela 8"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Pāvilostas TOP pakomāts",
+    "city": "Pāvilosta",
+    "postal": "LV-9207",
+    "address": "Dzintaru iela 69"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ventspils T/C Tobago pakomāts",
+    "city": "Ventspils",
+    "postal": "LV-9963",
+    "address": "Lielais prospekts 3/5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Ulbrokas ielas Maxima X pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9971",
+    "address": "Ulbrokas iela 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Baložu Mego pakomāts",
+    "city": "Baloži",
+    "postal": "LV-9970",
+    "address": "Rīgas iela 14"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas T/C Pilsētas Pasāža pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9198",
+    "address": "Driksas iela 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jēkabpils Rīgas ielas Mini RIMI pakomāts",
+    "city": "Jēkabpils",
+    "postal": "LV-9969",
+    "address": "Rīgas iela 120"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Brīvības g. 253 Neste pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9968",
+    "address": "Brīvības gatve 253"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Mārupes RIMI pakomāts",
+    "city": "Mārupe",
+    "postal": "LV-9967",
+    "address": "Daugavas iela 31"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Dobeles Zaļās ielas Maxima X pakomāts",
+    "city": "Dobele",
+    "postal": "LV-9202",
+    "address": "Zaļā iela 19"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kokneses Lats pakomāts",
+    "city": "Kokneses nov.",
+    "postal": "LV-9141",
+    "address": "Hanzas iela 1, Koknese, Kokneses pag."
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Saulkrastu TOP pakomāts",
+    "city": "Saulkrasti",
+    "postal": "LV-9149",
+    "address": "Rīgas iela 51"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Kleistu ielas Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9150",
+    "address": "Kleistu iela 9"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Jūrmalas gatves RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9161",
+    "address": "Anniņmuižas bulvāris 90"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Mālpils Pirts ielas TOP pakomāts",
+    "city": "Mālpils",
+    "postal": "LV-9145",
+    "address": "Pirts iela 5, Mālpils"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Inčukalna Aibe pakomāts",
+    "city": "Inčukalna",
+    "postal": "LV-9140",
+    "address": "Atmodas iela 6, Inčukalns"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Slokas T/C Liedags pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9142",
+    "address": "Ventspils šoseja 32"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Duntes ielas Neste pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9143",
+    "address": "Dambja iela 10"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ropažu Lats Pakomāts",
+    "city": "Ropažu",
+    "postal": "LV-9138",
+    "address": "Rīgas iela 12, Ropaži"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rojas Maxima X pakomāts",
+    "city": "Rojas",
+    "postal": "LV-9136",
+    "address": "Selgas iela 2, Roja"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Stirnu ielas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9109",
+    "address": "Stirnu iela 26"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils Valkas ielas Mego pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9998",
+    "address": "Valkas iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Botāniskā dārza Maxima pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9975",
+    "address": "Dzirciema iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C ZOOM pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9995",
+    "address": "Latgales iela 400"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Balvu TOP pakomāts",
+    "city": "Balvi",
+    "postal": "LV-9982",
+    "address": "Partizānu iela 8"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Līvānu Rimi pakomāts",
+    "city": "Līvāni",
+    "postal": "LV-9983",
+    "address": "Rīgas iela 89"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Vecpiebalgas TOP pakomāts",
+    "city": "Vecpiebalgas",
+    "postal": "LV-9993",
+    "address": "Alauksta iela 2, Vecpiebalga"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Pļaviņu TOP pakomāts",
+    "city": "Pļaviņas",
+    "postal": "LV-9990",
+    "address": "Daugavas iela 85"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Dagdas TOP pakomāts",
+    "city": "Dagda",
+    "postal": "LV-9989",
+    "address": "Daugavpils iela 6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Iecavas Maxima X pakomāts",
+    "city": "Iecava",
+    "postal": "LV-9987",
+    "address": "Rīgas iela 27"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Siguldas Vidus ielas ELVI pakomāts",
+    "city": "Sigulda",
+    "postal": "LV-9986",
+    "address": "Vidus iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Grostonas ielas Maxima XXX pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9972",
+    "address": "Grostonas iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Aizputes Zvaigžņu ielas AIBE pakomāts",
+    "city": "Aizpute",
+    "postal": "LV-9980",
+    "address": "Zvaigžņu iela 2B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ķekavas T/C Liiba pakomāts",
+    "city": "Ķekavas nov.",
+    "postal": "LV-9978",
+    "address": "Rīgas iela 22A, Ķekava, Ķekavas pag."
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas S. Eizenšteina ielas 29 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9977",
+    "address": "Sergeja Eizenšteina iela 29"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Origo pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9965",
+    "address": "Stacijas laukums 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas T/C Rietumu centrs pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9966",
+    "address": "Jaunā ostmala 3/5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Āgenskalna Maxima X pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9964",
+    "address": "Pilsoņu iela 1 k-1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas Tērvetes ielas TOP pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9553",
+    "address": "Tērvetes iela 97"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Spice pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9914",
+    "address": "Lielirbes iela 29"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jēkabpils Vienības ielas Mego pakomāts",
+    "city": "Jēkabpils",
+    "postal": "LV-9924",
+    "address": "Vienības iela 1A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ventspils Ganību ielas Mego pakomāts",
+    "city": "Ventspils",
+    "postal": "LV-9923",
+    "address": "Ganību iela 22/24"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rēzeknes Atbrīvošanas alejas Maxima XX pakomāts",
+    "city": "Rēzekne",
+    "postal": "LV-9922",
+    "address": "Atbrīvošanas aleja 141"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Cēsu Valmieras ielas Maxima XX pakomāts",
+    "city": "Cēsis",
+    "postal": "LV-9921",
+    "address": "Valmieras iela 17A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Kauguru RIMI pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9920",
+    "address": "Talsu šoseja 29"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas T/C RAF pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9919",
+    "address": "Rīgas iela 48"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Vecmīlgrāvja Maxima X pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9146",
+    "address": "Augusta Dombrovska iela 74"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Āgenskalna RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9103",
+    "address": "Mārupes iela 10A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jaunmārupes Mazcenu alejas pakomāts",
+    "city": "Mārupes",
+    "postal": "LV-9155",
+    "address": "Mazcenu aleja 33/1, Jaunmārupe"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas A. Briāna ielas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9111",
+    "address": "Krišjāņa Valdemāra iela 62A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Nīcgales ielas 53 T/C GREEN pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9112",
+    "address": "Nīcgales iela 53"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Prūšu ielas 22a Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9179",
+    "address": "Prūšu iela 22A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Dole pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9905",
+    "address": "Latgales iela 357"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Saharova ielas 14 Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9906",
+    "address": "Andreja Saharova iela 14"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Mols pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9911",
+    "address": "Krasta iela 46"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ventspils Celtnieku ielas ELVI pakomāts",
+    "city": "Ventspils",
+    "postal": "LV-9210",
+    "address": "Celtnieku iela 3"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Iecavas TOP pakomāts",
+    "city": "Iecava",
+    "postal": "LV-9550",
+    "address": "Edvarta Virzas iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Mazās stacijas ielas Drogas pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9907",
+    "address": "Mazā Stacijas iela 2A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils T/C Ditton pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9918",
+    "address": "Cietokšņa iela 60"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas T/C Baata pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9917",
+    "address": "Klaipēdas iela 104C"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils T/C Aveņu centrs pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9916",
+    "address": "Raipoles iela 11A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Juglas Centrs pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9915",
+    "address": "Juglas krastmala 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Mūkusalas Maxima XX pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9177",
+    "address": "Mūkusalas iela 73"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Valdeķu ielas 10 Maxima X pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9215",
+    "address": "Valdeķu iela 10"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ogres Mālkalnes prospekta 3 pakomāts",
+    "city": "Ogre",
+    "postal": "LV-9559",
+    "address": "Mālkalnes prospekts 3"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Augšlīgatnes ELVI pakomāts",
+    "city": "Līgatnes",
+    "postal": "LV-9193",
+    "address": "Nītaures iela 5, Augšlīgatne"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Babītes ELVI pakomāts",
+    "city": "Babītes",
+    "postal": "LV-9182",
+    "address": "Liepu aleja 15A, Babīte"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Brīvības gatves 386 Neste pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9174",
+    "address": "Brīvības gatve 386"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Cēsu T/C Globuss pakomāts",
+    "city": "Cēsis",
+    "postal": "LV-9194",
+    "address": "Raiņa iela 26/28"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jēkabpils T/C Sēlija pakomāts",
+    "city": "Jēkabpils",
+    "postal": "LV-9213",
+    "address": "Vienības iela 7"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Skrīveru TOP pakomāts",
+    "city": "Skrīveru",
+    "postal": "LV-9190",
+    "address": "Daugavas iela 97, Skrīveri"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Elizabetes ielas 81 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9171",
+    "address": "Elizabetes iela 81"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Skaistkalnes VESKO pakomāts",
+    "city": "Skaistkalnes",
+    "postal": "LV-9203",
+    "address": "Rīgas iela 3, Skaistkalne"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Saulkrastu Ainažu ielas ELVI pakomāts",
+    "city": "Saulkrasti",
+    "postal": "LV-9560",
+    "address": "Ainažu iela 28A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas PEPSI CENTRS pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9538",
+    "address": "Uzvaras bulvāris 10"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas BARONS KVARTĀLS pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9521",
+    "address": "Cēsu iela 31"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Dzelzavas ielas 78 RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9544",
+    "address": "Dzelzavas iela 78"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kalngales ELVI pakomāts",
+    "city": "Carnikavas",
+    "postal": "LV-9525",
+    "address": "Ērgļu iela 1B, Kalngale"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Vaidelotes ielas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9519",
+    "address": "Vaidelotes iela 11A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Smiltenes Daugavas ielas TOP pakomāts",
+    "city": "Smiltene",
+    "postal": "LV-9565",
+    "address": "Daugavas iela 1B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Smiltenes Rīgas ielas TOP pakomāts",
+    "city": "Smiltene",
+    "postal": "LV-9516",
+    "address": "Rīgas iela 5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Skanstes ielas 17 RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9637",
+    "address": "Skanstes iela 17"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Aknīstes VESKO pakomāts",
+    "city": "Aknīste",
+    "postal": "LV-9183",
+    "address": "Skolas iela 5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Upesciema Lats pakomāts",
+    "city": "Garkalnes",
+    "postal": "LV-9184",
+    "address": "Ziedu iela 2C, Upesciems"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Saharova ielas Maxima XXX pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9175",
+    "address": "Andreja Saharova iela 20A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Madlienas ELVI pakomāts",
+    "city": "Madlienas",
+    "postal": "LV-9186",
+    "address": "Tirdzniecības centrs, Madliena"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Bauskas Pionieru ielas RIMI pakomāts",
+    "city": "Bauska",
+    "postal": "LV-9201",
+    "address": "Pionieru iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Jaunciema gatves Maxima X pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9185",
+    "address": "Jaunciema gatve 174"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jaunpils TOP pakomāts",
+    "city": "Jaunpils",
+    "postal": "LV-9170",
+    "address": "Jāņkrogs, Jaunpils"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Tēriņu ielas 55 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9172",
+    "address": "Tēriņu iela 55"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Gaiļezers pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9188",
+    "address": "Gaiļezera iela 8"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Rītupes ielas Maxima X pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9176",
+    "address": "Rītupes iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valmieras Rīgas ielas TOP pakomāts",
+    "city": "Valmiera",
+    "postal": "LV-9197",
+    "address": "Rīgas iela 64"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Straupes VIADA pakomāts",
+    "city": "Straupes",
+    "postal": "LV-9196",
+    "address": "Aleta, Straupe"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rēzeknes Kr. Valdemāra ielas Mego pakomāts",
+    "city": "Rēzekne",
+    "postal": "LV-9216",
+    "address": "Kr. Valdemāra iela 16A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils Cialkovska ielas Lats pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9211",
+    "address": "Cialkovska iela 10A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Neretas TOP pakomāts",
+    "city": "Neretas",
+    "postal": "LV-9214",
+    "address": "Raiņa iela 6, Nereta"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Lapmežciema Citro pakomāts",
+    "city": "Lapmežciema",
+    "postal": "LV-9187",
+    "address": "Talsu šosejas 8 km, Lapmežciems"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Engures Citro pakomāts",
+    "city": "Engures",
+    "postal": "LV-9204",
+    "address": "Jūras iela 81, Engure"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Alojas Mini TOP pakomāts",
+    "city": "Aloja",
+    "postal": "LV-9192",
+    "address": "Rīgas iela 1B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ugāles Lats pakomāts",
+    "city": "Ugāles",
+    "postal": "LV-9209",
+    "address": "Skolas iela 7, Ugāle"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas Ganību ielas ELVI pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9206",
+    "address": "Ganību iela 69/71"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jaunjelgavas Mini Top pakomāts",
+    "city": "Jaunjelgava",
+    "postal": "LV-9212",
+    "address": "Jelgavas iela 44"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Ozols pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9529",
+    "address": "Mazā Rencēnu iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Viesītes TOP pakomāts",
+    "city": "Viesīte",
+    "postal": "LV-9167",
+    "address": "Raiņa iela 23"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valmieras Rubenes ielas RIMI pakomāts",
+    "city": "Valmiera",
+    "postal": "LV-9166",
+    "address": "Rubenes iela 51"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas Ganību ielas JYSK pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9108",
+    "address": "Ganību iela 187"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Zilupes TOP pakomāts",
+    "city": "Zilupe",
+    "postal": "LV-9168",
+    "address": "Brīvības iela 34"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Kalnciema ielas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9147",
+    "address": "Kalnciema iela 41"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kārsavas TOP pakomāts",
+    "city": "Kārsava",
+    "postal": "LV-9162",
+    "address": "Sporta iela 6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Galleria Riga pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9520",
+    "address": "Dzirnavu iela 67"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Juglas ielas 45 Maxima pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9164",
+    "address": "Juglas iela 45"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Piņķu Rīgas ielas RIMI pakomāts",
+    "city": "Babītes",
+    "postal": "LV-9587",
+    "address": "Rīgas iela 23, Piņķi"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Latgales ielas 414 LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9620",
+    "address": "Latgales iela 414"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ogres Brīvības ielas 19 pakomāts",
+    "city": "Ogre",
+    "postal": "LV-9583",
+    "address": "Brīvības iela 19"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Dobeles Krasta ielas TOP pakomāts",
+    "city": "Dobele",
+    "postal": "LV-9575",
+    "address": "Krasta iela 7"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Kauguru Raiņa ielas Mini RIMI pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9572",
+    "address": "Raiņa iela 74"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Valteru Piekrastes ielas 31A pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9636",
+    "address": "Piekrastes iela 31A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jaunpiebalgas pakomāts",
+    "city": "Jaunpiebalgas",
+    "postal": "LV-9581",
+    "address": "Gaujas iela 4, Jaunpiebalga"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rēzeknes Dārzu ielas ELFI pakomāts",
+    "city": "Rēzekne",
+    "postal": "LV-9582",
+    "address": "Dārzu iela 14"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Priekuļu Aibe pakomāts",
+    "city": "Priekuļu",
+    "postal": "LV-9543",
+    "address": "Cēsu prospekts 44, Priekuļi"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Dammes tirgus pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9533",
+    "address": "Dammes iela 36A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Pūres Citro pakomāts",
+    "city": "Pūres",
+    "postal": "LV-9532",
+    "address": "Roze, Pūre"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas Kuršu laukuma 10 pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9539",
+    "address": "Kuršu laukums 10"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jumpravas Lats pakomāts",
+    "city": "Jumpravas",
+    "postal": "LV-9570",
+    "address": "Ceriņu iela 3, Jumprava"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Miera ielas 2 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9173",
+    "address": "Miera iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Tukuma Kurzemes ielas 2A Mego pakomāts",
+    "city": "Tukums",
+    "postal": "LV-9531",
+    "address": "Kurzemes iela 2A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Naukšēnu Lats pakomāts",
+    "city": "Naukšēnu",
+    "postal": "LV-9561",
+    "address": "Ievulīči, Naukšēni"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Lāčplēša ielas 76 LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9540",
+    "address": "Lāčplēša iela 76"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Avotu ielas 17 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9528",
+    "address": "Avotu iela 17"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils Viestura ielas Mego pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9566",
+    "address": "Viestura iela 60"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Saldus Lielās ielas Lats pakomāts",
+    "city": "Saldus",
+    "postal": "LV-9555",
+    "address": "Lielā iela 73"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ādažu Rīgas gatves ELVI pakomāts",
+    "city": "Ādaži",
+    "postal": "LV-9524",
+    "address": "Rīgas gatve 51"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Kalpaka bulvāra 14A pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9522",
+    "address": "Kalpaka bulvāris 14A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Salaspils Rīgas ielas TOP pakomāts",
+    "city": "Salaspils",
+    "postal": "LV-9523",
+    "address": "Rīgas iela 48"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Druvas ELVI pakomāts",
+    "city": "Saldus",
+    "postal": "LV-9552",
+    "address": "Vienības iela 4, Druva"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Stendes Brīvības ielas Citro pakomāts",
+    "city": "Stende",
+    "postal": "LV-9535",
+    "address": "Brīvības iela 12"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kuldīgas Stendes ielas Citro pakomāts",
+    "city": "Kuldīga",
+    "postal": "LV-9536",
+    "address": "Stendes iela 23A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Mīlgrāvja ielas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9976",
+    "address": "Mīlgrāvja iela 14"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Kalnciema ielas 38 LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9622",
+    "address": "Kalnciema iela 38"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils 18. novembra ielas RIMI pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9578",
+    "address": "18. novembra iela 136"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valdemārpils Lielās ielas 17A pakomāts",
+    "city": "Valdemārpils",
+    "postal": "LV-9577",
+    "address": "Lielā iela 17A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Mārupes Dzirnieku ielas 24 pakomāts",
+    "city": "Mārupes",
+    "postal": "LV-9292",
+    "address": "Dzirnieku iela 24, Mārupe"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepas TOP pakomāts",
+    "city": "Liepas",
+    "postal": "LV-9590",
+    "address": "Rūpnīcas iela 8A, Liepa"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Kurzemes prospekta 15a Neste pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9251",
+    "address": "Kurzemes prospekts 15A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Bērnu pasaules RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9946",
+    "address": "Matīsa iela 25"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Medemciema pakomāts",
+    "city": "Olaines",
+    "postal": "LV-9283",
+    "address": "Medemciema iela 1, Medemciems"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kadagas T/C Kadaga pakomāts",
+    "city": "Ādažu",
+    "postal": "LV-9247",
+    "address": "Kadaga 15, Kadaga"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valmieras Miera ielas TOP pakomāts",
+    "city": "Valmiera",
+    "postal": "LV-9269",
+    "address": "Miera iela 5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Stabu ielas 24 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9286",
+    "address": "Stabu iela 24"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Valmieras ielas 2 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9547",
+    "address": "Valmieras iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Mērsraga Citro pakomāts",
+    "city": "Mērsraga",
+    "postal": "LV-9263",
+    "address": "Lielā iela 31, Mērsrags"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ogres Kartona fabrikas pakomāts",
+    "city": "Ogre",
+    "postal": "LV-9510",
+    "address": "Brīvības iela 116"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Berģu ielas Senās Bodes pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9231",
+    "address": "Berģu iela 72B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Salaspils Miera ielas AIBE pakomāts",
+    "city": "Salaspils",
+    "postal": "LV-9517",
+    "address": "Miera iela 24"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Salaspils Rīgas ielas ELVI pakomāts",
+    "city": "Salaspils",
+    "postal": "LV-9219",
+    "address": "Rīgas iela 24"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Apes TOP pakomāts",
+    "city": "Ape",
+    "postal": "LV-9515",
+    "address": "Stacijas iela 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Mārupes Rožu ielas 2 pakomāts",
+    "city": "Mārupes",
+    "postal": "LV-9229",
+    "address": "Rožu iela 2, Mārupe"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Liepājas ielas Maxima X pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9250",
+    "address": "Liepājas iela 76A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Latgales ielas 427b Neste pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9512",
+    "address": "Latgales iela 427B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils 18. novembra ielas Lats pakomāts",
+    "city": "Naujenes",
+    "postal": "LV-9272",
+    "address": "18. novembra iela 398A, Vecstropi"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Limbažu Pasta ielas pakomāts",
+    "city": "Limbaži",
+    "postal": "LV-9299",
+    "address": "Pasta iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Čiekurkalna MEGO pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9253",
+    "address": "Čiekurkalna 4. šķērslīnija 4"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jēkabpils Nameja ielas TOP pakomāts",
+    "city": "Jēkabpils",
+    "postal": "LV-9287",
+    "address": "Nameja iela 12"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Suntažu AIBE pakomāts",
+    "city": "Suntažu",
+    "postal": "LV-9508",
+    "address": "Rīts, Suntaži"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Preiļu Rīgas ielas MEGO pakomāts",
+    "city": "Preiļi",
+    "postal": "LV-9291",
+    "address": "Rīgas iela 4D"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Ķemeru TOP pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9507",
+    "address": "Emīla Dārziņa iela 16"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ventspils Inženieru ielas MEGO pakomāts",
+    "city": "Ventspils",
+    "postal": "LV-9271",
+    "address": "Inženieru iela 65"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils Gaismas ielas TOP pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9273",
+    "address": "Gaismas iela 12"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valmieras Stacijas ielas 33 pakomāts",
+    "city": "Valmiera",
+    "postal": "LV-9268",
+    "address": "Stacijas iela 33"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Juglas ielas 25 MINI RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9261",
+    "address": "Juglas iela 25"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jēkabpils T/C Sprīdītis pakomāts",
+    "city": "Jēkabpils",
+    "postal": "LV-9265",
+    "address": "Celtnieku iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Tukuma Alīnes ielas TOP pakomāts",
+    "city": "Tukums",
+    "postal": "LV-9243",
+    "address": "Alīnes iela 1A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Tukuma T/C Aplis pakomāts",
+    "city": "Tukums",
+    "postal": "LV-9244",
+    "address": "Eksporta iela 6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ozolnieku ELVI pakomāts",
+    "city": "Ozolnieku",
+    "postal": "LV-9258",
+    "address": "Rīgas iela 42, Ozolnieki"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rēzeknes Dārzu ielas 63 pakomāts",
+    "city": "Rēzekne",
+    "postal": "LV-9511",
+    "address": "Dārzu iela 63"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Buļļu ielas 35 Aibe pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9504",
+    "address": "Buļļu iela 35"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Zvejniekciema Bērzu alejas ELVI pakomāts",
+    "city": "Saulkrastu",
+    "postal": "LV-9248",
+    "address": "Bērzu aleja 5, Zvejniekciems"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Zaķumuižas pakomāts",
+    "city": "Ropažu",
+    "postal": "LV-9276",
+    "address": "Vidzemes prospekts 11A, Zaķumuiža"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Madonas Raiņa ielas 34 pakomāts",
+    "city": "Madona",
+    "postal": "LV-9297",
+    "address": "Raiņa iela 34"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Venta pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9233",
+    "address": "Zolitūdes iela 34"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugmales ELVI pakomāts",
+    "city": "Daugmales",
+    "postal": "LV-9246",
+    "address": "Ceļmalas, Daugmale"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Baldones TOP pakomāts",
+    "city": "Baldone",
+    "postal": "LV-9579",
+    "address": "Pārupes iela 6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kalnciema Aibe pakomāts",
+    "city": "Kalnciema",
+    "postal": "LV-9284",
+    "address": "Lielā iela 11, Kalnciems"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Daugavgrīvas ielas TOP pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9502",
+    "address": "Daugavgrīvas iela 72"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Saharova ielas 2 MEGO pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9277",
+    "address": "Andreja Saharova iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Siguldas L. Paegles ielas Maxima pakomāts",
+    "city": "Sigulda",
+    "postal": "LV-9255",
+    "address": "Leona Paegles iela 3"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Alūksnes Pils ielas TOP pakomāts",
+    "city": "Alūksne",
+    "postal": "LV-9228",
+    "address": "Pils iela 38A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas T/C Sāga pakomāts",
+    "city": "Stopiņu",
+    "postal": "LV-9279",
+    "address": "Biķeru iela 4, Dreiliņi"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Baltāsbaznīcas ielas MEGO pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9282",
+    "address": "Baltāsbaznīcas iela 42"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kolkas Citro pakomāts",
+    "city": "Kolkas",
+    "postal": "LV-9264",
+    "address": "Saulkrasti, Kolka"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Olaines Stacijas ielas RIMI pakomāts",
+    "city": "Olaine",
+    "postal": "LV-9569",
+    "address": "Stacijas iela 8"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jūrmalas Kauguru Engures ielas Maxima pakomāts",
+    "city": "Jūrmala",
+    "postal": "LV-9580",
+    "address": "Engures iela 3"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Bērnu slimnīcas pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9514",
+    "address": "Vienības gatve 45"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Gulbenes Dzelzceļa ielas 14 pakomāts",
+    "city": "Gulbene",
+    "postal": "LV-9227",
+    "address": "Dzelzceļa iela 14"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Viestura prospekta 35a TOP pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9254",
+    "address": "Viestura prospekts 35A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Raunas TOP pakomāts",
+    "city": "Raunas",
+    "postal": "LV-9506",
+    "address": "Cēsu iela 2A, Rauna"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ikšķiles ELVI pakomāts",
+    "city": "Ikšķile",
+    "postal": "LV-9503",
+    "address": "Daugavas prospekts 18A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Maltas Lats pakomāts",
+    "city": "Maltas",
+    "postal": "LV-9293",
+    "address": "1. maija iela 44, Malta"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valkas Raiņa ielas Maxima X pakomāts",
+    "city": "Valka",
+    "postal": "LV-9290",
+    "address": "Raiņa iela 7"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Graudu ielas Mego pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9274",
+    "address": "Graudu iela 10"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Cēsu T/C SOLO pakomāts",
+    "city": "Cēsis",
+    "postal": "LV-9260",
+    "address": "Jāņa Poruka iela 19"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Balvu Tautas ielas 1 pakomāts",
+    "city": "Balvi",
+    "postal": "LV-9505",
+    "address": "Tautas iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Talsu T/C Talsu Centrs pakomāts",
+    "city": "Talsi",
+    "postal": "LV-9239",
+    "address": "Lielā iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Aizkraukles TOP pakomāts",
+    "city": "Aizkraukle",
+    "postal": "LV-9266",
+    "address": "Lāčplēša iela 7"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Saulkalnes TOP pakomāts",
+    "city": "Salaspils",
+    "postal": "LV-9241",
+    "address": "Daugavmalas iela 24A, Saulkalne"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Mazsalacas pakomāts",
+    "city": "Mazsalaca",
+    "postal": "LV-9298",
+    "address": "Parka iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Vaidavas ielas RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9574",
+    "address": "Vaidavas iela 9B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ķekavas T/C Dālderi pakomāts",
+    "city": "Ķekavas nov.",
+    "postal": "LV-9245",
+    "address": "Nākotnes iela 1, Ķekava, Ķekavas pag."
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Cesvaines TOP pakomāts",
+    "city": "Cesvaine",
+    "postal": "LV-9296",
+    "address": "Rīgas iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Cēsu Gaujas ielas TOP pakomāts",
+    "city": "Cēsis",
+    "postal": "LV-9259",
+    "address": "Gaujas iela 29"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Plakanciema pakomāts",
+    "city": "Ķekavas",
+    "postal": "LV-9249",
+    "address": "Veckrogzemji, Plakanciems"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Bauskas Upmalas ielas TOP pakomāts",
+    "city": "Bauska",
+    "postal": "LV-9280",
+    "address": "Upmalas iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Hipokrāta ielas FIX PRICE pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9295",
+    "address": "Hipokrāta iela 26"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Sauriešu DELFĪNS pakomāts",
+    "city": "Stopiņu",
+    "postal": "LV-9501",
+    "address": "Kazāru iela 4, Saurieši"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Dobeles Muldavas ielas TOP pakomāts",
+    "city": "Dobele",
+    "postal": "LV-9518",
+    "address": "Muldavas iela 3A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ventspils Talsu ielas Citro pakomāts",
+    "city": "Ventspils",
+    "postal": "LV-9588",
+    "address": "Talsu iela 6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "RĀMKALNI pakomāts",
+    "city": "Inčukalna",
+    "postal": "LV-9586",
+    "address": "Vītiņkalni, Krustiņi"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Slampes pakomāts",
+    "city": "Slampes",
+    "postal": "LV-9585",
+    "address": "Zemgales 3, Slampe"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Anniņmuižas ielas 8a LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9623",
+    "address": "Anniņmuižas iela 8A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Salaspils LIDL pakomāts",
+    "city": "Salaspils",
+    "postal": "LV-9624",
+    "address": "Skolas iela 4A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Biķernieku ielas 16a MEGO pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9160",
+    "address": "Biķernieku iela 16A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Aglonas TOP pakomāts",
+    "city": "Aglonas",
+    "postal": "LV-9595",
+    "address": "Somersētas iela 33, Aglona"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils Aveņu ielas Maxima X pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9619",
+    "address": "Aveņu iela 35B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Liepājas Krūmu ielas MEGO pakomāts",
+    "city": "Liepāja",
+    "postal": "LV-9611",
+    "address": "Krūmu iela 45/47"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Pļavnieku ielas BETA pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9615",
+    "address": "Pļavnieku iela 1A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ķekavas Gaismas ielas Maxima X pakomāts",
+    "city": "Ķekava",
+    "postal": "LV-9618",
+    "address": "Gaismas iela 1A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Kuldīgas LIDL pakomāts",
+    "city": "Kuldīga",
+    "postal": "LV-9634",
+    "address": "Aizputes iela 7"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas A. Deglava ielas 160 LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9633",
+    "address": "Augusta Deglava iela 160"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Carnikavas Mego pakomāts",
+    "city": "Carnikavas",
+    "postal": "LV-9988",
+    "address": "Rīgas iela 14, Carnikava"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas Birzes ielas 21 LATS pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9601",
+    "address": "Birzes iela 21"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Grobiņas LATS pakomāts",
+    "city": "Grobiņa",
+    "postal": "LV-9613",
+    "address": "Vītolu iela 12"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Valmieras Fabrikas ielas RIMI pakomāts",
+    "city": "Valmiera",
+    "postal": "LV-9589",
+    "address": "Fabrikas iela 2"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Lidoņu ielas 3 MAXIMA X pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9597",
+    "address": "Lidoņu iela 3"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Ulbrokas TOP pakomāts",
+    "city": "Stopiņu",
+    "postal": "LV-9275",
+    "address": "Institūta iela 7, Ulbroka"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Katlakalna pakomāts",
+    "city": "Ķekavas",
+    "postal": "LV-9526",
+    "address": "Pļavniekkalna iela 41A, Katlakalns"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Pētersalas ielas Maxima pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9591",
+    "address": "Pētersalas iela 18B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas F. Sadovņikova ielas 14 RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9602",
+    "address": "Firsa Sadovņikova iela 14"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Bēnes TOP pakomāts",
+    "city": "Bēnes",
+    "postal": "LV-9594",
+    "address": "Stacijas iela 10, Bēne"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Zaļenieku TOP pakomāts",
+    "city": "Zaļenieku",
+    "postal": "LV-9593",
+    "address": "Centra iela 7, Zaļenieki"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas MĒBEĻU NAMS pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9596",
+    "address": "Dzelzavas iela 72"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils T/C Solo pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9599",
+    "address": "Rīgas iela 9"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Dzelzavas ielas 75 LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9621",
+    "address": "Dzelzavas iela 75B"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Jelgavas Zemgales prospekta 10 pakomāts",
+    "city": "Jelgava",
+    "postal": "LV-9600",
+    "address": "Zemgales prospekts 10"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Carnikavas T/C Mandarīns pakomāts",
+    "city": "Carnikavas",
+    "postal": "LV-9612",
+    "address": "Atpūtas iela 1, Carnikava"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Ķīšezera ielas 6 RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9607",
+    "address": "Ķīšezera iela 6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Vecāķu ELVI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9191",
+    "address": "Mangaļu prospekts 29"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Mārupes Daugavas ielas 36 ELVI pakomāts",
+    "city": "Mārupe",
+    "postal": "LV-9603",
+    "address": "Daugavas iela 36"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Saharova ielas 23 RIMI pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9605",
+    "address": "Andreja Saharova iela 23A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Tallinas ielas 86 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9609",
+    "address": "Tallinas iela 86"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Bauskas LIDL pakomāts",
+    "city": "Bauska",
+    "postal": "LV-9635",
+    "address": "Zaļā iela 5"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Lubānas ielas 113a LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9628",
+    "address": "Lubānas iela 113A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Valdeķu ielas 39A LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9630",
+    "address": "Valdeķu iela 39A"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Brīvības ielas 254 LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9625",
+    "address": "Brīvības gatve 254"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Daugavpils Balvu ielas 1a LIDL pakomāts",
+    "city": "Daugavpils",
+    "postal": "LV-9632",
+    "address": "Balvu iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Duntes Biroji pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9608",
+    "address": "Duntes iela 6"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Kr. Barona ielas 136 pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9610",
+    "address": "Krišjāņa Barona iela 136"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Prūšu ielas 1 LIDL pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9629",
+    "address": "Prūšu iela 1"
+  },
+  {
+    "carrier": "OMNIVA",
+    "name": "Rīgas Vecmīlgrāvja VIADA pakomāts",
+    "city": "Rīga",
+    "postal": "LV-9604",
+    "address": "Emmas iela 45"
+  }
+]

@@ -1,0 +1,4 @@
+OMNIVA: 182
+DPD: 122
+SMARTPOSTI: 0
+Total JS file size: 266915 chars

@@ -1,0 +1,60 @@
+--- Row 0 ---
+<th style="width:52.0161%; padding: 0 !important;"></th><th style="width:47.9839%; padding: 0 !important;"></th>
+--- Row 1 ---
+<td data-cell-id="A1" data-x="0" data-y="1" class="htCenter htMiddle color-ffffff bg-dc0032"52.0161 style="min-width:52.0161%; width:52.0161%;" ><h3 style="font-size: 18px; font-family: PlutoSansLight;">Pilsēta</h3></td><td data-cell-id="B1" data-x="1" data-y="1" class="htCenter htMiddle color-ffffff bg-dc0032"47.9839 style="min-width:47.9839%; width:47.9839%;" ><h3 style="font-size: 18px; font-family: PlutoSansLight;">Izņemšanas laiki darba dienās</h3></td>
+--- Row 2 ---
+<td data-cell-id="A2" data-x="0" data-y="2" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Aglona</p></td><td data-cell-id="B2" data-x="1" data-y="2" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 3 ---
+<td data-cell-id="A3" data-x="0" data-y="3" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Ainaži</p></td><td data-cell-id="B3" data-x="1" data-y="3" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 4 ---
+<td data-cell-id="A4" data-x="0" data-y="4" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Aizkraukle</p></td><td data-cell-id="B4" data-x="1" data-y="4" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>12:00</p></td>
+--- Row 5 ---
+<td data-cell-id="A5" data-x="0" data-y="5" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Aizpute</p></td><td data-cell-id="B5" data-x="1" data-y="5" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 6 ---
+<td data-cell-id="A6" data-x="0" data-y="6" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Aknīste</p></td><td data-cell-id="B6" data-x="1" data-y="6" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 7 ---
+<td data-cell-id="A7" data-x="0" data-y="7" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Aloja</p></td><td data-cell-id="B7" data-x="1" data-y="7" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 8 ---
+<td data-cell-id="A8" data-x="0" data-y="8" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Alsunga</p></td><td data-cell-id="B8" data-x="1" data-y="8" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 9 ---
+<td data-cell-id="A9" data-x="0" data-y="9" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Alūksne</p></td><td data-cell-id="B9" data-x="1" data-y="9" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>12:00</p></td>
+--- Row 10 ---
+<td data-cell-id="A10" data-x="0" data-y="10" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Ape</p></td><td data-cell-id="B10" data-x="1" data-y="10" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 11 ---
+<td data-cell-id="A11" data-x="0" data-y="11" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Auce</p></td><td data-cell-id="B11" data-x="1" data-y="11" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 12 ---
+<td data-cell-id="A12" data-x="0" data-y="12" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Ādaži</p></td><td data-cell-id="B12" data-x="1" data-y="12" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 13 ---
+<td data-cell-id="A13" data-x="0" data-y="13" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Babīte</p></td><td data-cell-id="B13" data-x="1" data-y="13" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>12:00</p></td>
+--- Row 14 ---
+<td data-cell-id="A14" data-x="0" data-y="14" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Baldone</p></td><td data-cell-id="B14" data-x="1" data-y="14" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 15 ---
+<td data-cell-id="A15" data-x="0" data-y="15" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Baloži</p></td><td data-cell-id="B15" data-x="1" data-y="15" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 16 ---
+<td data-cell-id="A16" data-x="0" data-y="16" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Baltezers</p></td><td data-cell-id="B16" data-x="1" data-y="16" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 17 ---
+<td data-cell-id="A17" data-x="0" data-y="17" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Baltinava</p></td><td data-cell-id="B17" data-x="1" data-y="17" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 18 ---
+<td data-cell-id="A18" data-x="0" data-y="18" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Balvi</p></td><td data-cell-id="B18" data-x="1" data-y="18" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>12:00</p></td>
+--- Row 19 ---
+<td data-cell-id="A19" data-x="0" data-y="19" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Bauska</p></td><td data-cell-id="B19" data-x="1" data-y="19" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>12:00</p></td>
+--- Row 20 ---
+<td data-cell-id="A20" data-x="0" data-y="20" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Brocēni</p></td><td data-cell-id="B20" data-x="1" data-y="20" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 21 ---
+<td data-cell-id="A21" data-x="0" data-y="21" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Bukulti</p></td><td data-cell-id="B21" data-x="1" data-y="21" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 22 ---
+<td data-cell-id="A22" data-x="0" data-y="22" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Carnikava</p></td><td data-cell-id="B22" data-x="1" data-y="22" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>12:00</p></td>
+--- Row 23 ---
+<td data-cell-id="A23" data-x="0" data-y="23" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Cesvaine</p></td><td data-cell-id="B23" data-x="1" data-y="23" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 24 ---
+<td data-cell-id="A24" data-x="0" data-y="24" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Cēsis</p></td><td data-cell-id="B24" data-x="1" data-y="24" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>17:00</p></td>
+--- Row 25 ---
+<td data-cell-id="A25" data-x="0" data-y="25" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Dagda</p></td><td data-cell-id="B25" data-x="1" data-y="25" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>
+--- Row 26 ---
+<td data-cell-id="A26" data-x="0" data-y="26" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Daugavpils</p></td><td data-cell-id="B26" data-x="1" data-y="26" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>17:00</p></td>
+--- Row 27 ---
+<td data-cell-id="A27" data-x="0" data-y="27" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Dobele</p></td><td data-cell-id="B27" data-x="1" data-y="27" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>12:00</p></td>
+--- Row 28 ---
+<td data-cell-id="A28" data-x="0" data-y="28" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Dreiliņi</p></td><td data-cell-id="B28" data-x="1" data-y="28" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>12:00</p></td>
+--- Row 29 ---
+<td data-cell-id="A29" data-x="0" data-y="29" class="htCenter htMiddle"52.0161 style="min-width:52.0161%; width:52.0161%;" ><p>Dundaga</p></td><td data-cell-id="B29" data-x="1" data-y="29" class="htCenter htMiddle"47.9839 style="min-width:47.9839%; width:47.9839%;" ><p>10:00</p></td>

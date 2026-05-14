@@ -1,0 +1,51 @@
+Total parsed: 164
+Rīga | Paku Skapis Aibe Buļļu | Buļļu iela 35 | LV-1055
+Rīga | Paku Skapis Akropole | Latgales iela 257 | LV-1019
+Rīga | Paku Skapis Alfa | Brīvības gatve 372 | LV-1006
+Rīga | Paku Skapis Artilērijas | Artilērijas iela 40 | LV-1009
+Rīga | Paku Skapis Barona Centrs | Krišjāņa Barona iela 46 | LV-1011
+Rīga | Paku Skapis BETA Purvciems | Purvciema iela 35 | LV-1035
+Rīga | Paku Skapis BETA Rušonu | Rušonu iela 17A | LV-1057
+Rīga | Paku Skapis Bērnu Pasaule | Matīsa iela 25 | LV-1001
+Rīga | Paku Skapis Brīvības 44 | Brīvības iela 44 | LV-1050
+Rīga | Paku Skapis Brīvības 78 | Brīvības iela 78a | LV-1001
+Rīga | Paku Skapis Circle K Botānika | Jūrmalas gatve 5a | LV-1007
+Rīga | Paku Skapis Circle K Brīvības/Cēsu | Brīvības iela 176a | LV-1012
+Rīga | Paku Skapis Circle K Deglava | Augusta Deglava iela 164c | LV-1021
+Rīga | Paku Skapis Circle K Dzelzavas | Dzelzavas iela 14 | LV-1084
+Rīga | Paku Skapis Circle K Iļģuciems | Dzirciema iela 40 | LV-1007
+Rīga | Paku Skapis Circle K Imanta | Anniņmuižas bulvāris 25a | LV-1067
+Rīga | Paku Skapis Circle K Kurbada | Kurbada iela 8 | LV-1009
+Rīga | Paku Skapis Circle K Lubānas | Lubānas iela 119A | LV-1021
+Rīga | Paku Skapis Circle K Muitas | Muitas iela 4 | LV-1010
+Rīga | Paku Skapis Circle K Pērnavas | Pērnavas iela 7 | LV-1012
+Rīga | Paku Skapis Circle K Teika | Brīvības gatve 265 | LV-1006
+Rīga | Paku Skapis Circle K Valdemāra | Krišjāna Valdemāra iela 104 | LV-1013
+Rīga | Paku Skapis Citro Imanta | Kurzemes prospekts 160A | LV-1029
+Rīga | Paku Skapis Citro Ziepniekkalns | Ozolciema iela 46 k-6 | LV-1058
+Rīga | Paku Skapis Čiekurkalns | Čiekurkalna 2.līnija 30 | LV-1026
+Rīga | Paku Skapis Damme | Kurzemes prospekts 1a | LV-1067
+Rīga | Paku Skapis Dārziņi | Taisnā iela 71A | LV-1063
+Rīga | Paku Skapis Dole | Latgales iela 357 | LV-1063
+Rīga | Paku Skapis Domina | Ieriķu iela 3 | LV-1084
+Rīga | Paku Skapis DPD Termināls | Uriekstes iela 8a | LV-1005
+Rīga | Paku Skapis Drogas Jugla | Brīvības gatve 432 | LV-1024
+Rīga | Paku Skapis Elemental Skanste | Skanstes iela 25 | LV-1013
+Rīga | Paku Skapis Ēbelmuiža | Valdeķu iela 39 | LV-1058
+Rīga | Paku Skapis Galleria Riga | Dzirnavu iela 67 | LV-1011
+Rīga | Paku Skapis Hipokrāta | Hipokrāta iela 26 | LV-1079
+Rīga | Paku Skapis IXO Centrs | Anniņmuižas iela 17 | LV-1029
+Rīga | Paku Skapis Jaunā Teika | Gustava Zemgala gatve 76 | LV-1039
+Rīga | Paku Skapis Kurši Vienības | Vienības gatve 113 | LV-1058
+Rīga | Paku Skapis LaTS Bolderāja | Lemešu iela 20 | LV-1016
+Rīga | Paku Skapis LaTS Plostu | Plostu iela 29 | LV-1057
+Rīga | Paku Skapis Maxima Burtnieku | Burtnieku iela 39 | LV-1084
+Rīga | Paku Skapis Maxima Gaigalas | Gaigalas iela 29 | LV-1016
+Rīga | Paku Skapis Maxima Kurzemes 59A | Kurzemes prospekts 59a | LV-1067
+Rīga | Paku Skapis Maxima Lidoņu | Lidoņu iela 3 | LV-1055
+Rīga | Paku Skapis Maxima Rusova | Rusova iela 1 | LV-1026
+Rīga | Paku Skapis Maxima Vecmīlgrāvis | Augusta Dombrovska iela 74 | LV-1015
+Rīga | Paku Skapis Maxima Viestura | Viestura iela 34a | LV-5201
+Rīga | Paku Skapis Maxima Višķu | Višķu iela 14 | LV-1063
+Rīga | Paku Skapis Maxima X Āgenskalns | Pilsoņu iela 1 k-1 | LV-1002
+Rīga | Paku Skapis Maxima X Jugla | Juglas iela 45 | LV-1064

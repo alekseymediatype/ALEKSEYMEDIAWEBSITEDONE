@@ -1,0 +1,31 @@
+Parsed 394 Omniva machines
+{"carrier": "OMNIVA", "name": "Ulbrokas ELVI pakomāts", "city": "Stopiņu", "postal": "LV-9110", "address": "Peldu iela 2, Ulbroka"}
+{"carrier": "OMNIVA", "name": "Tīnūžu Senās Bodes pakomāts", "city": "Tīnūžu", "postal": "LV-9240", "address": "Krustceles, Tīnūži"}
+{"carrier": "OMNIVA", "name": "Jelgavas Satiksmes ielas RIMI pakomāts", "city": "Jelgava", "postal": "LV-9981", "address": "Satiksmes iela 35"}
+{"carrier": "OMNIVA", "name": "Rīgas Katoļu ielas Neste pakomāts", "city": "Rīga", "postal": "LV-9178", "address": "Katoļu iela 4"}
+{"carrier": "OMNIVA", "name": "Madonas Saules ielas 4 pakomāts", "city": "Madona", "postal": "LV-9195", "address": "Saules iela 4"}
+{"carrier": "OMNIVA", "name": "Krāslavas Maxima X pakomāts", "city": "Krāslava", "postal": "LV-9984", "address": "Rīgas iela 28"}
+{"carrier": "OMNIVA", "name": "Rīgas T/C Riga Plaza pakomāts", "city": "Rīga", "postal": "LV-9114", "address": "Mūkusalas iela 71"}
+{"carrier": "OMNIVA", "name": "Rīgas Bolderājas Lats pakomāts", "city": "Rīga", "postal": "LV-9252", "address": "Lemešu iela 20"}
+{"carrier": "OMNIVA", "name": "Rīgas Purvciema ielas Beta pakomāts", "city": "Rīga", "postal": "LV-9573", "address": "Purvciema iela 35"}
+{"carrier": "OMNIVA", "name": "Rīgas Sporta Pils dārzu pakomāts", "city": "Rīga", "postal": "LV-9278", "address": "Lielgabalu iela 4"}
+{"carrier": "OMNIVA", "name": "Rīgas Zalves ielas TOP pakomāts", "city": "Rīga", "postal": "LV-9546", "address": "Zalves iela 46A"}
+{"carrier": "OMNIVA", "name": "Ādažu T/C Apelsīns pakomāts", "city": "Ādažu", "postal": "LV-9105", "address": "Rīgas gatve 5, Ādaži"}
+{"carrier": "OMNIVA", "name": "Jelgavas Rūpniecības ielas ELVI pakomāts", "city": "Jelgava", "postal": "LV-9199", "address": "Rūpniecības iela 77A"}
+{"carrier": "OMNIVA", "name": "Siguldas Kr. Barona ielas Beta pakomāts", "city": "Sigulda", "postal": "LV-9235", "address": "Krišjāņa Barona iela 6"}
+{"carrier": "OMNIVA", "name": "Talsu Rīgas ielas Maxima XX pakomāts", "city": "Talsi", "postal": "LV-9135", "address": "Rīgas iela 8"}
+{"carrier": "OMNIVA", "name": "Ogres T/C Ogres prestižs pakomāts", "city": "Ogre", "postal": "LV-9925", "address": "Mednieku iela 21/23"}
+{"carrier": "OMNIVA", "name": "Rīgas T/C IXO pakomāts", "city": "Rīga", "postal": "LV-9181", "address": "Anniņmuižas iela 17"}
+{"carrier": "OMNIVA", "name": "Liepājas Rožu laukuma pakomāts", "city": "Liepāja", "postal": "LV-9926", "address": "Lielā iela 13"}
+{"carrier": "OMNIVA", "name": "Liepājas P. Brieža ielas 14 pakomāts", "city": "Liepāja", "postal": "LV-9237", "address": "Pulkveža Brieža iela 14"}
+{"carrier": "OMNIVA", "name": "Valmieras T/C Valleta pakomāts", "city": "Valmiera", "postal": "LV-9928", "address": "Rīgas iela 4"}
+{"carrier": "OMNIVA", "name": "Tukuma Pasta ielas RIMI pakomāts", "city": "Tukums", "postal": "LV-9927", "address": "Pasta iela 14"}
+{"carrier": "OMNIVA", "name": "Rīgas P. Brieža ielas RIMI pakomāts", "city": "Rīga", "postal": "LV-9903", "address": "Pulkveža Brieža iela 33"}
+{"carrier": "OMNIVA", "name": "Jelgavas T/C Vivo centrs pakomāts", "city": "Jelgava", "postal": "LV-9929", "address": "Katoļu iela 18"}
+{"carrier": "OMNIVA", "name": "Rīgas G. Astras ielas VIADA pakomāts", "city": "Rīga", "postal": "LV-9909", "address": "Gunāra Astras iela 7"}
+{"carrier": "OMNIVA", "name": "Kuldīgas Gravas ielas ELVI pakomāts", "city": "Kuldīga", "postal": "LV-9205", "address": "Gravas iela 1"}
+{"carrier": "OMNIVA", "name": "Talsu Dundagas ielas RIMI pakomāts", "city": "Talsi", "postal": "LV-9931", "address": "Dundagas iela 18"}
+{"carrier": "OMNIVA", "name": "Rīgas Biķernieku ielas RIMI pakomāts", "city": "Rīga", "postal": "LV-9933", "address": "Biķernieku iela 160 k-6"}
+{"carrier": "OMNIVA", "name": "Siguldas T/C Šokolāde pakomāts", "city": "Sigulda", "postal": "LV-9932", "address": "Strēlnieku iela 2"}
+{"carrier": "OMNIVA", "name": "Ludzas Stacijas ielas 30 pakomāts", "city": "Ludza", "postal": "LV-9985", "address": "Stacijas iela 30"}
+{"carrier": "OMNIVA", "name": "Kuldīgas Sūru ielas RIMI pakomāts", "city": "Kuldīga", "postal": "LV-9930", "address": "Sūru iela 2"}
